@@ -3,12 +3,27 @@ import mlbtour
 
 def main():
     tosee = mlbtour.allballparks  # see them all.
-    tour = mlbtour.MLBTour(tosee)
+    startgame = 381
+    tour = mlbtour.MLBTour(startgame, tosee)
     if can_find_shortest_path(tour):
-        print tour.gamelog
+        "BEST PATH: {}".format(tour.gamelog)
+    print "LONGEST PATH ACHIEVED: {}".format(tour.longest)
 
 
 def can_find_shortest_path(tour):
+    # for moment, just sees if there IS a path
+    if tour.seen_em_all():
+        return True
+    possibilities = tour.possible_games()
+    if not possibilities:
+        return False
+    startat = tour.location
+    for game in possibilities:
+        tour.see_game(game)
+        if can_find_shortest_path(tour):
+            return True
+        # else take back move
+        tour.unsee_game(game)
     return False
 
 
