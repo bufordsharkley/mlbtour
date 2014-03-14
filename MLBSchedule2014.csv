@@ -1,0 +1,2430 @@
+1,2014,3,22,4:00am,Dodgers,D-backs
+2,2014,3,22,10:00pm,Dodgers,D-backs
+3,2014,3,30,8:05pm,Dodgers,Padres
+4,2014,3,31,1:05pm,Cubs,Pirates
+5,2014,3,31,1:08pm,Royals,Tigers
+6,2014,3,31,1:10pm,Nationals,Mets
+7,2014,3,31,2:05pm,Phillies,Rangers
+8,2014,3,31,2:10pm,Braves,Brewers
+9,2014,3,31,3:05pm,Red Sox,Orioles
+10,2014,3,31,4:10pm,Twins,White Sox
+11,2014,3,31,4:10pm,Cardinals,Reds
+12,2014,3,31,4:10pm,Blue Jays,Rays
+13,2014,3,31,7:05pm,Rockies,Marlins
+14,2014,3,31,9:40pm,Giants,D-backs
+15,2014,3,31,10:05pm,Indians,Athletics
+16,2014,3,31,10:05pm,Mariners,Angels
+17,2014,4,1,6:40pm,Dodgers,Padres
+18,2014,4,1,7:10pm,Rockies,Marlins
+19,2014,4,1,7:10pm,Yankees,Astros
+20,2014,4,1,7:10pm,Blue Jays,Rays
+21,2014,4,1,8:05pm,Phillies,Rangers
+22,2014,4,1,8:10pm,Braves,Brewers
+23,2014,4,1,9:40pm,Giants,D-backs
+24,2014,4,1,10:05pm,Indians,Athletics
+25,2014,4,1,10:05pm,Mariners,Angels
+26,2014,4,2,1:08pm,Royals,Tigers
+27,2014,4,2,1:10pm,Braves,Brewers
+28,2014,4,2,2:10pm,Twins,White Sox
+29,2014,4,2,3:35pm,Indians,Athletics
+30,2014,4,2,7:05pm,Red Sox,Orioles
+31,2014,4,2,7:05pm,Cubs,Pirates
+32,2014,4,2,7:10pm,Rockies,Marlins
+33,2014,4,2,7:10pm,Cardinals,Reds
+34,2014,4,2,7:10pm,Blue Jays,Rays
+35,2014,4,2,7:10pm,Nationals,Mets
+36,2014,4,2,8:05pm,Phillies,Rangers
+37,2014,4,2,8:10pm,Yankees,Astros
+38,2014,4,2,9:40pm,Giants,D-backs
+39,2014,4,2,10:05pm,Mariners,Angels
+40,2014,4,2,10:10pm,Dodgers,Padres
+41,2014,4,3,12:35pm,Cubs,Pirates
+42,2014,4,3,12:35pm,Cardinals,Reds
+43,2014,4,3,12:40pm,Rockies,Marlins
+44,2014,4,3,1:08pm,Royals,Tigers
+45,2014,4,3,1:10pm,Nationals,Mets
+46,2014,4,3,2:10pm,Twins,White Sox
+47,2014,4,3,3:40pm,Giants,D-backs
+48,2014,4,3,7:05pm,Red Sox,Orioles
+49,2014,4,3,7:10pm,Blue Jays,Rays
+50,2014,4,3,8:10pm,Yankees,Astros
+51,2014,4,3,10:05pm,Mariners,Athletics
+52,2014,4,4,1:05pm,Braves,Nationals
+53,2014,4,4,1:08pm,Orioles,Tigers
+54,2014,4,4,2:05pm,Brewers,Red Sox
+55,2014,4,4,2:20pm,Phillies,Cubs
+56,2014,4,4,3:05pm,Twins,Indians
+57,2014,4,4,4:10pm,D-backs,Rockies
+58,2014,4,4,4:10pm,White Sox,Royals
+59,2014,4,4,4:10pm,Giants,Dodgers
+60,2014,4,4,7:05pm,Cardinals,Pirates
+61,2014,4,4,7:07pm,Yankees,Blue Jays
+62,2014,4,4,7:10pm,Reds,Mets
+63,2014,4,4,7:10pm,Padres,Marlins
+64,2014,4,4,7:10pm,Rangers,Rays
+65,2014,4,4,8:10pm,Angels,Astros
+66,2014,4,4,10:05pm,Mariners,Athletics
+67,2014,4,5,1:05pm,Twins,Indians
+68,2014,4,5,1:07pm,Yankees,Blue Jays
+69,2014,4,5,1:08pm,Orioles,Tigers
+70,2014,4,5,1:10pm,Reds,Mets
+71,2014,4,5,2:10pm,White Sox,Royals
+72,2014,4,5,2:20pm,Phillies,Cubs
+73,2014,4,5,4:05pm,Mariners,Athletics
+74,2014,4,5,4:10pm,Giants,Dodgers
+75,2014,4,5,7:05pm,Braves,Nationals
+76,2014,4,5,7:05pm,Cardinals,Pirates
+77,2014,4,5,7:10pm,Angels,Astros
+78,2014,4,5,7:10pm,Brewers,Red Sox
+79,2014,4,5,7:10pm,Padres,Marlins
+80,2014,4,5,7:10pm,Rangers,Rays
+81,2014,4,5,8:10pm,D-backs,Rockies
+82,2014,4,6,1:05pm,Twins,Indians
+83,2014,4,6,1:07pm,Yankees,Blue Jays
+84,2014,4,6,1:08pm,Orioles,Tigers
+85,2014,4,6,1:10pm,Reds,Mets
+86,2014,4,6,1:10pm,Padres,Marlins
+87,2014,4,6,1:35pm,Braves,Nationals
+88,2014,4,6,1:35pm,Brewers,Red Sox
+89,2014,4,6,1:35pm,Cardinals,Pirates
+90,2014,4,6,1:40pm,Rangers,Rays
+91,2014,4,6,2:10pm,Angels,Astros
+92,2014,4,6,2:10pm,White Sox,Royals
+93,2014,4,6,2:20pm,Phillies,Cubs
+94,2014,4,6,4:05pm,Mariners,Athletics
+95,2014,4,6,4:10pm,D-backs,Rockies
+96,2014,4,6,8:00pm,Giants,Dodgers
+97,2014,4,7,1:05pm,Orioles,Yankees
+98,2014,4,7,2:10pm,Angels,Astros
+99,2014,4,7,3:05pm,Brewers,Phillies
+100,2014,4,7,4:10pm,Athletics,Twins
+101,2014,4,7,4:15pm,Reds,Cardinals
+102,2014,4,7,7:05pm,Padres,Indians
+103,2014,4,7,7:10pm,Rangers,Red Sox
+104,2014,4,7,8:10pm,Rays,Royals
+105,2014,4,7,8:40pm,White Sox,Rockies
+106,2014,4,8,1:05pm,Orioles,Yankees
+107,2014,4,8,4:35pm,D-backs,Giants
+108,2014,4,8,6:10pm,Rangers,Red Sox
+109,2014,4,8,7:05pm,Marlins,Nationals
+110,2014,4,8,7:05pm,Padres,Indians
+111,2014,4,8,7:07pm,Astros,Blue Jays
+112,2014,4,8,7:10pm,Mets,Braves
+113,2014,4,8,8:05pm,Pirates,Cubs
+114,2014,4,8,8:10pm,Rays,Royals
+115,2014,4,8,8:15pm,Reds,Cardinals
+116,2014,4,8,8:40pm,White Sox,Rockies
+117,2014,4,8,10:10pm,Angels,Mariners
+118,2014,4,8,10:10pm,Tigers,Dodgers
+119,2014,4,9,12:05pm,Padres,Indians
+120,2014,4,9,1:10pm,Athletics,Twins
+121,2014,4,9,1:45pm,Reds,Cardinals
+122,2014,4,9,2:10pm,Rays,Royals
+123,2014,4,9,3:10pm,White Sox,Rockies
+124,2014,4,9,4:05pm,Rangers,Red Sox
+125,2014,4,9,7:05pm,Orioles,Yankees
+126,2014,4,9,7:05pm,Marlins,Nationals
+127,2014,4,9,7:05pm,Brewers,Phillies
+128,2014,4,9,7:07pm,Astros,Blue Jays
+129,2014,4,9,7:10pm,Mets,Braves
+130,2014,4,9,8:05pm,Pirates,Cubs
+131,2014,4,9,10:10pm,Angels,Mariners
+132,2014,4,9,10:10pm,Tigers,Dodgers
+133,2014,4,9,10:15pm,D-backs,Giants
+134,2014,4,10,1:10pm,Athletics,Twins
+135,2014,4,10,2:20pm,Pirates,Cubs
+136,2014,4,10,4:05pm,Marlins,Nationals
+137,2014,4,10,7:05pm,Red Sox,Yankees
+138,2014,4,10,7:05pm,Brewers,Phillies
+139,2014,4,10,7:07pm,Astros,Blue Jays
+140,2014,4,10,7:10pm,Mets,Braves
+141,2014,4,10,8:10pm,Indians,White Sox
+142,2014,4,10,10:15pm,D-backs,Giants
+143,2014,4,11,7:05pm,Red Sox,Yankees
+144,2014,4,11,7:05pm,Marlins,Phillies
+145,2014,4,11,7:05pm,Blue Jays,Orioles
+146,2014,4,11,7:10pm,Rays,Reds
+147,2014,4,11,7:35pm,Nationals,Braves
+148,2014,4,11,8:05pm,Astros,Rangers
+149,2014,4,11,8:10pm,Indians,White Sox
+150,2014,4,11,8:10pm,Royals,Twins
+151,2014,4,11,8:10pm,Pirates,Brewers
+152,2014,4,11,8:15pm,Cubs,Cardinals
+153,2014,4,11,9:40pm,Dodgers,D-backs
+154,2014,4,11,10:05pm,Mets,Angels
+155,2014,4,11,10:10pm,Tigers,Padres
+156,2014,4,11,10:10pm,Athletics,Mariners
+157,2014,4,11,10:15pm,Rockies,Giants
+158,2014,4,12,1:05pm,Red Sox,Yankees
+159,2014,4,12,1:10pm,Rays,Reds
+160,2014,4,12,2:10pm,Indians,White Sox
+161,2014,4,12,2:10pm,Royals,Twins
+162,2014,4,12,2:15pm,Cubs,Cardinals
+163,2014,4,12,4:05pm,Rockies,Giants
+164,2014,4,12,7:05pm,Marlins,Phillies
+165,2014,4,12,7:05pm,Blue Jays,Orioles
+166,2014,4,12,7:10pm,Pirates,Brewers
+167,2014,4,12,7:10pm,Nationals,Braves
+168,2014,4,12,8:05pm,Astros,Rangers
+169,2014,4,12,8:10pm,Dodgers,D-backs
+170,2014,4,12,8:40pm,Tigers,Padres
+171,2014,4,12,9:05pm,Mets,Angels
+172,2014,4,12,9:10pm,Athletics,Mariners
+173,2014,4,13,1:10pm,Rays,Reds
+174,2014,4,13,1:35pm,Marlins,Phillies
+175,2014,4,13,1:35pm,Blue Jays,Orioles
+176,2014,4,13,1:35pm,Nationals,Braves
+177,2014,4,13,2:10pm,Indians,White Sox
+178,2014,4,13,2:10pm,Royals,Twins
+179,2014,4,13,2:10pm,Pirates,Brewers
+180,2014,4,13,2:15pm,Cubs,Cardinals
+181,2014,4,13,3:05pm,Astros,Rangers
+182,2014,4,13,3:35pm,Mets,Angels
+183,2014,4,13,4:05pm,Rockies,Giants
+184,2014,4,13,4:10pm,Tigers,Padres
+185,2014,4,13,4:10pm,Dodgers,D-backs
+186,2014,4,13,4:10pm,Athletics,Mariners
+187,2014,4,13,8:05pm,Red Sox,Yankees
+188,2014,4,14,7:05pm,Braves,Phillies
+189,2014,4,14,7:05pm,Rays,Orioles
+190,2014,4,14,7:10pm,Pirates,Reds
+191,2014,4,14,7:10pm,Nationals,Marlins
+192,2014,4,14,8:05pm,Mariners,Rangers
+193,2014,4,14,8:10pm,Cardinals,Brewers
+194,2014,4,14,9:40pm,Mets,D-backs
+195,2014,4,14,10:05pm,Athletics,Angels
+196,2014,4,14,10:10pm,Rockies,Padres
+197,2014,4,15,7:05pm,Braves,Phillies
+198,2014,4,15,7:05pm,Cubs,Yankees
+199,2014,4,15,7:05pm,Rays,Orioles
+200,2014,4,15,7:08pm,Indians,Tigers
+201,2014,4,15,7:10pm,Pirates,Reds
+202,2014,4,15,7:10pm,Nationals,Marlins
+203,2014,4,15,8:05pm,Mariners,Rangers
+204,2014,4,15,8:10pm,Red Sox,White Sox
+205,2014,4,15,8:10pm,Royals,Astros
+206,2014,4,15,8:10pm,Cardinals,Brewers
+207,2014,4,15,8:10pm,Blue Jays,Twins
+208,2014,4,15,9:40pm,Mets,D-backs
+209,2014,4,15,10:05pm,Athletics,Angels
+210,2014,4,15,10:10pm,Rockies,Padres
+211,2014,4,15,10:15pm,Dodgers,Giants
+212,2014,4,16,12:35pm,Pirates,Reds
+213,2014,4,16,12:35pm,Rays,Orioles
+214,2014,4,16,1:10pm,Cardinals,Brewers
+215,2014,4,16,3:40pm,Mets,D-backs
+216,2014,4,16,7:05pm,Braves,Phillies
+217,2014,4,16,7:05pm,Cubs,Yankees
+218,2014,4,16,7:08pm,Indians,Tigers
+219,2014,4,16,7:10pm,Nationals,Marlins
+220,2014,4,16,8:05pm,Mariners,Rangers
+221,2014,4,16,8:10pm,Red Sox,White Sox
+222,2014,4,16,8:10pm,Royals,Astros
+223,2014,4,16,8:10pm,Blue Jays,Twins
+224,2014,4,16,10:05pm,Athletics,Angels
+225,2014,4,16,10:10pm,Rockies,Padres
+226,2014,4,16,10:15pm,Dodgers,Giants
+227,2014,4,17,1:05pm,Braves,Phillies
+228,2014,4,17,1:08pm,Indians,Tigers
+229,2014,4,17,1:10pm,Blue Jays,Twins
+230,2014,4,17,2:05pm,Mariners,Rangers
+231,2014,4,17,3:45pm,Dodgers,Giants
+232,2014,4,17,6:40pm,Rockies,Padres
+233,2014,4,17,7:05pm,Brewers,Pirates
+234,2014,4,17,7:05pm,Cardinals,Nationals
+235,2014,4,17,7:10pm,Yankees,Rays
+236,2014,4,17,8:10pm,Red Sox,White Sox
+237,2014,4,17,8:10pm,Royals,Astros
+238,2014,4,18,2:20pm,Reds,Cubs
+239,2014,4,18,7:05pm,Brewers,Pirates
+240,2014,4,18,7:05pm,Cardinals,Nationals
+241,2014,4,18,7:05pm,Blue Jays,Indians
+242,2014,4,18,7:08pm,Angels,Tigers
+243,2014,4,18,7:10pm,Braves,Mets
+244,2014,4,18,7:10pm,Orioles,Red Sox
+245,2014,4,18,7:10pm,Yankees,Rays
+246,2014,4,18,7:10pm,Mariners,Marlins
+247,2014,4,18,8:05pm,White Sox,Rangers
+248,2014,4,18,8:10pm,Twins,Royals
+249,2014,4,18,8:40pm,Phillies,Rockies
+250,2014,4,18,10:05pm,Astros,Athletics
+251,2014,4,18,10:10pm,D-backs,Dodgers
+252,2014,4,18,10:10pm,Giants,Padres
+253,2014,4,19,1:05pm,Cardinals,Nationals
+254,2014,4,19,1:05pm,Blue Jays,Indians
+255,2014,4,19,1:08pm,Angels,Tigers
+256,2014,4,19,1:35pm,Orioles,Red Sox
+257,2014,4,19,2:10pm,Twins,Royals
+258,2014,4,19,2:20pm,Reds,Cubs
+259,2014,4,19,4:05pm,Astros,Athletics
+260,2014,4,19,7:05pm,Brewers,Pirates
+261,2014,4,19,7:10pm,Braves,Mets
+262,2014,4,19,7:10pm,Yankees,Rays
+263,2014,4,19,7:10pm,Mariners,Marlins
+264,2014,4,19,8:05pm,White Sox,Rangers
+265,2014,4,19,8:10pm,D-backs,Dodgers
+266,2014,4,19,8:10pm,Phillies,Rockies
+267,2014,4,19,8:40pm,Giants,Padres
+268,2014,4,20,1:05pm,Blue Jays,Indians
+269,2014,4,20,1:08pm,Angels,Tigers
+270,2014,4,20,1:10pm,Braves,Mets
+271,2014,4,20,1:10pm,Mariners,Marlins
+272,2014,4,20,1:35pm,Brewers,Pirates
+273,2014,4,20,1:35pm,Cardinals,Nationals
+274,2014,4,20,1:40pm,Yankees,Rays
+275,2014,4,20,2:10pm,Twins,Royals
+276,2014,4,20,2:20pm,Reds,Cubs
+277,2014,4,20,3:05pm,White Sox,Rangers
+278,2014,4,20,4:05pm,Astros,Athletics
+279,2014,4,20,4:10pm,D-backs,Dodgers
+280,2014,4,20,4:10pm,Phillies,Rockies
+281,2014,4,20,4:10pm,Giants,Padres
+282,2014,4,20,7:05pm,Orioles,Red Sox
+283,2014,4,21,11:05am,Orioles,Red Sox
+284,2014,4,21,7:05pm,Angels,Nationals
+285,2014,4,21,7:05pm,Reds,Pirates
+286,2014,4,21,7:05pm,Royals,Indians
+287,2014,4,21,7:08pm,White Sox,Tigers
+288,2014,4,21,7:10pm,Marlins,Braves
+289,2014,4,21,7:10pm,Cardinals,Mets
+290,2014,4,21,8:05pm,D-backs,Cubs
+291,2014,4,21,8:10pm,Padres,Brewers
+292,2014,4,21,8:40pm,Giants,Rockies
+293,2014,4,21,10:05pm,Rangers,Athletics
+294,2014,4,21,10:10pm,Astros,Mariners
+295,2014,4,21,10:10pm,Phillies,Dodgers
+296,2014,4,22,7:05pm,Angels,Nationals
+297,2014,4,22,7:05pm,Reds,Pirates
+298,2014,4,22,7:05pm,Royals,Indians
+299,2014,4,22,7:07pm,Orioles,Blue Jays
+300,2014,4,22,7:08pm,White Sox,Tigers
+301,2014,4,22,7:10pm,Marlins,Braves
+302,2014,4,22,7:10pm,Twins,Rays
+303,2014,4,22,7:10pm,Yankees,Red Sox
+304,2014,4,22,7:10pm,Cardinals,Mets
+305,2014,4,22,8:05pm,D-backs,Cubs
+306,2014,4,22,8:10pm,Padres,Brewers
+307,2014,4,22,8:40pm,Giants,Rockies
+308,2014,4,22,10:05pm,Rangers,Athletics
+309,2014,4,22,10:10pm,Astros,Mariners
+310,2014,4,22,10:10pm,Phillies,Dodgers
+311,2014,4,23,12:10pm,Marlins,Braves
+312,2014,4,23,2:20pm,D-backs,Cubs
+313,2014,4,23,3:10pm,Giants,Rockies
+314,2014,4,23,3:35pm,Rangers,Athletics
+315,2014,4,23,3:40pm,Astros,Mariners
+316,2014,4,23,7:05pm,Angels,Nationals
+317,2014,4,23,7:05pm,Reds,Pirates
+318,2014,4,23,7:05pm,Royals,Indians
+319,2014,4,23,7:07pm,Orioles,Blue Jays
+320,2014,4,23,7:08pm,White Sox,Tigers
+321,2014,4,23,7:10pm,Twins,Rays
+322,2014,4,23,7:10pm,Yankees,Red Sox
+323,2014,4,23,7:10pm,Cardinals,Mets
+324,2014,4,23,8:10pm,Padres,Brewers
+325,2014,4,23,10:10pm,Phillies,Dodgers
+326,2014,4,24,12:05pm,Royals,Indians
+327,2014,4,24,12:35pm,Reds,Pirates
+328,2014,4,24,1:08pm,White Sox,Tigers
+329,2014,4,24,1:10pm,Twins,Rays
+330,2014,4,24,1:10pm,Cardinals,Mets
+331,2014,4,24,2:20pm,D-backs,Cubs
+332,2014,4,24,7:05pm,Padres,Nationals
+333,2014,4,24,7:07pm,Orioles,Blue Jays
+334,2014,4,24,7:10pm,Yankees,Red Sox
+335,2014,4,24,8:10pm,Athletics,Astros
+336,2014,4,24,10:10pm,Phillies,Dodgers
+337,2014,4,25,7:05pm,Angels,Yankees
+338,2014,4,25,7:05pm,Royals,Orioles
+339,2014,4,25,7:05pm,Padres,Nationals
+340,2014,4,25,7:07pm,Red Sox,Blue Jays
+341,2014,4,25,7:10pm,Marlins,Mets
+342,2014,4,25,7:35pm,Reds,Braves
+343,2014,4,25,8:10pm,Cubs,Brewers
+344,2014,4,25,8:10pm,Tigers,Twins
+345,2014,4,25,8:10pm,Athletics,Astros
+346,2014,4,25,8:10pm,Rays,White Sox
+347,2014,4,25,8:15pm,Pirates,Cardinals
+348,2014,4,25,9:40pm,Phillies,D-backs
+349,2014,4,25,10:10pm,Rockies,Dodgers
+350,2014,4,25,10:10pm,Rangers,Mariners
+351,2014,4,25,10:15pm,Indians,Giants
+352,2014,4,26,1:05pm,Angels,Yankees
+353,2014,4,26,1:05pm,Padres,Nationals
+354,2014,4,26,1:07pm,Red Sox,Blue Jays
+355,2014,4,26,2:10pm,Tigers,Twins
+356,2014,4,26,4:05pm,Indians,Giants
+357,2014,4,26,4:05pm,Pirates,Cardinals
+358,2014,4,26,7:05pm,Royals,Orioles
+359,2014,4,26,7:10pm,Cubs,Brewers
+360,2014,4,26,7:10pm,Reds,Braves
+361,2014,4,26,7:10pm,Marlins,Mets
+362,2014,4,26,7:10pm,Athletics,Astros
+363,2014,4,26,7:10pm,Rays,White Sox
+364,2014,4,26,8:10pm,Phillies,D-backs
+365,2014,4,26,9:10pm,Rockies,Dodgers
+366,2014,4,26,9:10pm,Rangers,Mariners
+367,2014,4,27,1:07pm,Red Sox,Blue Jays
+368,2014,4,27,1:10pm,Marlins,Mets
+369,2014,4,27,1:35pm,Reds,Braves
+370,2014,4,27,1:35pm,Royals,Orioles
+371,2014,4,27,1:35pm,Padres,Nationals
+372,2014,4,27,2:10pm,Cubs,Brewers
+373,2014,4,27,2:10pm,Tigers,Twins
+374,2014,4,27,2:10pm,Athletics,Astros
+375,2014,4,27,2:10pm,Rays,White Sox
+376,2014,4,27,2:15pm,Pirates,Cardinals
+377,2014,4,27,4:05pm,Indians,Giants
+378,2014,4,27,4:10pm,Rockies,Dodgers
+379,2014,4,27,4:10pm,Phillies,D-backs
+380,2014,4,27,4:10pm,Rangers,Mariners
+381,2014,4,27,8:05pm,Angels,Yankees
+382,2014,4,28,7:10pm,Cubs,Reds
+383,2014,4,28,8:05pm,Athletics,Rangers
+384,2014,4,28,8:10pm,Rays,White Sox
+385,2014,4,28,8:15pm,Brewers,Cardinals
+386,2014,4,28,9:40pm,Rockies,D-backs
+387,2014,4,28,10:05pm,Indians,Angels
+388,2014,4,28,10:15pm,Padres,Giants
+389,2014,4,29,7:05pm,Mets,Phillies
+390,2014,4,29,7:05pm,Pirates,Orioles
+391,2014,4,29,7:05pm,Mariners,Yankees
+392,2014,4,29,7:10pm,Braves,Marlins
+393,2014,4,29,7:10pm,Cubs,Reds
+394,2014,4,29,7:10pm,Rays,Red Sox
+395,2014,4,29,8:05pm,Athletics,Rangers
+396,2014,4,29,8:10pm,Tigers,White Sox
+397,2014,4,29,8:10pm,Dodgers,Twins
+398,2014,4,29,8:10pm,Blue Jays,Royals
+399,2014,4,29,8:10pm,Nationals,Astros
+400,2014,4,29,8:15pm,Brewers,Cardinals
+401,2014,4,29,9:40pm,Rockies,D-backs
+402,2014,4,29,10:05pm,Indians,Angels
+403,2014,4,29,10:15pm,Padres,Giants
+404,2014,4,30,1:45pm,Brewers,Cardinals
+405,2014,4,30,2:10pm,Tigers,White Sox
+406,2014,4,30,7:05pm,Indians,Angels
+407,2014,4,30,7:05pm,Mets,Phillies
+408,2014,4,30,7:05pm,Pirates,Orioles
+409,2014,4,30,7:05pm,Mariners,Yankees
+410,2014,4,30,7:10pm,Braves,Marlins
+411,2014,4,30,7:10pm,Cubs,Reds
+412,2014,4,30,7:10pm,Rays,Red Sox
+413,2014,4,30,8:05pm,Athletics,Rangers
+414,2014,4,30,8:10pm,Dodgers,Twins
+415,2014,4,30,8:10pm,Blue Jays,Royals
+416,2014,4,30,8:10pm,Nationals,Astros
+417,2014,4,30,9:40pm,Rockies,D-backs
+418,2014,4,30,10:15pm,Padres,Giants
+419,2014,5,1,1:10pm,Dodgers,Twins
+420,2014,5,1,7:05pm,Mariners,Yankees
+421,2014,5,1,7:10pm,Braves,Marlins
+422,2014,5,1,7:10pm,Brewers,Reds
+423,2014,5,1,7:10pm,Rays,Red Sox
+424,2014,5,1,8:10pm,Blue Jays,Royals
+425,2014,5,1,8:40pm,Mets,Rockies
+426,2014,5,2,2:20pm,Cardinals,Cubs
+427,2014,5,2,7:05pm,White Sox,Indians
+428,2014,5,2,7:05pm,Rays,Yankees
+429,2014,5,2,7:05pm,Blue Jays,Pirates
+430,2014,5,2,7:05pm,Nationals,Phillies
+431,2014,5,2,7:10pm,Dodgers,Marlins
+432,2014,5,2,7:10pm,Brewers,Reds
+433,2014,5,2,7:10pm,Athletics,Red Sox
+434,2014,5,2,7:35pm,Giants,Braves
+435,2014,5,2,8:10pm,Orioles,Twins
+436,2014,5,2,8:10pm,Tigers,Royals
+437,2014,5,2,8:10pm,Mariners,Astros
+438,2014,5,2,8:40pm,Mets,Rockies
+439,2014,5,2,10:05pm,Rangers,Angels
+440,2014,5,2,10:10pm,D-backs,Padres
+441,2014,5,3,1:05pm,Cardinals,Cubs
+442,2014,5,3,1:05pm,Rays,Yankees
+443,2014,5,3,1:35pm,Athletics,Red Sox
+444,2014,5,3,2:10pm,Orioles,Twins
+445,2014,5,3,4:10pm,Mariners,Astros
+446,2014,5,3,6:05pm,White Sox,Indians
+447,2014,5,3,7:05pm,Blue Jays,Pirates
+448,2014,5,3,7:05pm,Nationals,Phillies
+449,2014,5,3,7:10pm,Tigers,Royals
+450,2014,5,3,7:10pm,Dodgers,Marlins
+451,2014,5,3,7:10pm,Brewers,Reds
+452,2014,5,3,7:10pm,Giants,Braves
+453,2014,5,3,8:10pm,Mets,Rockies
+454,2014,5,3,8:40pm,D-backs,Padres
+455,2014,5,3,9:05pm,Rangers,Angels
+456,2014,5,4,1:05pm,White Sox,Indians
+457,2014,5,4,1:05pm,Rays,Yankees
+458,2014,5,4,1:10pm,Dodgers,Marlins
+459,2014,5,4,1:35pm,Athletics,Red Sox
+460,2014,5,4,1:35pm,Giants,Braves
+461,2014,5,4,1:35pm,Blue Jays,Pirates
+462,2014,5,4,2:10pm,Orioles,Twins
+463,2014,5,4,2:10pm,Tigers,Royals
+464,2014,5,4,2:10pm,Mariners,Astros
+465,2014,5,4,3:05pm,Nationals,Phillies
+466,2014,5,4,3:35pm,Rangers,Angels
+467,2014,5,4,4:10pm,D-backs,Padres
+468,2014,5,4,4:10pm,Brewers,Reds
+469,2014,5,4,4:10pm,Mets,Rockies
+470,2014,5,4,8:05pm,Cardinals,Cubs
+471,2014,5,5,7:05pm,Dodgers,Nationals
+472,2014,5,5,7:05pm,Twins,Indians
+473,2014,5,5,7:05pm,Giants,Pirates
+474,2014,5,5,7:05pm,Blue Jays,Phillies
+475,2014,5,5,7:08pm,Astros,Tigers
+476,2014,5,5,7:10pm,Mets,Marlins
+477,2014,5,5,7:10pm,Cardinals,Braves
+478,2014,5,5,8:05pm,White Sox,Cubs
+479,2014,5,5,8:10pm,D-backs,Brewers
+480,2014,5,5,8:40pm,Rangers,Rockies
+481,2014,5,5,10:05pm,Yankees,Angels
+482,2014,5,5,10:05pm,Mariners,Athletics
+483,2014,5,5,10:10pm,Royals,Padres
+484,2014,5,6,7:05pm,Dodgers,Nationals
+485,2014,5,6,7:05pm,Twins,Indians
+486,2014,5,6,7:05pm,Giants,Pirates
+487,2014,5,6,7:05pm,Blue Jays,Phillies
+488,2014,5,6,7:08pm,Astros,Tigers
+489,2014,5,6,7:10pm,Orioles,Rays
+490,2014,5,6,7:10pm,Reds,Red Sox
+491,2014,5,6,7:10pm,Mets,Marlins
+492,2014,5,6,7:10pm,Cardinals,Braves
+493,2014,5,6,8:05pm,White Sox,Cubs
+494,2014,5,6,8:10pm,D-backs,Brewers
+495,2014,5,6,8:40pm,Rangers,Rockies
+496,2014,5,6,10:05pm,Yankees,Angels
+497,2014,5,6,10:05pm,Mariners,Athletics
+498,2014,5,6,10:10pm,Royals,Padres
+499,2014,5,7,12:35pm,Giants,Pirates
+500,2014,5,7,12:40pm,Mets,Marlins
+501,2014,5,7,1:05pm,Dodgers,Nationals
+502,2014,5,7,1:10pm,D-backs,Brewers
+503,2014,5,7,3:35pm,Mariners,Athletics
+504,2014,5,7,3:40pm,Royals,Padres
+505,2014,5,7,7:05pm,Twins,Indians
+506,2014,5,7,7:07pm,Phillies,Blue Jays
+507,2014,5,7,7:08pm,Astros,Tigers
+508,2014,5,7,7:10pm,Orioles,Rays
+509,2014,5,7,7:10pm,Reds,Red Sox
+510,2014,5,7,7:10pm,Cardinals,Braves
+511,2014,5,7,8:05pm,Rockies,Rangers
+512,2014,5,7,8:10pm,Cubs,White Sox
+513,2014,5,7,10:05pm,Yankees,Angels
+514,2014,5,8,12:05pm,Twins,Indians
+515,2014,5,8,1:08pm,Astros,Tigers
+516,2014,5,8,7:07pm,Phillies,Blue Jays
+517,2014,5,8,7:10pm,Orioles,Rays
+518,2014,5,8,8:05pm,Rockies,Rangers
+519,2014,5,8,8:10pm,Cubs,White Sox
+520,2014,5,8,10:10pm,Royals,Mariners
+521,2014,5,8,10:10pm,Marlins,Padres
+522,2014,5,8,10:10pm,Giants,Dodgers
+523,2014,5,9,7:05pm,Astros,Orioles
+524,2014,5,9,7:05pm,Cardinals,Pirates
+525,2014,5,9,7:07pm,Angels,Blue Jays
+526,2014,5,9,7:08pm,Twins,Tigers
+527,2014,5,9,7:10pm,Indians,Rays
+528,2014,5,9,7:10pm,Rockies,Reds
+529,2014,5,9,7:10pm,Phillies,Mets
+530,2014,5,9,7:35pm,Cubs,Braves
+531,2014,5,9,8:05pm,Red Sox,Rangers
+532,2014,5,9,8:10pm,D-backs,White Sox
+533,2014,5,9,8:10pm,Yankees,Brewers
+534,2014,5,9,10:05pm,Nationals,Athletics
+535,2014,5,9,10:10pm,Royals,Mariners
+536,2014,5,9,10:10pm,Marlins,Padres
+537,2014,5,9,10:10pm,Giants,Dodgers
+538,2014,5,10,TBD,Astros,Orioles
+539,2014,5,10,1:07pm,Angels,Blue Jays
+540,2014,5,10,1:08pm,Twins,Tigers
+541,2014,5,10,4:10pm,Giants,Dodgers
+542,2014,5,10,7:05pm,Cardinals,Pirates
+543,2014,5,10,7:10pm,D-backs,White Sox
+544,2014,5,10,7:10pm,Cubs,Braves
+545,2014,5,10,7:10pm,Indians,Rays
+546,2014,5,10,7:10pm,Rockies,Reds
+547,2014,5,10,7:10pm,Yankees,Brewers
+548,2014,5,10,7:10pm,Phillies,Mets
+549,2014,5,10,8:05pm,Red Sox,Rangers
+550,2014,5,10,8:40pm,Marlins,Padres
+551,2014,5,10,9:05pm,Nationals,Athletics
+552,2014,5,10,9:10pm,Royals,Mariners
+553,2014,5,11,TBD,Giants,Dodgers
+554,2014,5,11,1:07pm,Angels,Blue Jays
+555,2014,5,11,1:08pm,Twins,Tigers
+556,2014,5,11,1:10pm,Rockies,Reds
+557,2014,5,11,1:10pm,Phillies,Mets
+558,2014,5,11,1:35pm,Cubs,Braves
+559,2014,5,11,1:35pm,Astros,Orioles
+560,2014,5,11,1:40pm,Indians,Rays
+561,2014,5,11,2:10pm,D-backs,White Sox
+562,2014,5,11,2:10pm,Yankees,Brewers
+563,2014,5,11,3:05pm,Red Sox,Rangers
+564,2014,5,11,4:05pm,Nationals,Athletics
+565,2014,5,11,4:10pm,Royals,Mariners
+566,2014,5,11,4:10pm,Marlins,Padres
+567,2014,5,11,8:05pm,Cardinals,Pirates
+568,2014,5,12,7:05pm,Tigers,Orioles
+569,2014,5,12,7:05pm,Mets,Yankees
+570,2014,5,12,7:07pm,Angels,Blue Jays
+571,2014,5,12,8:10pm,Cubs,Cardinals
+572,2014,5,12,8:10pm,Rangers,Astros
+573,2014,5,12,9:40pm,Nationals,D-backs
+574,2014,5,12,10:05pm,White Sox,Athletics
+575,2014,5,12,10:10pm,Marlins,Dodgers
+576,2014,5,12,10:10pm,Rays,Mariners
+577,2014,5,12,10:15pm,Braves,Giants
+578,2014,5,13,7:05pm,Angels,Phillies
+579,2014,5,13,7:05pm,Tigers,Orioles
+580,2014,5,13,7:05pm,Mets,Yankees
+581,2014,5,13,7:07pm,Indians,Blue Jays
+582,2014,5,13,7:10pm,Padres,Reds
+583,2014,5,13,8:10pm,Red Sox,Twins
+584,2014,5,13,8:10pm,Rockies,Royals
+585,2014,5,13,8:10pm,Pirates,Brewers
+586,2014,5,13,8:10pm,Rangers,Astros
+587,2014,5,13,8:15pm,Cubs,Cardinals
+588,2014,5,13,9:40pm,Nationals,D-backs
+589,2014,5,13,10:05pm,White Sox,Athletics
+590,2014,5,13,10:10pm,Marlins,Dodgers
+591,2014,5,13,10:10pm,Rays,Mariners
+592,2014,5,13,10:15pm,Braves,Giants
+593,2014,5,14,12:35pm,Tigers,Orioles
+594,2014,5,14,1:05pm,Angels,Phillies
+595,2014,5,14,2:10pm,Rockies,Royals
+596,2014,5,14,3:35pm,White Sox,Athletics
+597,2014,5,14,3:40pm,Rays,Mariners
+598,2014,5,14,3:40pm,Nationals,D-backs
+599,2014,5,14,3:45pm,Braves,Giants
+600,2014,5,14,7:07pm,Indians,Blue Jays
+601,2014,5,14,7:10pm,Yankees,Mets
+602,2014,5,14,7:10pm,Padres,Reds
+603,2014,5,14,8:10pm,Red Sox,Twins
+604,2014,5,14,8:10pm,Pirates,Brewers
+605,2014,5,14,8:10pm,Rangers,Astros
+606,2014,5,14,8:15pm,Cubs,Cardinals
+607,2014,5,14,10:10pm,Marlins,Dodgers
+608,2014,5,15,12:35pm,Padres,Reds
+609,2014,5,15,1:10pm,Red Sox,Twins
+610,2014,5,15,1:10pm,Pirates,Brewers
+611,2014,5,15,1:45pm,Cubs,Cardinals
+612,2014,5,15,7:07pm,Indians,Blue Jays
+613,2014,5,15,7:10pm,Yankees,Mets
+614,2014,5,15,8:10pm,Orioles,Royals
+615,2014,5,15,10:05pm,Rays,Angels
+616,2014,5,15,10:15pm,Marlins,Giants
+617,2014,5,16,2:20pm,Brewers,Cubs
+618,2014,5,16,7:05pm,Reds,Phillies
+619,2014,5,16,7:05pm,Mets,Nationals
+620,2014,5,16,7:05pm,Athletics,Indians
+621,2014,5,16,7:05pm,Pirates,Yankees
+622,2014,5,16,7:10pm,Tigers,Red Sox
+623,2014,5,16,8:05pm,Blue Jays,Rangers
+624,2014,5,16,8:10pm,Orioles,Royals
+625,2014,5,16,8:10pm,White Sox,Astros
+626,2014,5,16,8:10pm,Mariners,Twins
+627,2014,5,16,8:15pm,Braves,Cardinals
+628,2014,5,16,8:40pm,Padres,Rockies
+629,2014,5,16,9:40pm,Dodgers,D-backs
+630,2014,5,16,10:05pm,Rays,Angels
+631,2014,5,16,10:15pm,Marlins,Giants
+632,2014,5,17,2:15pm,Braves,Cardinals
+633,2014,5,17,2:20pm,Brewers,Cubs
+634,2014,5,17,4:05pm,Mets,Nationals
+635,2014,5,17,4:05pm,Pirates,Yankees
+636,2014,5,17,4:10pm,White Sox,Astros
+637,2014,5,17,7:05pm,Reds,Phillies
+638,2014,5,17,7:05pm,Athletics,Indians
+639,2014,5,17,7:10pm,Orioles,Royals
+640,2014,5,17,7:10pm,Tigers,Red Sox
+641,2014,5,17,7:10pm,Mariners,Twins
+642,2014,5,17,8:05pm,Blue Jays,Rangers
+643,2014,5,17,8:10pm,Dodgers,D-backs
+644,2014,5,17,8:10pm,Padres,Rockies
+645,2014,5,17,9:05pm,Marlins,Giants
+646,2014,5,17,9:05pm,Rays,Angels
+647,2014,5,18,1:05pm,Athletics,Indians
+648,2014,5,18,1:05pm,Pirates,Yankees
+649,2014,5,18,1:35pm,Reds,Phillies
+650,2014,5,18,1:35pm,Mets,Nationals
+651,2014,5,18,2:10pm,Orioles,Royals
+652,2014,5,18,2:10pm,White Sox,Astros
+653,2014,5,18,2:10pm,Mariners,Twins
+654,2014,5,18,2:15pm,Braves,Cardinals
+655,2014,5,18,2:20pm,Brewers,Cubs
+656,2014,5,18,3:05pm,Blue Jays,Rangers
+657,2014,5,18,3:35pm,Rays,Angels
+658,2014,5,18,4:05pm,Marlins,Giants
+659,2014,5,18,4:10pm,Dodgers,D-backs
+660,2014,5,18,4:10pm,Padres,Rockies
+661,2014,5,18,8:05pm,Tigers,Red Sox
+662,2014,5,19,7:05pm,Reds,Nationals
+663,2014,5,19,7:05pm,Tigers,Indians
+664,2014,5,19,7:10pm,Brewers,Braves
+665,2014,5,19,8:10pm,White Sox,Royals
+666,2014,5,19,10:05pm,Astros,Angels
+667,2014,5,20,7:05pm,Orioles,Pirates
+668,2014,5,20,7:05pm,Reds,Nationals
+669,2014,5,20,7:05pm,Tigers,Indians
+670,2014,5,20,7:10pm,Dodgers,Mets
+671,2014,5,20,7:10pm,Brewers,Braves
+672,2014,5,20,7:10pm,Athletics,Rays
+673,2014,5,20,7:10pm,Phillies,Marlins
+674,2014,5,20,7:10pm,Blue Jays,Red Sox
+675,2014,5,20,8:05pm,Yankees,Cubs
+676,2014,5,20,8:05pm,Mariners,Rangers
+677,2014,5,20,8:10pm,White Sox,Royals
+678,2014,5,20,8:15pm,D-backs,Cardinals
+679,2014,5,20,8:40pm,Giants,Rockies
+680,2014,5,20,10:05pm,Astros,Angels
+681,2014,5,20,10:10pm,Twins,Padres
+682,2014,5,21,12:05pm,Tigers,Indians
+683,2014,5,21,2:05pm,Mariners,Rangers
+684,2014,5,21,2:20pm,Yankees,Cubs
+685,2014,5,21,4:05pm,Reds,Nationals
+686,2014,5,21,7:05pm,Orioles,Pirates
+687,2014,5,21,7:10pm,Dodgers,Mets
+688,2014,5,21,7:10pm,Brewers,Braves
+689,2014,5,21,7:10pm,Athletics,Rays
+690,2014,5,21,7:10pm,Phillies,Marlins
+691,2014,5,21,7:10pm,Blue Jays,Red Sox
+692,2014,5,21,8:10pm,White Sox,Royals
+693,2014,5,21,8:15pm,D-backs,Cardinals
+694,2014,5,21,8:40pm,Giants,Rockies
+695,2014,5,21,10:05pm,Astros,Angels
+696,2014,5,21,10:10pm,Twins,Padres
+697,2014,5,22,12:40pm,Phillies,Marlins
+698,2014,5,22,1:08pm,Rangers,Tigers
+699,2014,5,22,3:10pm,Giants,Rockies
+700,2014,5,22,4:05pm,Blue Jays,Red Sox
+701,2014,5,22,4:10pm,Athletics,Rays
+702,2014,5,22,7:05pm,Indians,Orioles
+703,2014,5,22,7:05pm,Nationals,Pirates
+704,2014,5,22,7:10pm,Dodgers,Mets
+705,2014,5,22,7:10pm,Brewers,Braves
+706,2014,5,22,7:15pm,D-backs,Cardinals
+707,2014,5,22,8:10pm,Yankees,White Sox
+708,2014,5,22,10:10pm,Cubs,Padres
+709,2014,5,22,10:10pm,Astros,Mariners
+710,2014,5,23,7:05pm,Indians,Orioles
+711,2014,5,23,7:05pm,Dodgers,Phillies
+712,2014,5,23,7:05pm,Nationals,Pirates
+713,2014,5,23,7:07pm,Athletics,Blue Jays
+714,2014,5,23,7:08pm,Rangers,Tigers
+715,2014,5,23,7:10pm,D-backs,Mets
+716,2014,5,23,7:10pm,Red Sox,Rays
+717,2014,5,23,7:10pm,Brewers,Marlins
+718,2014,5,23,7:10pm,Cardinals,Reds
+719,2014,5,23,7:35pm,Rockies,Braves
+720,2014,5,23,8:10pm,Yankees,White Sox
+721,2014,5,23,10:05pm,Royals,Angels
+722,2014,5,23,10:10pm,Cubs,Padres
+723,2014,5,23,10:10pm,Astros,Mariners
+724,2014,5,23,10:15pm,Twins,Giants
+725,2014,5,24,TBD,Indians,Orioles
+726,2014,5,24,1:07pm,Athletics,Blue Jays
+727,2014,5,24,2:10pm,Yankees,White Sox
+728,2014,5,24,3:05pm,Dodgers,Phillies
+729,2014,5,24,4:08pm,Rangers,Tigers
+730,2014,5,24,4:10pm,D-backs,Mets
+731,2014,5,24,4:10pm,Red Sox,Rays
+732,2014,5,24,4:10pm,Rockies,Braves
+733,2014,5,24,4:10pm,Brewers,Marlins
+734,2014,5,24,7:15pm,Royals,Angels
+735,2014,5,24,7:15pm,Cardinals,Reds
+736,2014,5,24,7:15pm,Nationals,Pirates
+737,2014,5,24,10:05pm,Twins,Giants
+738,2014,5,24,10:10pm,Cubs,Padres
+739,2014,5,24,10:10pm,Astros,Mariners
+740,2014,5,25,1:07pm,Athletics,Blue Jays
+741,2014,5,25,1:08pm,Rangers,Tigers
+742,2014,5,25,1:10pm,D-backs,Mets
+743,2014,5,25,1:10pm,Brewers,Marlins
+744,2014,5,25,1:35pm,Indians,Orioles
+745,2014,5,25,1:35pm,Dodgers,Phillies
+746,2014,5,25,1:35pm,Nationals,Pirates
+747,2014,5,25,1:40pm,Red Sox,Rays
+748,2014,5,25,2:10pm,Yankees,White Sox
+749,2014,5,25,3:35pm,Royals,Angels
+750,2014,5,25,4:05pm,Twins,Giants
+751,2014,5,25,4:10pm,Cubs,Padres
+752,2014,5,25,4:10pm,Astros,Mariners
+753,2014,5,25,5:10pm,Rockies,Braves
+754,2014,5,25,8:05pm,Cardinals,Reds
+755,2014,5,26,1:10pm,Red Sox,Braves
+756,2014,5,26,1:10pm,Pirates,Mets
+757,2014,5,26,1:35pm,Marlins,Nationals
+758,2014,5,26,2:10pm,Orioles,Brewers
+759,2014,5,26,2:10pm,Indians,White Sox
+760,2014,5,26,2:10pm,Rangers,Twins
+761,2014,5,26,4:05pm,Cubs,Giants
+762,2014,5,26,4:05pm,Tigers,Athletics
+763,2014,5,26,4:10pm,Angels,Mariners
+764,2014,5,26,4:15pm,Yankees,Cardinals
+765,2014,5,26,5:05pm,Rockies,Phillies
+766,2014,5,26,7:07pm,Rays,Blue Jays
+767,2014,5,26,8:10pm,Reds,Dodgers
+768,2014,5,26,8:10pm,Astros,Royals
+769,2014,5,26,8:10pm,Padres,D-backs
+770,2014,5,27,7:05pm,Rockies,Phillies
+771,2014,5,27,7:05pm,Marlins,Nationals
+772,2014,5,27,7:07pm,Rays,Blue Jays
+773,2014,5,27,7:10pm,Red Sox,Braves
+774,2014,5,27,7:10pm,Pirates,Mets
+775,2014,5,27,8:10pm,Orioles,Brewers
+776,2014,5,27,8:10pm,Indians,White Sox
+777,2014,5,27,8:10pm,Astros,Royals
+778,2014,5,27,8:10pm,Rangers,Twins
+779,2014,5,27,8:15pm,Yankees,Cardinals
+780,2014,5,27,9:40pm,Padres,D-backs
+781,2014,5,27,10:05pm,Tigers,Athletics
+782,2014,5,27,10:10pm,Angels,Mariners
+783,2014,5,27,10:10pm,Reds,Dodgers
+784,2014,5,27,10:15pm,Cubs,Giants
+785,2014,5,28,1:10pm,Pirates,Mets
+786,2014,5,28,2:10pm,Astros,Royals
+787,2014,5,28,3:45pm,Cubs,Giants
+788,2014,5,28,7:05pm,Rockies,Phillies
+789,2014,5,28,7:05pm,Marlins,Nationals
+790,2014,5,28,7:07pm,Rays,Blue Jays
+791,2014,5,28,7:10pm,Braves,Red Sox
+792,2014,5,28,8:10pm,Orioles,Brewers
+793,2014,5,28,8:10pm,Indians,White Sox
+794,2014,5,28,8:10pm,Rangers,Twins
+795,2014,5,28,8:15pm,Yankees,Cardinals
+796,2014,5,28,9:40pm,Padres,D-backs
+797,2014,5,28,10:05pm,Tigers,Athletics
+798,2014,5,28,10:10pm,Angels,Mariners
+799,2014,5,28,10:10pm,Reds,Dodgers
+800,2014,5,29,1:10pm,Rangers,Twins
+801,2014,5,29,3:35pm,Tigers,Athletics
+802,2014,5,29,7:05pm,Mets,Phillies
+803,2014,5,29,7:07pm,Royals,Blue Jays
+804,2014,5,29,7:10pm,Braves,Red Sox
+805,2014,5,29,8:10pm,Orioles,Astros
+806,2014,5,29,8:15pm,Giants,Cardinals
+807,2014,5,29,9:40pm,Reds,D-backs
+808,2014,5,29,10:10pm,Angels,Mariners
+809,2014,5,29,10:10pm,Pirates,Dodgers
+810,2014,5,30,7:05pm,Rockies,Indians
+811,2014,5,30,7:05pm,Twins,Yankees
+812,2014,5,30,7:05pm,Mets,Phillies
+813,2014,5,30,7:05pm,Rangers,Nationals
+814,2014,5,30,7:07pm,Royals,Blue Jays
+815,2014,5,30,7:10pm,Braves,Marlins
+816,2014,5,30,7:10pm,Rays,Red Sox
+817,2014,5,30,8:10pm,Orioles,Astros
+818,2014,5,30,8:10pm,Cubs,Brewers
+819,2014,5,30,8:10pm,Padres,White Sox
+820,2014,5,30,8:15pm,Giants,Cardinals
+821,2014,5,30,9:40pm,Reds,D-backs
+822,2014,5,30,10:05pm,Angels,Athletics
+823,2014,5,30,10:10pm,Tigers,Mariners
+824,2014,5,30,10:10pm,Pirates,Dodgers
+825,2014,5,31,TBD,Rockies,Indians
+826,2014,5,31,12:05pm,Rangers,Nationals
+827,2014,5,31,1:05pm,Twins,Yankees
+828,2014,5,31,1:07pm,Royals,Blue Jays
+829,2014,5,31,2:10pm,Padres,White Sox
+830,2014,5,31,2:15pm,Giants,Cardinals
+831,2014,5,31,3:05pm,Mets,Phillies
+832,2014,5,31,4:10pm,Braves,Marlins
+833,2014,5,31,4:10pm,Orioles,Astros
+834,2014,5,31,4:10pm,Cubs,Brewers
+835,2014,5,31,7:15pm,Pirates,Dodgers
+836,2014,5,31,7:15pm,Rays,Red Sox
+837,2014,5,31,10:05pm,Angels,Athletics
+838,2014,5,31,10:10pm,Reds,D-backs
+839,2014,5,31,10:10pm,Tigers,Mariners
+840,2014,6,1,TBD,Pirates,Dodgers
+841,2014,6,1,1:05pm,Rockies,Indians
+842,2014,6,1,1:05pm,Twins,Yankees
+843,2014,6,1,1:07pm,Royals,Blue Jays
+844,2014,6,1,1:10pm,Braves,Marlins
+845,2014,6,1,1:35pm,Mets,Phillies
+846,2014,6,1,1:35pm,Rays,Red Sox
+847,2014,6,1,1:35pm,Rangers,Nationals
+848,2014,6,1,2:10pm,Orioles,Astros
+849,2014,6,1,2:10pm,Cubs,Brewers
+850,2014,6,1,2:10pm,Padres,White Sox
+851,2014,6,1,2:15pm,Giants,Cardinals
+852,2014,6,1,4:05pm,Angels,Athletics
+853,2014,6,1,4:10pm,Reds,D-backs
+854,2014,6,1,4:10pm,Tigers,Mariners
+855,2014,6,2,7:05pm,Red Sox,Indians
+856,2014,6,2,7:10pm,Rays,Marlins
+857,2014,6,2,8:10pm,Royals,Cardinals
+858,2014,6,2,8:10pm,Twins,Brewers
+859,2014,6,2,10:10pm,White Sox,Dodgers
+860,2014,6,2,10:10pm,Pirates,Padres
+861,2014,6,3,7:05pm,Red Sox,Indians
+862,2014,6,3,7:05pm,Athletics,Yankees
+863,2014,6,3,7:05pm,Phillies,Nationals
+864,2014,6,3,7:08pm,Blue Jays,Tigers
+865,2014,6,3,7:10pm,Mariners,Braves
+866,2014,6,3,7:10pm,Giants,Reds
+867,2014,6,3,7:10pm,Rays,Marlins
+868,2014,6,3,7:15pm,Royals,Cardinals
+869,2014,6,3,8:05pm,Orioles,Rangers
+870,2014,6,3,8:05pm,Mets,Cubs
+871,2014,6,3,8:10pm,Angels,Astros
+872,2014,6,3,8:10pm,Twins,Brewers
+873,2014,6,3,8:40pm,D-backs,Rockies
+874,2014,6,3,10:10pm,White Sox,Dodgers
+875,2014,6,3,10:10pm,Pirates,Padres
+876,2014,6,4,12:10pm,Mariners,Braves
+877,2014,6,4,6:40pm,Pirates,Padres
+878,2014,6,4,7:05pm,Red Sox,Indians
+879,2014,6,4,7:05pm,Athletics,Yankees
+880,2014,6,4,7:05pm,Phillies,Nationals
+881,2014,6,4,7:08pm,Blue Jays,Tigers
+882,2014,6,4,7:10pm,Marlins,Rays
+883,2014,6,4,7:10pm,Giants,Reds
+884,2014,6,4,8:05pm,Orioles,Rangers
+885,2014,6,4,8:05pm,Mets,Cubs
+886,2014,6,4,8:10pm,Angels,Astros
+887,2014,6,4,8:10pm,Brewers,Twins
+888,2014,6,4,8:10pm,Cardinals,Royals
+889,2014,6,4,8:40pm,D-backs,Rockies
+890,2014,6,4,10:10pm,White Sox,Dodgers
+891,2014,6,5,12:35pm,Giants,Reds
+892,2014,6,5,1:05pm,Athletics,Yankees
+893,2014,6,5,1:08pm,Blue Jays,Tigers
+894,2014,6,5,4:05pm,Phillies,Nationals
+895,2014,6,5,4:10pm,Marlins,Rays
+896,2014,6,5,7:05pm,Mets,Cubs
+897,2014,6,5,7:10pm,Angels,Astros
+898,2014,6,5,8:05pm,Orioles,Rangers
+899,2014,6,5,8:10pm,Brewers,Twins
+900,2014,6,5,8:10pm,Cardinals,Royals
+901,2014,6,5,8:40pm,D-backs,Rockies
+902,2014,6,6,4:05pm,Marlins,Cubs
+903,2014,6,6,7:05pm,Brewers,Pirates
+904,2014,6,6,7:05pm,Athletics,Orioles
+905,2014,6,6,7:07pm,Cardinals,Blue Jays
+906,2014,6,6,7:08pm,Red Sox,Tigers
+907,2014,6,6,7:10pm,Phillies,Reds
+908,2014,6,6,7:10pm,Mariners,Rays
+909,2014,6,6,8:05pm,Indians,Rangers
+910,2014,6,6,8:10pm,Astros,Twins
+911,2014,6,6,8:10pm,Yankees,Royals
+912,2014,6,6,8:40pm,Dodgers,Rockies
+913,2014,6,6,9:40pm,Braves,D-backs
+914,2014,6,6,10:05pm,White Sox,Angels
+915,2014,6,6,10:10pm,Nationals,Padres
+916,2014,6,6,10:15pm,Mets,Giants
+917,2014,6,7,1:07pm,Cardinals,Blue Jays
+918,2014,6,7,2:10pm,Astros,Twins
+919,2014,6,7,4:05pm,Indians,Rangers
+920,2014,6,7,4:05pm,Marlins,Cubs
+921,2014,6,7,4:05pm,Brewers,Pirates
+922,2014,6,7,4:10pm,Dodgers,Rockies
+923,2014,6,7,4:10pm,Phillies,Reds
+924,2014,6,7,4:10pm,Mariners,Rays
+925,2014,6,7,7:15pm,Red Sox,Tigers
+926,2014,6,7,7:15pm,Yankees,Royals
+927,2014,6,7,7:15pm,Athletics,Orioles
+928,2014,6,7,10:05pm,White Sox,Angels
+929,2014,6,7,10:05pm,Mets,Giants
+930,2014,6,7,10:10pm,Braves,D-backs
+931,2014,6,7,10:10pm,Nationals,Padres
+932,2014,6,8,1:07pm,Cardinals,Blue Jays
+933,2014,6,8,1:08pm,Red Sox,Tigers
+934,2014,6,8,1:10pm,Phillies,Reds
+935,2014,6,8,1:35pm,Brewers,Pirates
+936,2014,6,8,1:35pm,Athletics,Orioles
+937,2014,6,8,1:40pm,Mariners,Rays
+938,2014,6,8,2:10pm,Astros,Twins
+939,2014,6,8,2:10pm,Yankees,Royals
+940,2014,6,8,2:20pm,Marlins,Cubs
+941,2014,6,8,3:05pm,Indians,Rangers
+942,2014,6,8,3:35pm,White Sox,Angels
+943,2014,6,8,4:05pm,Mets,Giants
+944,2014,6,8,4:10pm,Braves,D-backs
+945,2014,6,8,4:10pm,Dodgers,Rockies
+946,2014,6,8,4:10pm,Nationals,Padres
+947,2014,6,9,1:10pm,Mariners,Rays
+948,2014,6,9,7:05pm,Red Sox,Orioles
+949,2014,6,9,7:05pm,Cubs,Pirates
+950,2014,6,9,7:07pm,Twins,Blue Jays
+951,2014,6,9,7:10pm,Dodgers,Reds
+952,2014,6,9,8:05pm,Indians,Rangers
+953,2014,6,9,8:10pm,Tigers,White Sox
+954,2014,6,9,8:10pm,Yankees,Royals
+955,2014,6,9,8:40pm,Braves,Rockies
+956,2014,6,9,9:40pm,Astros,D-backs
+957,2014,6,9,10:05pm,Athletics,Angels
+958,2014,6,9,10:15pm,Nationals,Giants
+959,2014,6,10,3:40pm,Astros,D-backs
+960,2014,6,10,7:05pm,Red Sox,Orioles
+961,2014,6,10,7:05pm,Cubs,Pirates
+962,2014,6,10,7:05pm,Padres,Phillies
+963,2014,6,10,7:07pm,Twins,Blue Jays
+964,2014,6,10,7:10pm,Dodgers,Reds
+965,2014,6,10,7:10pm,Brewers,Mets
+966,2014,6,10,7:10pm,Cardinals,Rays
+967,2014,6,10,8:05pm,Marlins,Rangers
+968,2014,6,10,8:10pm,Indians,Royals
+969,2014,6,10,8:10pm,Tigers,White Sox
+970,2014,6,10,8:40pm,Braves,Rockies
+971,2014,6,10,10:05pm,Athletics,Angels
+972,2014,6,10,10:10pm,Yankees,Mariners
+973,2014,6,10,10:15pm,Nationals,Giants
+974,2014,6,11,12:37pm,Twins,Blue Jays
+975,2014,6,11,2:10pm,Indians,Royals
+976,2014,6,11,7:05pm,Red Sox,Orioles
+977,2014,6,11,7:05pm,Cubs,Pirates
+978,2014,6,11,7:05pm,Padres,Phillies
+979,2014,6,11,7:10pm,Dodgers,Reds
+980,2014,6,11,7:10pm,Brewers,Mets
+981,2014,6,11,7:10pm,Cardinals,Rays
+982,2014,6,11,8:05pm,Marlins,Rangers
+983,2014,6,11,8:10pm,D-backs,Astros
+984,2014,6,11,8:10pm,Tigers,White Sox
+985,2014,6,11,8:40pm,Braves,Rockies
+986,2014,6,11,10:05pm,Athletics,Angels
+987,2014,6,11,10:10pm,Yankees,Mariners
+988,2014,6,11,10:15pm,Nationals,Giants
+989,2014,6,12,12:35pm,Dodgers,Reds
+990,2014,6,12,1:05pm,Padres,Phillies
+991,2014,6,12,3:10pm,Braves,Rockies
+992,2014,6,12,3:45pm,Nationals,Giants
+993,2014,6,12,7:05pm,Cubs,Pirates
+994,2014,6,12,7:05pm,Blue Jays,Orioles
+995,2014,6,12,7:10pm,Indians,Red Sox
+996,2014,6,12,7:10pm,Brewers,Mets
+997,2014,6,12,8:10pm,D-backs,Astros
+998,2014,6,12,8:10pm,Tigers,White Sox
+999,2014,6,12,10:10pm,Yankees,Mariners
+1000,2014,6,13,7:05pm,Cubs,Phillies
+1001,2014,6,13,7:05pm,Blue Jays,Orioles
+1002,2014,6,13,7:08pm,Twins,Tigers
+1003,2014,6,13,7:10pm,Indians,Red Sox
+1004,2014,6,13,7:10pm,Pirates,Marlins
+1005,2014,6,13,7:10pm,Padres,Mets
+1006,2014,6,13,7:35pm,Angels,Braves
+1007,2014,6,13,8:10pm,Reds,Brewers
+1008,2014,6,13,8:10pm,Royals,White Sox
+1009,2014,6,13,8:10pm,Rays,Astros
+1010,2014,6,13,8:15pm,Nationals,Cardinals
+1011,2014,6,13,10:05pm,Yankees,Athletics
+1012,2014,6,13,10:10pm,D-backs,Dodgers
+1013,2014,6,13,10:10pm,Rangers,Mariners
+1014,2014,6,13,10:15pm,Rockies,Giants
+1015,2014,6,14,2:10pm,Royals,White Sox
+1016,2014,6,14,3:05pm,Cubs,Phillies
+1017,2014,6,14,4:05pm,Indians,Red Sox
+1018,2014,6,14,4:05pm,Rockies,Giants
+1019,2014,6,14,4:05pm,Blue Jays,Orioles
+1020,2014,6,14,4:08pm,Twins,Tigers
+1021,2014,6,14,4:10pm,Pirates,Marlins
+1022,2014,6,14,4:10pm,Padres,Mets
+1023,2014,6,14,4:10pm,Rays,Astros
+1024,2014,6,14,7:15pm,Angels,Braves
+1025,2014,6,14,7:15pm,Reds,Brewers
+1026,2014,6,14,7:15pm,Nationals,Cardinals
+1027,2014,6,14,10:05pm,Yankees,Athletics
+1028,2014,6,14,10:10pm,D-backs,Dodgers
+1029,2014,6,14,10:10pm,Rangers,Mariners
+1030,2014,6,15,1:08pm,Twins,Tigers
+1031,2014,6,15,1:10pm,Pirates,Marlins
+1032,2014,6,15,1:10pm,Padres,Mets
+1033,2014,6,15,1:35pm,Angels,Braves
+1034,2014,6,15,1:35pm,Cubs,Phillies
+1035,2014,6,15,1:35pm,Indians,Red Sox
+1036,2014,6,15,1:35pm,Blue Jays,Orioles
+1037,2014,6,15,2:10pm,Reds,Brewers
+1038,2014,6,15,2:10pm,Royals,White Sox
+1039,2014,6,15,2:10pm,Rays,Astros
+1040,2014,6,15,2:15pm,Nationals,Cardinals
+1041,2014,6,15,4:05pm,Rockies,Giants
+1042,2014,6,15,4:05pm,Yankees,Athletics
+1043,2014,6,15,4:10pm,D-backs,Dodgers
+1044,2014,6,15,4:10pm,Rangers,Mariners
+1045,2014,6,16,7:05pm,Angels,Indians
+1046,2014,6,16,7:08pm,Royals,Tigers
+1047,2014,6,16,7:10pm,Orioles,Rays
+1048,2014,6,16,7:10pm,Cubs,Marlins
+1049,2014,6,16,7:10pm,Twins,Red Sox
+1050,2014,6,16,7:10pm,Phillies,Braves
+1051,2014,6,16,8:10pm,Mets,Cardinals
+1052,2014,6,16,9:40pm,Brewers,D-backs
+1053,2014,6,16,10:05pm,Rangers,Athletics
+1054,2014,6,16,10:10pm,Rockies,Dodgers
+1055,2014,6,16,10:10pm,Padres,Mariners
+1056,2014,6,17,3:40pm,Padres,Mariners
+1057,2014,6,17,7:05pm,Angels,Indians
+1058,2014,6,17,7:05pm,Reds,Pirates
+1059,2014,6,17,7:05pm,Astros,Nationals
+1060,2014,6,17,7:05pm,Blue Jays,Yankees
+1061,2014,6,17,7:08pm,Royals,Tigers
+1062,2014,6,17,7:10pm,Orioles,Rays
+1063,2014,6,17,7:10pm,Cubs,Marlins
+1064,2014,6,17,7:10pm,Twins,Red Sox
+1065,2014,6,17,7:10pm,Phillies,Braves
+1066,2014,6,17,8:10pm,Giants,White Sox
+1067,2014,6,17,8:15pm,Mets,Cardinals
+1068,2014,6,17,9:40pm,Brewers,D-backs
+1069,2014,6,17,10:05pm,Rangers,Athletics
+1070,2014,6,17,10:10pm,Rockies,Dodgers
+1071,2014,6,18,12:10pm,Phillies,Braves
+1072,2014,6,18,12:40pm,Cubs,Marlins
+1073,2014,6,18,1:08pm,Royals,Tigers
+1074,2014,6,18,1:10pm,Orioles,Rays
+1075,2014,6,18,1:35pm,Twins,Red Sox
+1076,2014,6,18,1:45pm,Mets,Cardinals
+1077,2014,6,18,2:10pm,Giants,White Sox
+1078,2014,6,18,3:35pm,Rangers,Athletics
+1079,2014,6,18,7:05pm,Angels,Indians
+1080,2014,6,18,7:05pm,Reds,Pirates
+1081,2014,6,18,7:05pm,Astros,Nationals
+1082,2014,6,18,7:05pm,Blue Jays,Yankees
+1083,2014,6,18,9:40pm,Brewers,D-backs
+1084,2014,6,18,10:10pm,Rockies,Dodgers
+1085,2014,6,18,10:10pm,Mariners,Padres
+1086,2014,6,19,12:05pm,Angels,Indians
+1087,2014,6,19,12:35pm,Reds,Pirates
+1088,2014,6,19,3:40pm,Brewers,D-backs
+1089,2014,6,19,6:40pm,Mariners,Padres
+1090,2014,6,19,7:05pm,Braves,Nationals
+1091,2014,6,19,7:05pm,Blue Jays,Yankees
+1092,2014,6,19,7:10pm,Astros,Rays
+1093,2014,6,19,7:10pm,Mets,Marlins
+1094,2014,6,19,8:10pm,White Sox,Twins
+1095,2014,6,19,8:15pm,Phillies,Cardinals
+1096,2014,6,19,10:05pm,Red Sox,Athletics
+1097,2014,6,20,4:05pm,Pirates,Cubs
+1098,2014,6,20,7:05pm,Braves,Nationals
+1099,2014,6,20,7:05pm,Orioles,Yankees
+1100,2014,6,20,7:05pm,Tigers,Indians
+1101,2014,6,20,7:10pm,Astros,Rays
+1102,2014,6,20,7:10pm,Mets,Marlins
+1103,2014,6,20,7:10pm,Blue Jays,Reds
+1104,2014,6,20,8:10pm,White Sox,Twins
+1105,2014,6,20,8:10pm,Mariners,Royals
+1106,2014,6,20,8:15pm,Phillies,Cardinals
+1107,2014,6,20,8:40pm,Brewers,Rockies
+1108,2014,6,20,9:40pm,Giants,D-backs
+1109,2014,6,20,10:05pm,Red Sox,Athletics
+1110,2014,6,20,10:05pm,Rangers,Angels
+1111,2014,6,20,10:10pm,Dodgers,Padres
+1112,2014,6,21,TBD,Tigers,Indians
+1113,2014,6,21,1:05pm,Orioles,Yankees
+1114,2014,6,21,2:10pm,White Sox,Twins
+1115,2014,6,21,2:10pm,Mariners,Royals
+1116,2014,6,21,4:05pm,Red Sox,Athletics
+1117,2014,6,21,4:10pm,Astros,Rays
+1118,2014,6,21,4:10pm,Brewers,Rockies
+1119,2014,6,21,4:10pm,Mets,Marlins
+1120,2014,6,21,4:10pm,Phillies,Cardinals
+1121,2014,6,21,4:10pm,Blue Jays,Reds
+1122,2014,6,21,7:15pm,Braves,Nationals
+1123,2014,6,21,7:15pm,Pirates,Cubs
+1124,2014,6,21,10:05pm,Rangers,Angels
+1125,2014,6,21,10:10pm,Dodgers,Padres
+1126,2014,6,21,10:10pm,Giants,D-backs
+1127,2014,6,22,TBD,Orioles,Yankees
+1128,2014,6,22,TBD,Rangers,Angels
+1129,2014,6,22,1:05pm,Tigers,Indians
+1130,2014,6,22,1:10pm,Mets,Marlins
+1131,2014,6,22,1:10pm,Blue Jays,Reds
+1132,2014,6,22,1:35pm,Braves,Nationals
+1133,2014,6,22,1:40pm,Astros,Rays
+1134,2014,6,22,2:10pm,White Sox,Twins
+1135,2014,6,22,2:10pm,Mariners,Royals
+1136,2014,6,22,2:15pm,Phillies,Cardinals
+1137,2014,6,22,2:20pm,Pirates,Cubs
+1138,2014,6,22,4:05pm,Red Sox,Athletics
+1139,2014,6,22,4:10pm,Dodgers,Padres
+1140,2014,6,22,4:10pm,Brewers,Rockies
+1141,2014,6,22,4:10pm,Giants,D-backs
+1142,2014,6,23,7:05pm,White Sox,Orioles
+1143,2014,6,23,7:05pm,Marlins,Phillies
+1144,2014,6,23,7:07pm,Yankees,Blue Jays
+1145,2014,6,23,7:10pm,Pirates,Rays
+1146,2014,6,23,8:05pm,Reds,Cubs
+1147,2014,6,23,8:10pm,Dodgers,Royals
+1148,2014,6,23,8:10pm,Nationals,Brewers
+1149,2014,6,23,8:40pm,Cardinals,Rockies
+1150,2014,6,23,10:10pm,Red Sox,Mariners
+1151,2014,6,23,10:15pm,Padres,Giants
+1152,2014,6,24,7:05pm,White Sox,Orioles
+1153,2014,6,24,7:05pm,Marlins,Phillies
+1154,2014,6,24,7:07pm,Yankees,Blue Jays
+1155,2014,6,24,7:10pm,Athletics,Mets
+1156,2014,6,24,7:10pm,Pirates,Rays
+1157,2014,6,24,8:05pm,Reds,Cubs
+1158,2014,6,24,8:05pm,Tigers,Rangers
+1159,2014,6,24,8:10pm,Braves,Astros
+1160,2014,6,24,8:10pm,Dodgers,Royals
+1161,2014,6,24,8:10pm,Nationals,Brewers
+1162,2014,6,24,8:40pm,Cardinals,Rockies
+1163,2014,6,24,9:40pm,Indians,D-backs
+1164,2014,6,24,10:05pm,Twins,Angels
+1165,2014,6,24,10:10pm,Red Sox,Mariners
+1166,2014,6,24,10:15pm,Padres,Giants
+1167,2014,6,25,12:10pm,Pirates,Rays
+1168,2014,6,25,2:10pm,Nationals,Brewers
+1169,2014,6,25,3:10pm,Cardinals,Rockies
+1170,2014,6,25,3:45pm,Padres,Giants
+1171,2014,6,25,7:05pm,White Sox,Orioles
+1172,2014,6,25,7:05pm,Reds,Cubs
+1173,2014,6,25,7:05pm,Marlins,Phillies
+1174,2014,6,25,7:07pm,Yankees,Blue Jays
+1175,2014,6,25,7:10pm,Athletics,Mets
+1176,2014,6,25,8:05pm,Tigers,Rangers
+1177,2014,6,25,8:10pm,Braves,Astros
+1178,2014,6,25,8:10pm,Dodgers,Royals
+1179,2014,6,25,9:40pm,Indians,D-backs
+1180,2014,6,25,10:05pm,Twins,Angels
+1181,2014,6,25,10:10pm,Red Sox,Mariners
+1182,2014,6,26,2:10pm,Braves,Astros
+1183,2014,6,26,3:35pm,Twins,Angels
+1184,2014,6,26,7:05pm,Marlins,Phillies
+1185,2014,6,26,7:05pm,Mets,Pirates
+1186,2014,6,26,7:07pm,White Sox,Blue Jays
+1187,2014,6,26,8:05pm,Tigers,Rangers
+1188,2014,6,26,8:05pm,Nationals,Cubs
+1189,2014,6,26,8:10pm,Rockies,Brewers
+1190,2014,6,26,10:10pm,Cardinals,Dodgers
+1191,2014,6,26,10:15pm,Reds,Giants
+1192,2014,6,27,4:05pm,Nationals,Cubs
+1193,2014,6,27,7:05pm,Braves,Phillies
+1194,2014,6,27,7:05pm,Red Sox,Yankees
+1195,2014,6,27,7:05pm,Mets,Pirates
+1196,2014,6,27,7:05pm,Rays,Orioles
+1197,2014,6,27,7:07pm,White Sox,Blue Jays
+1198,2014,6,27,7:10pm,Athletics,Marlins
+1199,2014,6,27,8:05pm,Twins,Rangers
+1200,2014,6,27,8:10pm,Angels,Royals
+1201,2014,6,27,8:10pm,Rockies,Brewers
+1202,2014,6,27,8:10pm,Tigers,Astros
+1203,2014,6,27,10:10pm,D-backs,Padres
+1204,2014,6,27,10:10pm,Indians,Mariners
+1205,2014,6,27,10:10pm,Cardinals,Dodgers
+1206,2014,6,27,10:15pm,Reds,Giants
+1207,2014,6,28,GM 1: 1:05pm,Nationals,Cubs
+1208,2014,6,28,1:07pm,White Sox,Blue Jays
+1209,2014,6,28,2:10pm,Angels,Royals
+1210,2014,6,28,3:05pm,Braves,Phillies
+1211,2014,6,28,4:05pm,Twins,Rangers
+1212,2014,6,28,4:05pm,Mets,Pirates
+1213,2014,6,28,4:05pm,Rays,Orioles
+1214,2014,6,28,4:10pm,Rockies,Brewers
+1215,2014,6,28,4:10pm,Tigers,Astros
+1216,2014,6,28,4:10pm,Athletics,Marlins
+1217,2014,6,28,7:15pm,Red Sox,Yankees
+1218,2014,6,28,7:15pm,Cardinals,Dodgers
+1219,2014,6,28,GM 2: 7:15pm,Nationals,Cubs
+1220,2014,6,28,10:05pm,Reds,Giants
+1221,2014,6,28,10:10pm,D-backs,Padres
+1222,2014,6,28,10:10pm,Indians,Mariners
+1223,2014,6,29,TBD,Red Sox,Yankees
+1224,2014,6,29,TBD,Cardinals,Dodgers
+1225,2014,6,29,1:07pm,White Sox,Blue Jays
+1226,2014,6,29,1:10pm,Athletics,Marlins
+1227,2014,6,29,1:35pm,Braves,Phillies
+1228,2014,6,29,1:35pm,Mets,Pirates
+1229,2014,6,29,1:35pm,Rays,Orioles
+1230,2014,6,29,2:10pm,Angels,Royals
+1231,2014,6,29,2:10pm,Rockies,Brewers
+1232,2014,6,29,2:10pm,Tigers,Astros
+1233,2014,6,29,3:05pm,Twins,Rangers
+1234,2014,6,29,4:05pm,Reds,Giants
+1235,2014,6,29,4:10pm,D-backs,Padres
+1236,2014,6,29,4:10pm,Indians,Mariners
+1237,2014,6,30,7:05pm,Rockies,Nationals
+1238,2014,6,30,7:05pm,Rays,Yankees
+1239,2014,6,30,7:05pm,Rangers,Orioles
+1240,2014,6,30,7:08pm,Athletics,Tigers
+1241,2014,6,30,7:10pm,Cubs,Red Sox
+1242,2014,6,30,7:10pm,Mets,Braves
+1243,2014,6,30,8:10pm,Angels,White Sox
+1244,2014,6,30,8:10pm,Royals,Twins
+1245,2014,6,30,8:10pm,Mariners,Astros
+1246,2014,6,30,10:10pm,Reds,Padres
+1247,2014,6,30,10:10pm,Indians,Dodgers
+1248,2014,7,1,1:07pm,Brewers,Blue Jays
+1249,2014,7,1,7:05pm,D-backs,Pirates
+1250,2014,7,1,7:05pm,Rockies,Nationals
+1251,2014,7,1,7:05pm,Rays,Yankees
+1252,2014,7,1,7:05pm,Rangers,Orioles
+1253,2014,7,1,7:08pm,Athletics,Tigers
+1254,2014,7,1,7:10pm,Cubs,Red Sox
+1255,2014,7,1,7:10pm,Mets,Braves
+1256,2014,7,1,7:10pm,Phillies,Marlins
+1257,2014,7,1,8:10pm,Angels,White Sox
+1258,2014,7,1,8:10pm,Royals,Twins
+1259,2014,7,1,8:10pm,Mariners,Astros
+1260,2014,7,1,10:10pm,Reds,Padres
+1261,2014,7,1,10:10pm,Indians,Dodgers
+1262,2014,7,1,10:15pm,Cardinals,Giants
+1263,2014,7,2,12:37pm,Brewers,Blue Jays
+1264,2014,7,2,1:05pm,Rays,Yankees
+1265,2014,7,2,1:08pm,Athletics,Tigers
+1266,2014,7,2,1:10pm,Royals,Twins
+1267,2014,7,2,2:10pm,Mariners,Astros
+1268,2014,7,2,3:10pm,Indians,Dodgers
+1269,2014,7,2,3:40pm,Reds,Padres
+1270,2014,7,2,6:05pm,Rockies,Nationals
+1271,2014,7,2,7:05pm,D-backs,Pirates
+1272,2014,7,2,7:05pm,Rangers,Orioles
+1273,2014,7,2,7:10pm,Cubs,Red Sox
+1274,2014,7,2,7:10pm,Mets,Braves
+1275,2014,7,2,7:10pm,Phillies,Marlins
+1276,2014,7,2,8:10pm,Angels,White Sox
+1277,2014,7,2,10:15pm,Cardinals,Giants
+1278,2014,7,3,3:45pm,Cardinals,Giants
+1279,2014,7,3,6:10pm,Phillies,Marlins
+1280,2014,7,3,7:05pm,D-backs,Pirates
+1281,2014,7,3,7:05pm,Rangers,Orioles
+1282,2014,7,3,7:08pm,Rays,Tigers
+1283,2014,7,3,8:10pm,Dodgers,Rockies
+1284,2014,7,3,8:10pm,Yankees,Twins
+1285,2014,7,3,9:05pm,Blue Jays,Athletics
+1286,2014,7,3,10:05pm,Astros,Angels
+1287,2014,7,4,11:05am,Cubs,Nationals
+1288,2014,7,4,1:35pm,Orioles,Red Sox
+1289,2014,7,4,3:10pm,Yankees,Twins
+1290,2014,7,4,4:05pm,Blue Jays,Athletics
+1291,2014,7,4,5:05pm,Phillies,Pirates
+1292,2014,7,4,6:40pm,Giants,Padres
+1293,2014,7,4,7:05pm,Royals,Indians
+1294,2014,7,4,7:08pm,Rays,Tigers
+1295,2014,7,4,7:10pm,Brewers,Reds
+1296,2014,7,4,7:10pm,Mariners,White Sox
+1297,2014,7,4,7:10pm,Rangers,Mets
+1298,2014,7,4,7:15pm,Marlins,Cardinals
+1299,2014,7,4,7:35pm,D-backs,Braves
+1300,2014,7,4,8:10pm,Dodgers,Rockies
+1301,2014,7,4,9:05pm,Astros,Angels
+1302,2014,7,5,TBD,Royals,Indians
+1303,2014,7,5,2:10pm,Yankees,Twins
+1304,2014,7,5,2:10pm,Mariners,White Sox
+1305,2014,7,5,2:15pm,Marlins,Cardinals
+1306,2014,7,5,4:05pm,Cubs,Nationals
+1307,2014,7,5,4:05pm,Phillies,Pirates
+1308,2014,7,5,4:08pm,Rays,Tigers
+1309,2014,7,5,4:10pm,D-backs,Braves
+1310,2014,7,5,4:10pm,Dodgers,Rockies
+1311,2014,7,5,4:10pm,Brewers,Reds
+1312,2014,7,5,7:15pm,Orioles,Red Sox
+1313,2014,7,5,7:15pm,Giants,Padres
+1314,2014,7,5,7:15pm,Rangers,Mets
+1315,2014,7,5,10:05pm,Astros,Angels
+1316,2014,7,5,10:05pm,Blue Jays,Athletics
+1317,2014,7,6,1:05pm,Royals,Indians
+1318,2014,7,6,1:08pm,Rays,Tigers
+1319,2014,7,6,1:10pm,Brewers,Reds
+1320,2014,7,6,1:10pm,Rangers,Mets
+1321,2014,7,6,1:35pm,D-backs,Braves
+1322,2014,7,6,1:35pm,Orioles,Red Sox
+1323,2014,7,6,1:35pm,Cubs,Nationals
+1324,2014,7,6,1:35pm,Phillies,Pirates
+1325,2014,7,6,2:10pm,Yankees,Twins
+1326,2014,7,6,2:10pm,Mariners,White Sox
+1327,2014,7,6,2:15pm,Marlins,Cardinals
+1328,2014,7,6,3:35pm,Astros,Angels
+1329,2014,7,6,4:05pm,Blue Jays,Athletics
+1330,2014,7,6,4:10pm,Dodgers,Rockies
+1331,2014,7,6,4:10pm,Giants,Padres
+1332,2014,7,7,7:05pm,Orioles,Nationals
+1333,2014,7,7,7:05pm,Yankees,Indians
+1334,2014,7,7,7:10pm,Braves,Mets
+1335,2014,7,7,7:10pm,White Sox,Red Sox
+1336,2014,7,7,7:10pm,Cubs,Reds
+1337,2014,7,7,7:10pm,Royals,Rays
+1338,2014,7,7,8:05pm,Astros,Rangers
+1339,2014,7,7,8:10pm,Phillies,Brewers
+1340,2014,7,7,8:15pm,Pirates,Cardinals
+1341,2014,7,7,8:40pm,Padres,Rockies
+1342,2014,7,7,9:40pm,Marlins,D-backs
+1343,2014,7,7,10:05pm,Giants,Athletics
+1344,2014,7,7,10:05pm,Blue Jays,Angels
+1345,2014,7,7,10:10pm,Twins,Mariners
+1346,2014,7,8,7:05pm,Orioles,Nationals
+1347,2014,7,8,7:05pm,Yankees,Indians
+1348,2014,7,8,7:08pm,Dodgers,Tigers
+1349,2014,7,8,7:10pm,Braves,Mets
+1350,2014,7,8,7:10pm,White Sox,Red Sox
+1351,2014,7,8,7:10pm,Cubs,Reds
+1352,2014,7,8,7:10pm,Royals,Rays
+1353,2014,7,8,8:05pm,Astros,Rangers
+1354,2014,7,8,8:10pm,Phillies,Brewers
+1355,2014,7,8,8:15pm,Pirates,Cardinals
+1356,2014,7,8,8:40pm,Padres,Rockies
+1357,2014,7,8,9:40pm,Marlins,D-backs
+1358,2014,7,8,10:05pm,Giants,Athletics
+1359,2014,7,8,10:05pm,Blue Jays,Angels
+1360,2014,7,8,10:10pm,Twins,Mariners
+1361,2014,7,9,1:08pm,Dodgers,Tigers
+1362,2014,7,9,3:10pm,Padres,Rockies
+1363,2014,7,9,3:35pm,Blue Jays,Angels
+1364,2014,7,9,3:40pm,Marlins,D-backs
+1365,2014,7,9,7:05pm,Yankees,Indians
+1366,2014,7,9,7:05pm,Nationals,Orioles
+1367,2014,7,9,7:10pm,Braves,Mets
+1368,2014,7,9,7:10pm,White Sox,Red Sox
+1369,2014,7,9,7:10pm,Cubs,Reds
+1370,2014,7,9,7:10pm,Royals,Rays
+1371,2014,7,9,8:05pm,Astros,Rangers
+1372,2014,7,9,8:10pm,Phillies,Brewers
+1373,2014,7,9,8:15pm,Pirates,Cardinals
+1374,2014,7,9,10:10pm,Twins,Mariners
+1375,2014,7,9,10:15pm,Athletics,Giants
+1376,2014,7,10,12:35pm,Cubs,Reds
+1377,2014,7,10,2:10pm,Phillies,Brewers
+1378,2014,7,10,3:45pm,Athletics,Giants
+1379,2014,7,10,4:05pm,White Sox,Red Sox
+1380,2014,7,10,7:05pm,Yankees,Indians
+1381,2014,7,10,7:05pm,Nationals,Orioles
+1382,2014,7,10,7:10pm,Braves,Mets
+1383,2014,7,10,7:15pm,Pirates,Cardinals
+1384,2014,7,10,8:05pm,Angels,Rangers
+1385,2014,7,10,8:10pm,Tigers,Royals
+1386,2014,7,10,10:10pm,Twins,Mariners
+1387,2014,7,10,10:10pm,Padres,Dodgers
+1388,2014,7,11,4:05pm,Braves,Cubs
+1389,2014,7,11,7:05pm,White Sox,Indians
+1390,2014,7,11,7:05pm,Yankees,Orioles
+1391,2014,7,11,7:05pm,Nationals,Phillies
+1392,2014,7,11,7:10pm,Marlins,Mets
+1393,2014,7,11,7:10pm,Pirates,Reds
+1394,2014,7,11,7:10pm,Blue Jays,Rays
+1395,2014,7,11,8:05pm,Angels,Rangers
+1396,2014,7,11,8:10pm,Red Sox,Astros
+1397,2014,7,11,8:10pm,Tigers,Royals
+1398,2014,7,11,8:10pm,Cardinals,Brewers
+1399,2014,7,11,8:40pm,Twins,Rockies
+1400,2014,7,11,10:10pm,Athletics,Mariners
+1401,2014,7,11,10:10pm,Padres,Dodgers
+1402,2014,7,11,10:15pm,D-backs,Giants
+1403,2014,7,12,TBD,White Sox,Indians
+1404,2014,7,12,4:05pm,D-backs,Giants
+1405,2014,7,12,4:05pm,Braves,Cubs
+1406,2014,7,12,4:05pm,Yankees,Orioles
+1407,2014,7,12,4:10pm,Red Sox,Astros
+1408,2014,7,12,4:10pm,Marlins,Mets
+1409,2014,7,12,4:10pm,Twins,Rockies
+1410,2014,7,12,4:10pm,Cardinals,Brewers
+1411,2014,7,12,4:10pm,Blue Jays,Rays
+1412,2014,7,12,7:10pm,Tigers,Royals
+1413,2014,7,12,7:15pm,Angels,Rangers
+1414,2014,7,12,7:15pm,Pirates,Reds
+1415,2014,7,12,7:15pm,Nationals,Phillies
+1416,2014,7,12,10:10pm,Athletics,Mariners
+1417,2014,7,12,10:10pm,Padres,Dodgers
+1418,2014,7,13,1:05pm,White Sox,Indians
+1419,2014,7,13,1:10pm,Marlins,Mets
+1420,2014,7,13,1:10pm,Pirates,Reds
+1421,2014,7,13,1:35pm,Nationals,Phillies
+1422,2014,7,13,1:40pm,Blue Jays,Rays
+1423,2014,7,13,2:10pm,Red Sox,Astros
+1424,2014,7,13,2:10pm,Tigers,Royals
+1425,2014,7,13,2:10pm,Cardinals,Brewers
+1426,2014,7,13,2:20pm,Braves,Cubs
+1427,2014,7,13,3:05pm,Angels,Rangers
+1428,2014,7,13,4:05pm,D-backs,Giants
+1429,2014,7,13,4:10pm,Twins,Rockies
+1430,2014,7,13,4:10pm,Athletics,Mariners
+1431,2014,7,13,4:10pm,Padres,Dodgers
+1432,2014,7,13,8:05pm,Yankees,Orioles
+1433,2014,7,18,7:05pm,Reds,Yankees
+1434,2014,7,18,7:05pm,Rockies,Pirates
+1435,2014,7,18,7:05pm,Brewers,Nationals
+1436,2014,7,18,7:07pm,Rangers,Blue Jays
+1437,2014,7,18,7:08pm,Indians,Tigers
+1438,2014,7,18,7:10pm,Royals,Red Sox
+1439,2014,7,18,7:10pm,Giants,Marlins
+1440,2014,7,18,7:35pm,Phillies,Braves
+1441,2014,7,18,8:10pm,Astros,White Sox
+1442,2014,7,18,8:10pm,Rays,Twins
+1443,2014,7,18,8:15pm,Dodgers,Cardinals
+1444,2014,7,18,9:40pm,Cubs,D-backs
+1445,2014,7,18,10:05pm,Orioles,Athletics
+1446,2014,7,18,10:05pm,Mariners,Angels
+1447,2014,7,18,10:10pm,Mets,Padres
+1448,2014,7,19,1:05pm,Reds,Yankees
+1449,2014,7,19,1:07pm,Rangers,Blue Jays
+1450,2014,7,19,4:05pm,Dodgers,Cardinals
+1451,2014,7,19,7:05pm,Rockies,Pirates
+1452,2014,7,19,7:05pm,Brewers,Nationals
+1453,2014,7,19,7:08pm,Indians,Tigers
+1454,2014,7,19,7:10pm,Astros,White Sox
+1455,2014,7,19,7:10pm,Royals,Red Sox
+1456,2014,7,19,7:10pm,Phillies,Braves
+1457,2014,7,19,7:10pm,Giants,Marlins
+1458,2014,7,19,7:10pm,Rays,Twins
+1459,2014,7,19,8:10pm,Cubs,D-backs
+1460,2014,7,19,8:40pm,Mets,Padres
+1461,2014,7,19,9:05pm,Orioles,Athletics
+1462,2014,7,19,9:05pm,Mariners,Angels
+1463,2014,7,20,1:05pm,Reds,Yankees
+1464,2014,7,20,1:07pm,Rangers,Blue Jays
+1465,2014,7,20,1:08pm,Indians,Tigers
+1466,2014,7,20,1:10pm,Giants,Marlins
+1467,2014,7,20,1:35pm,Rockies,Pirates
+1468,2014,7,20,1:35pm,Royals,Red Sox
+1469,2014,7,20,1:35pm,Brewers,Nationals
+1470,2014,7,20,1:35pm,Phillies,Braves
+1471,2014,7,20,2:10pm,Astros,White Sox
+1472,2014,7,20,2:10pm,Rays,Twins
+1473,2014,7,20,3:35pm,Mariners,Angels
+1474,2014,7,20,4:05pm,Orioles,Athletics
+1475,2014,7,20,4:10pm,Cubs,D-backs
+1476,2014,7,20,4:10pm,Mets,Padres
+1477,2014,7,20,8:05pm,Dodgers,Cardinals
+1478,2014,7,21,7:05pm,Dodgers,Pirates
+1479,2014,7,21,7:05pm,Giants,Phillies
+1480,2014,7,21,7:05pm,Rangers,Yankees
+1481,2014,7,21,7:07pm,Red Sox,Blue Jays
+1482,2014,7,21,7:10pm,Marlins,Braves
+1483,2014,7,21,8:10pm,Reds,Brewers
+1484,2014,7,21,8:10pm,Indians,Twins
+1485,2014,7,21,8:10pm,Royals,White Sox
+1486,2014,7,21,8:40pm,Nationals,Rockies
+1487,2014,7,21,9:40pm,Tigers,D-backs
+1488,2014,7,21,10:05pm,Orioles,Angels
+1489,2014,7,21,10:10pm,Mets,Mariners
+1490,2014,7,22,7:05pm,Dodgers,Pirates
+1491,2014,7,22,7:05pm,Giants,Phillies
+1492,2014,7,22,7:05pm,Rangers,Yankees
+1493,2014,7,22,7:07pm,Red Sox,Blue Jays
+1494,2014,7,22,7:10pm,Marlins,Braves
+1495,2014,7,22,8:05pm,Padres,Cubs
+1496,2014,7,22,8:10pm,Reds,Brewers
+1497,2014,7,22,8:10pm,Indians,Twins
+1498,2014,7,22,8:10pm,Royals,White Sox
+1499,2014,7,22,8:15pm,Rays,Cardinals
+1500,2014,7,22,8:40pm,Nationals,Rockies
+1501,2014,7,22,9:40pm,Tigers,D-backs
+1502,2014,7,22,10:05pm,Orioles,Angels
+1503,2014,7,22,10:05pm,Astros,Athletics
+1504,2014,7,22,10:10pm,Mets,Mariners
+1505,2014,7,23,1:10pm,Indians,Twins
+1506,2014,7,23,2:10pm,Reds,Brewers
+1507,2014,7,23,2:10pm,Royals,White Sox
+1508,2014,7,23,3:10pm,Nationals,Rockies
+1509,2014,7,23,3:40pm,Tigers,D-backs
+1510,2014,7,23,3:40pm,Mets,Mariners
+1511,2014,7,23,7:05pm,Dodgers,Pirates
+1512,2014,7,23,7:05pm,Giants,Phillies
+1513,2014,7,23,7:05pm,Rangers,Yankees
+1514,2014,7,23,7:07pm,Red Sox,Blue Jays
+1515,2014,7,23,7:10pm,Marlins,Braves
+1516,2014,7,23,7:15pm,Rays,Cardinals
+1517,2014,7,23,8:05pm,Padres,Cubs
+1518,2014,7,23,10:05pm,Orioles,Angels
+1519,2014,7,23,10:05pm,Astros,Athletics
+1520,2014,7,24,12:37pm,Red Sox,Blue Jays
+1521,2014,7,24,1:05pm,Giants,Phillies
+1522,2014,7,24,1:05pm,Rangers,Yankees
+1523,2014,7,24,3:35pm,Astros,Athletics
+1524,2014,7,24,7:10pm,Marlins,Braves
+1525,2014,7,24,8:05pm,Padres,Cubs
+1526,2014,7,24,8:10pm,White Sox,Twins
+1527,2014,7,24,8:10pm,Indians,Royals
+1528,2014,7,24,8:10pm,Mets,Brewers
+1529,2014,7,24,10:05pm,Tigers,Angels
+1530,2014,7,24,10:10pm,Orioles,Mariners
+1531,2014,7,25,4:05pm,Cardinals,Cubs
+1532,2014,7,25,7:05pm,D-backs,Phillies
+1533,2014,7,25,7:05pm,Blue Jays,Yankees
+1534,2014,7,25,7:10pm,Red Sox,Rays
+1535,2014,7,25,7:10pm,Nationals,Reds
+1536,2014,7,25,7:35pm,Padres,Braves
+1537,2014,7,25,8:05pm,Athletics,Rangers
+1538,2014,7,25,8:10pm,White Sox,Twins
+1539,2014,7,25,8:10pm,Indians,Royals
+1540,2014,7,25,8:10pm,Marlins,Astros
+1541,2014,7,25,8:10pm,Mets,Brewers
+1542,2014,7,25,8:40pm,Pirates,Rockies
+1543,2014,7,25,10:05pm,Tigers,Angels
+1544,2014,7,25,10:10pm,Orioles,Mariners
+1545,2014,7,25,10:15pm,Dodgers,Giants
+1546,2014,7,26,1:05pm,Blue Jays,Yankees
+1547,2014,7,26,4:05pm,Cardinals,Cubs
+1548,2014,7,26,4:05pm,Nationals,Reds
+1549,2014,7,26,4:10pm,Orioles,Mariners
+1550,2014,7,26,7:05pm,D-backs,Phillies
+1551,2014,7,26,7:10pm,Red Sox,Rays
+1552,2014,7,26,7:10pm,White Sox,Twins
+1553,2014,7,26,7:10pm,Indians,Royals
+1554,2014,7,26,7:10pm,Marlins,Astros
+1555,2014,7,26,7:10pm,Mets,Brewers
+1556,2014,7,26,7:10pm,Padres,Braves
+1557,2014,7,26,8:05pm,Athletics,Rangers
+1558,2014,7,26,8:10pm,Pirates,Rockies
+1559,2014,7,26,9:05pm,Tigers,Angels
+1560,2014,7,26,9:05pm,Dodgers,Giants
+1561,2014,7,27,TBD,Tigers,Angels
+1562,2014,7,27,TBD,Cardinals,Cubs
+1563,2014,7,27,1:05pm,Blue Jays,Yankees
+1564,2014,7,27,1:10pm,Nationals,Reds
+1565,2014,7,27,1:35pm,D-backs,Phillies
+1566,2014,7,27,1:40pm,Red Sox,Rays
+1567,2014,7,27,2:10pm,White Sox,Twins
+1568,2014,7,27,2:10pm,Indians,Royals
+1569,2014,7,27,2:10pm,Marlins,Astros
+1570,2014,7,27,2:10pm,Mets,Brewers
+1571,2014,7,27,4:05pm,Dodgers,Giants
+1572,2014,7,27,4:10pm,Orioles,Mariners
+1573,2014,7,27,4:10pm,Pirates,Rockies
+1574,2014,7,27,5:05pm,Padres,Braves
+1575,2014,7,27,7:05pm,Athletics,Rangers
+1576,2014,7,28,12:10pm,Padres,Braves
+1577,2014,7,28,7:10pm,D-backs,Reds
+1578,2014,7,28,7:10pm,Brewers,Rays
+1579,2014,7,28,7:10pm,Phillies,Mets
+1580,2014,7,28,7:10pm,Blue Jays,Red Sox
+1581,2014,7,28,7:10pm,Nationals,Marlins
+1582,2014,7,28,8:05pm,Rockies,Cubs
+1583,2014,7,28,8:05pm,Yankees,Rangers
+1584,2014,7,28,8:10pm,Athletics,Astros
+1585,2014,7,28,10:15pm,Pirates,Giants
+1586,2014,7,29,7:05pm,Angels,Orioles
+1587,2014,7,29,7:05pm,Mariners,Indians
+1588,2014,7,29,7:08pm,White Sox,Tigers
+1589,2014,7,29,7:10pm,D-backs,Reds
+1590,2014,7,29,7:10pm,Brewers,Rays
+1591,2014,7,29,7:10pm,Phillies,Mets
+1592,2014,7,29,7:10pm,Blue Jays,Red Sox
+1593,2014,7,29,7:10pm,Nationals,Marlins
+1594,2014,7,29,8:05pm,Rockies,Cubs
+1595,2014,7,29,8:05pm,Yankees,Rangers
+1596,2014,7,29,8:10pm,Twins,Royals
+1597,2014,7,29,8:10pm,Athletics,Astros
+1598,2014,7,29,10:10pm,Braves,Dodgers
+1599,2014,7,29,10:10pm,Cardinals,Padres
+1600,2014,7,29,10:15pm,Pirates,Giants
+1601,2014,7,30,12:10pm,Brewers,Rays
+1602,2014,7,30,12:10pm,Phillies,Mets
+1603,2014,7,30,12:35pm,D-backs,Reds
+1604,2014,7,30,12:40pm,Nationals,Marlins
+1605,2014,7,30,2:10pm,Athletics,Astros
+1606,2014,7,30,3:45pm,Pirates,Giants
+1607,2014,7,30,7:05pm,Angels,Orioles
+1608,2014,7,30,7:05pm,Mariners,Indians
+1609,2014,7,30,7:08pm,White Sox,Tigers
+1610,2014,7,30,7:10pm,Blue Jays,Red Sox
+1611,2014,7,30,8:05pm,Rockies,Cubs
+1612,2014,7,30,8:05pm,Yankees,Rangers
+1613,2014,7,30,8:10pm,Twins,Royals
+1614,2014,7,30,10:10pm,Braves,Dodgers
+1615,2014,7,30,10:10pm,Cardinals,Padres
+1616,2014,7,31,1:08pm,White Sox,Tigers
+1617,2014,7,31,2:20pm,Rockies,Cubs
+1618,2014,7,31,3:40pm,Cardinals,Padres
+1619,2014,7,31,7:05pm,Angels,Orioles
+1620,2014,7,31,7:05pm,Phillies,Nationals
+1621,2014,7,31,7:05pm,Mariners,Indians
+1622,2014,7,31,7:10pm,Reds,Marlins
+1623,2014,7,31,8:10pm,Twins,Royals
+1624,2014,7,31,8:10pm,Blue Jays,Astros
+1625,2014,7,31,9:40pm,Pirates,D-backs
+1626,2014,7,31,10:10pm,Braves,Dodgers
+1627,2014,8,1,7:05pm,Phillies,Nationals
+1628,2014,8,1,7:05pm,Mariners,Orioles
+1629,2014,8,1,7:05pm,Rangers,Indians
+1630,2014,8,1,7:08pm,Rockies,Tigers
+1631,2014,8,1,7:10pm,Angels,Rays
+1632,2014,8,1,7:10pm,Reds,Marlins
+1633,2014,8,1,7:10pm,Yankees,Red Sox
+1634,2014,8,1,7:10pm,Giants,Mets
+1635,2014,8,1,8:10pm,Twins,White Sox
+1636,2014,8,1,8:10pm,Blue Jays,Astros
+1637,2014,8,1,8:15pm,Brewers,Cardinals
+1638,2014,8,1,9:35pm,Royals,Athletics
+1639,2014,8,1,9:40pm,Pirates,D-backs
+1640,2014,8,1,10:10pm,Braves,Padres
+1641,2014,8,1,10:10pm,Cubs,Dodgers
+1642,2014,8,2,4:05pm,Royals,Athletics
+1643,2014,8,2,4:05pm,Yankees,Red Sox
+1644,2014,8,2,7:05pm,Phillies,Nationals
+1645,2014,8,2,7:05pm,Mariners,Orioles
+1646,2014,8,2,7:05pm,Rangers,Indians
+1647,2014,8,2,7:08pm,Rockies,Tigers
+1648,2014,8,2,7:10pm,Angels,Rays
+1649,2014,8,2,7:10pm,Reds,Marlins
+1650,2014,8,2,7:10pm,Twins,White Sox
+1651,2014,8,2,7:10pm,Giants,Mets
+1652,2014,8,2,7:10pm,Blue Jays,Astros
+1653,2014,8,2,7:15pm,Brewers,Cardinals
+1654,2014,8,2,8:10pm,Pirates,D-backs
+1655,2014,8,2,8:40pm,Braves,Padres
+1656,2014,8,2,9:10pm,Cubs,Dodgers
+1657,2014,8,3,TBD,Cubs,Dodgers
+1658,2014,8,3,TBD,Yankees,Red Sox
+1659,2014,8,3,1:05pm,Rangers,Indians
+1660,2014,8,3,1:08pm,Rockies,Tigers
+1661,2014,8,3,1:10pm,Reds,Marlins
+1662,2014,8,3,1:10pm,Giants,Mets
+1663,2014,8,3,1:35pm,Phillies,Nationals
+1664,2014,8,3,1:35pm,Mariners,Orioles
+1665,2014,8,3,1:40pm,Angels,Rays
+1666,2014,8,3,2:10pm,Twins,White Sox
+1667,2014,8,3,2:10pm,Blue Jays,Astros
+1668,2014,8,3,2:15pm,Brewers,Cardinals
+1669,2014,8,3,4:05pm,Royals,Athletics
+1670,2014,8,3,4:10pm,Braves,Padres
+1671,2014,8,3,4:10pm,Pirates,D-backs
+1672,2014,8,4,12:10pm,Giants,Mets
+1673,2014,8,4,7:05pm,Reds,Indians
+1674,2014,8,4,7:05pm,Tigers,Yankees
+1675,2014,8,4,8:10pm,Rangers,White Sox
+1676,2014,8,4,10:05pm,Rays,Athletics
+1677,2014,8,4,10:10pm,Angels,Dodgers
+1678,2014,8,5,7:05pm,Reds,Indians
+1679,2014,8,5,7:05pm,Tigers,Yankees
+1680,2014,8,5,7:05pm,Astros,Phillies
+1681,2014,8,5,7:05pm,Marlins,Pirates
+1682,2014,8,5,7:05pm,Mets,Nationals
+1683,2014,8,5,7:07pm,Orioles,Blue Jays
+1684,2014,8,5,8:10pm,Padres,Twins
+1685,2014,8,5,8:10pm,Giants,Brewers
+1686,2014,8,5,8:10pm,Rangers,White Sox
+1687,2014,8,5,8:15pm,Red Sox,Cardinals
+1688,2014,8,5,8:40pm,Cubs,Rockies
+1689,2014,8,5,9:40pm,Royals,D-backs
+1690,2014,8,5,10:05pm,Rays,Athletics
+1691,2014,8,5,10:10pm,Angels,Dodgers
+1692,2014,8,5,10:10pm,Braves,Mariners
+1693,2014,8,6,1:10pm,Padres,Twins
+1694,2014,8,6,2:10pm,Rangers,White Sox
+1695,2014,8,6,3:35pm,Rays,Athletics
+1696,2014,8,6,3:40pm,Braves,Mariners
+1697,2014,8,6,7:05pm,Tigers,Yankees
+1698,2014,8,6,7:05pm,Astros,Phillies
+1699,2014,8,6,7:05pm,Marlins,Pirates
+1700,2014,8,6,7:05pm,Mets,Nationals
+1701,2014,8,6,7:07pm,Orioles,Blue Jays
+1702,2014,8,6,7:10pm,Indians,Reds
+1703,2014,8,6,8:10pm,Giants,Brewers
+1704,2014,8,6,8:15pm,Red Sox,Cardinals
+1705,2014,8,6,8:40pm,Cubs,Rockies
+1706,2014,8,6,9:40pm,Royals,D-backs
+1707,2014,8,6,10:05pm,Dodgers,Angels
+1708,2014,8,7,12:35pm,Mets,Nationals
+1709,2014,8,7,1:05pm,Tigers,Yankees
+1710,2014,8,7,2:10pm,Giants,Brewers
+1711,2014,8,7,3:10pm,Cubs,Rockies
+1712,2014,8,7,7:05pm,Astros,Phillies
+1713,2014,8,7,7:05pm,Marlins,Pirates
+1714,2014,8,7,7:07pm,Orioles,Blue Jays
+1715,2014,8,7,7:10pm,Indians,Reds
+1716,2014,8,7,7:15pm,Red Sox,Cardinals
+1717,2014,8,7,9:40pm,Royals,D-backs
+1718,2014,8,7,10:05pm,Dodgers,Angels
+1719,2014,8,7,10:05pm,Twins,Athletics
+1720,2014,8,7,10:10pm,White Sox,Mariners
+1721,2014,8,8,4:05pm,Rays,Cubs
+1722,2014,8,8,7:05pm,Indians,Yankees
+1723,2014,8,8,7:05pm,Mets,Phillies
+1724,2014,8,8,7:05pm,Padres,Pirates
+1725,2014,8,8,7:05pm,Cardinals,Orioles
+1726,2014,8,8,7:07pm,Tigers,Blue Jays
+1727,2014,8,8,7:10pm,Marlins,Reds
+1728,2014,8,8,7:35pm,Nationals,Braves
+1729,2014,8,8,8:10pm,Dodgers,Brewers
+1730,2014,8,8,8:10pm,Giants,Royals
+1731,2014,8,8,8:10pm,Rangers,Astros
+1732,2014,8,8,9:40pm,Rockies,D-backs
+1733,2014,8,8,10:05pm,Red Sox,Angels
+1734,2014,8,8,10:05pm,Twins,Athletics
+1735,2014,8,8,10:10pm,White Sox,Mariners
+1736,2014,8,9,1:05pm,Indians,Yankees
+1737,2014,8,9,1:07pm,Tigers,Blue Jays
+1738,2014,8,9,4:05pm,Cardinals,Orioles
+1739,2014,8,9,4:05pm,Rays,Cubs
+1740,2014,8,9,7:05pm,Mets,Phillies
+1741,2014,8,9,7:05pm,Padres,Pirates
+1742,2014,8,9,7:10pm,Dodgers,Brewers
+1743,2014,8,9,7:10pm,Marlins,Reds
+1744,2014,8,9,7:10pm,Giants,Royals
+1745,2014,8,9,7:10pm,Rangers,Astros
+1746,2014,8,9,7:10pm,Nationals,Braves
+1747,2014,8,9,8:10pm,Rockies,D-backs
+1748,2014,8,9,9:05pm,Red Sox,Angels
+1749,2014,8,9,9:05pm,Twins,Athletics
+1750,2014,8,9,9:10pm,White Sox,Mariners
+1751,2014,8,10,TBD,Red Sox,Angels
+1752,2014,8,10,TBD,Indians,Yankees
+1753,2014,8,10,1:07pm,Tigers,Blue Jays
+1754,2014,8,10,1:10pm,Marlins,Reds
+1755,2014,8,10,1:35pm,Mets,Phillies
+1756,2014,8,10,1:35pm,Padres,Pirates
+1757,2014,8,10,1:35pm,Cardinals,Orioles
+1758,2014,8,10,1:35pm,Nationals,Braves
+1759,2014,8,10,2:10pm,Dodgers,Brewers
+1760,2014,8,10,2:10pm,Giants,Royals
+1761,2014,8,10,2:10pm,Rangers,Astros
+1762,2014,8,10,2:20pm,Rays,Cubs
+1763,2014,8,10,4:05pm,Twins,Athletics
+1764,2014,8,10,4:10pm,White Sox,Mariners
+1765,2014,8,10,4:10pm,Rockies,D-backs
+1766,2014,8,11,1:05pm,Mets,Phillies
+1767,2014,8,11,7:05pm,Tigers,Pirates
+1768,2014,8,11,7:05pm,Yankees,Orioles
+1769,2014,8,11,7:10pm,Dodgers,Braves
+1770,2014,8,11,7:10pm,Cardinals,Marlins
+1771,2014,8,11,8:05pm,Brewers,Cubs
+1772,2014,8,11,8:05pm,Rays,Rangers
+1773,2014,8,11,8:10pm,Twins,Astros
+1774,2014,8,11,8:10pm,Athletics,Royals
+1775,2014,8,11,10:10pm,Rockies,Padres
+1776,2014,8,11,10:10pm,Blue Jays,Mariners
+1777,2014,8,12,7:05pm,D-backs,Indians
+1778,2014,8,12,7:05pm,Tigers,Pirates
+1779,2014,8,12,7:05pm,Yankees,Orioles
+1780,2014,8,12,7:10pm,Red Sox,Reds
+1781,2014,8,12,7:10pm,Dodgers,Braves
+1782,2014,8,12,7:10pm,Cardinals,Marlins
+1783,2014,8,12,7:10pm,Nationals,Mets
+1784,2014,8,12,8:05pm,Brewers,Cubs
+1785,2014,8,12,8:05pm,Rays,Rangers
+1786,2014,8,12,8:10pm,Twins,Astros
+1787,2014,8,12,8:10pm,Athletics,Royals
+1788,2014,8,12,10:05pm,Phillies,Angels
+1789,2014,8,12,10:10pm,Rockies,Padres
+1790,2014,8,12,10:10pm,Blue Jays,Mariners
+1791,2014,8,12,10:15pm,White Sox,Giants
+1792,2014,8,13,12:35pm,Red Sox,Reds
+1793,2014,8,13,2:10pm,Twins,Astros
+1794,2014,8,13,3:45pm,White Sox,Giants
+1795,2014,8,13,6:40pm,Rockies,Padres
+1796,2014,8,13,7:05pm,D-backs,Indians
+1797,2014,8,13,7:05pm,Yankees,Orioles
+1798,2014,8,13,7:08pm,Pirates,Tigers
+1799,2014,8,13,7:10pm,Dodgers,Braves
+1800,2014,8,13,7:10pm,Cardinals,Marlins
+1801,2014,8,13,7:10pm,Nationals,Mets
+1802,2014,8,13,8:05pm,Brewers,Cubs
+1803,2014,8,13,8:05pm,Rays,Rangers
+1804,2014,8,13,8:10pm,Athletics,Royals
+1805,2014,8,13,10:05pm,Phillies,Angels
+1806,2014,8,13,10:10pm,Blue Jays,Mariners
+1807,2014,8,14,12:10pm,Dodgers,Braves
+1808,2014,8,14,1:08pm,Pirates,Tigers
+1809,2014,8,14,2:10pm,Athletics,Royals
+1810,2014,8,14,2:20pm,Brewers,Cubs
+1811,2014,8,14,7:10pm,D-backs,Marlins
+1812,2014,8,14,7:10pm,Astros,Red Sox
+1813,2014,8,14,7:10pm,Nationals,Mets
+1814,2014,8,14,8:05pm,Rays,Rangers
+1815,2014,8,14,8:15pm,Padres,Cardinals
+1816,2014,8,14,8:40pm,Reds,Rockies
+1817,2014,8,15,7:05pm,Orioles,Indians
+1818,2014,8,15,7:05pm,Pirates,Nationals
+1819,2014,8,15,7:08pm,Mariners,Tigers
+1820,2014,8,15,7:10pm,D-backs,Marlins
+1821,2014,8,15,7:10pm,Cubs,Mets
+1822,2014,8,15,7:10pm,Astros,Red Sox
+1823,2014,8,15,7:10pm,Yankees,Rays
+1824,2014,8,15,7:35pm,Athletics,Braves
+1825,2014,8,15,8:05pm,Angels,Rangers
+1826,2014,8,15,8:10pm,Royals,Twins
+1827,2014,8,15,8:10pm,Blue Jays,White Sox
+1828,2014,8,15,8:15pm,Padres,Cardinals
+1829,2014,8,15,8:40pm,Reds,Rockies
+1830,2014,8,15,10:10pm,Brewers,Dodgers
+1831,2014,8,15,10:15pm,Phillies,Giants
+1832,2014,8,16,4:05pm,Phillies,Giants
+1833,2014,8,16,4:10pm,Yankees,Rays
+1834,2014,8,16,7:05pm,Orioles,Indians
+1835,2014,8,16,7:05pm,Pirates,Nationals
+1836,2014,8,16,7:08pm,Mariners,Tigers
+1837,2014,8,16,7:10pm,D-backs,Marlins
+1838,2014,8,16,7:10pm,Cubs,Mets
+1839,2014,8,16,7:10pm,Astros,Red Sox
+1840,2014,8,16,7:10pm,Royals,Twins
+1841,2014,8,16,7:10pm,Athletics,Braves
+1842,2014,8,16,7:10pm,Blue Jays,White Sox
+1843,2014,8,16,7:15pm,Padres,Cardinals
+1844,2014,8,16,8:05pm,Angels,Rangers
+1845,2014,8,16,8:10pm,Reds,Rockies
+1846,2014,8,16,9:10pm,Brewers,Dodgers
+1847,2014,8,17,1:05pm,Orioles,Indians
+1848,2014,8,17,1:08pm,Mariners,Tigers
+1849,2014,8,17,1:10pm,D-backs,Marlins
+1850,2014,8,17,1:10pm,Cubs,Mets
+1851,2014,8,17,1:35pm,Astros,Red Sox
+1852,2014,8,17,1:35pm,Athletics,Braves
+1853,2014,8,17,1:40pm,Yankees,Rays
+1854,2014,8,17,2:10pm,Royals,Twins
+1855,2014,8,17,2:10pm,Blue Jays,White Sox
+1856,2014,8,17,2:15pm,Padres,Cardinals
+1857,2014,8,17,3:05pm,Angels,Rangers
+1858,2014,8,17,4:05pm,Phillies,Giants
+1859,2014,8,17,4:10pm,Reds,Rockies
+1860,2014,8,17,4:10pm,Brewers,Dodgers
+1861,2014,8,17,5:05pm,Pirates,Nationals
+1862,2014,8,18,12:10pm,Cubs,Mets
+1863,2014,8,18,7:05pm,D-backs,Nationals
+1864,2014,8,18,7:05pm,Braves,Pirates
+1865,2014,8,18,7:05pm,Mariners,Phillies
+1866,2014,8,18,7:10pm,Angels,Red Sox
+1867,2014,8,18,8:10pm,Orioles,White Sox
+1868,2014,8,18,8:10pm,Royals,Twins
+1869,2014,8,18,8:15pm,Reds,Cardinals
+1870,2014,8,19,7:05pm,D-backs,Nationals
+1871,2014,8,19,7:05pm,Braves,Pirates
+1872,2014,8,19,7:05pm,Astros,Yankees
+1873,2014,8,19,7:05pm,Mariners,Phillies
+1874,2014,8,19,7:10pm,Angels,Red Sox
+1875,2014,8,19,7:10pm,Tigers,Rays
+1876,2014,8,19,7:10pm,Rangers,Marlins
+1877,2014,8,19,8:05pm,Giants,Cubs
+1878,2014,8,19,8:10pm,Orioles,White Sox
+1879,2014,8,19,8:10pm,Indians,Twins
+1880,2014,8,19,8:10pm,Blue Jays,Brewers
+1881,2014,8,19,8:15pm,Reds,Cardinals
+1882,2014,8,19,8:40pm,Royals,Rockies
+1883,2014,8,19,10:05pm,Mets,Athletics
+1884,2014,8,19,10:10pm,Padres,Dodgers
+1885,2014,8,20,12:40pm,Rangers,Marlins
+1886,2014,8,20,1:05pm,Mariners,Phillies
+1887,2014,8,20,2:10pm,Blue Jays,Brewers
+1888,2014,8,20,3:35pm,Mets,Athletics
+1889,2014,8,20,7:05pm,D-backs,Nationals
+1890,2014,8,20,7:05pm,Braves,Pirates
+1891,2014,8,20,7:05pm,Astros,Yankees
+1892,2014,8,20,7:10pm,Angels,Red Sox
+1893,2014,8,20,7:10pm,Tigers,Rays
+1894,2014,8,20,7:15pm,Reds,Cardinals
+1895,2014,8,20,8:05pm,Giants,Cubs
+1896,2014,8,20,8:10pm,Orioles,White Sox
+1897,2014,8,20,8:10pm,Indians,Twins
+1898,2014,8,20,8:40pm,Royals,Rockies
+1899,2014,8,20,10:10pm,Padres,Dodgers
+1900,2014,8,21,1:05pm,Astros,Yankees
+1901,2014,8,21,1:10pm,Indians,Twins
+1902,2014,8,21,1:10pm,Tigers,Rays
+1903,2014,8,21,4:05pm,D-backs,Nationals
+1904,2014,8,21,7:10pm,Angels,Red Sox
+1905,2014,8,21,7:10pm,Braves,Reds
+1906,2014,8,21,8:05pm,Giants,Cubs
+1907,2014,8,21,10:10pm,Padres,Dodgers
+1908,2014,8,22,2:20pm,Orioles,Cubs
+1909,2014,8,22,7:05pm,White Sox,Yankees
+1910,2014,8,22,7:05pm,Astros,Indians
+1911,2014,8,22,7:05pm,Giants,Nationals
+1912,2014,8,22,7:05pm,Cardinals,Phillies
+1913,2014,8,22,7:07pm,Rays,Blue Jays
+1914,2014,8,22,7:10pm,Braves,Reds
+1915,2014,8,22,7:10pm,Mariners,Red Sox
+1916,2014,8,22,8:05pm,Royals,Rangers
+1917,2014,8,22,8:10pm,Tigers,Twins
+1918,2014,8,22,8:10pm,Pirates,Brewers
+1919,2014,8,22,8:40pm,Marlins,Rockies
+1920,2014,8,22,9:40pm,Padres,D-backs
+1921,2014,8,22,10:05pm,Angels,Athletics
+1922,2014,8,22,10:10pm,Mets,Dodgers
+1923,2014,8,23,1:05pm,White Sox,Yankees
+1924,2014,8,23,1:07pm,Rays,Blue Jays
+1925,2014,8,23,1:35pm,Mariners,Red Sox
+1926,2014,8,23,2:20pm,Orioles,Cubs
+1927,2014,8,23,4:05pm,Giants,Nationals
+1928,2014,8,23,7:05pm,Astros,Indians
+1929,2014,8,23,7:05pm,Cardinals,Phillies
+1930,2014,8,23,7:10pm,Braves,Reds
+1931,2014,8,23,7:10pm,Tigers,Twins
+1932,2014,8,23,7:10pm,Pirates,Brewers
+1933,2014,8,23,8:05pm,Royals,Rangers
+1934,2014,8,23,8:10pm,Marlins,Rockies
+1935,2014,8,23,8:10pm,Padres,D-backs
+1936,2014,8,23,9:05pm,Angels,Athletics
+1937,2014,8,23,9:10pm,Mets,Dodgers
+1938,2014,8,24,TBD,White Sox,Yankees
+1939,2014,8,24,1:05pm,Astros,Indians
+1940,2014,8,24,1:07pm,Rays,Blue Jays
+1941,2014,8,24,1:10pm,Braves,Reds
+1942,2014,8,24,1:35pm,Mariners,Red Sox
+1943,2014,8,24,1:35pm,Giants,Nationals
+1944,2014,8,24,1:35pm,Cardinals,Phillies
+1945,2014,8,24,2:10pm,Tigers,Twins
+1946,2014,8,24,2:10pm,Pirates,Brewers
+1947,2014,8,24,2:20pm,Orioles,Cubs
+1948,2014,8,24,3:05pm,Royals,Rangers
+1949,2014,8,24,4:05pm,Angels,Athletics
+1950,2014,8,24,4:10pm,Marlins,Rockies
+1951,2014,8,24,4:10pm,Mets,Dodgers
+1952,2014,8,24,4:10pm,Padres,D-backs
+1953,2014,8,25,7:05pm,Cardinals,Pirates
+1954,2014,8,25,7:05pm,Rays,Orioles
+1955,2014,8,25,7:05pm,Nationals,Phillies
+1956,2014,8,25,7:07pm,Red Sox,Blue Jays
+1957,2014,8,25,8:10pm,Athletics,Astros
+1958,2014,8,25,10:05pm,Marlins,Angels
+1959,2014,8,25,10:10pm,Brewers,Padres
+1960,2014,8,25,10:10pm,Rangers,Mariners
+1961,2014,8,25,10:15pm,Rockies,Giants
+1962,2014,8,26,7:05pm,Cardinals,Pirates
+1963,2014,8,26,7:05pm,Rays,Orioles
+1964,2014,8,26,7:05pm,Nationals,Phillies
+1965,2014,8,26,7:07pm,Red Sox,Blue Jays
+1966,2014,8,26,7:08pm,Yankees,Tigers
+1967,2014,8,26,7:10pm,Braves,Mets
+1968,2014,8,26,7:10pm,Cubs,Reds
+1969,2014,8,26,8:10pm,Indians,White Sox
+1970,2014,8,26,8:10pm,Twins,Royals
+1971,2014,8,26,8:10pm,Athletics,Astros
+1972,2014,8,26,9:40pm,Dodgers,D-backs
+1973,2014,8,26,10:05pm,Marlins,Angels
+1974,2014,8,26,10:10pm,Brewers,Padres
+1975,2014,8,26,10:10pm,Rangers,Mariners
+1976,2014,8,26,10:15pm,Rockies,Giants
+1977,2014,8,27,12:35pm,Cardinals,Pirates
+1978,2014,8,27,3:40pm,Rangers,Mariners
+1979,2014,8,27,7:05pm,Rays,Orioles
+1980,2014,8,27,7:05pm,Nationals,Phillies
+1981,2014,8,27,7:07pm,Red Sox,Blue Jays
+1982,2014,8,27,7:08pm,Yankees,Tigers
+1983,2014,8,27,7:10pm,Braves,Mets
+1984,2014,8,27,7:10pm,Cubs,Reds
+1985,2014,8,27,8:10pm,Indians,White Sox
+1986,2014,8,27,8:10pm,Twins,Royals
+1987,2014,8,27,8:10pm,Athletics,Astros
+1988,2014,8,27,9:40pm,Dodgers,D-backs
+1989,2014,8,27,10:05pm,Marlins,Angels
+1990,2014,8,27,10:10pm,Brewers,Padres
+1991,2014,8,27,10:15pm,Rockies,Giants
+1992,2014,8,28,12:35pm,Cubs,Reds
+1993,2014,8,28,1:08pm,Yankees,Tigers
+1994,2014,8,28,3:45pm,Rockies,Giants
+1995,2014,8,28,7:05pm,Rays,Orioles
+1996,2014,8,28,7:10pm,Braves,Mets
+1997,2014,8,28,8:10pm,Indians,White Sox
+1998,2014,8,28,8:10pm,Twins,Royals
+1999,2014,8,28,8:10pm,Rangers,Astros
+2000,2014,8,28,10:05pm,Athletics,Angels
+2001,2014,8,29,7:05pm,Reds,Pirates
+2002,2014,8,29,7:05pm,Twins,Orioles
+2003,2014,8,29,7:07pm,Yankees,Blue Jays
+2004,2014,8,29,7:10pm,Red Sox,Rays
+2005,2014,8,29,7:10pm,Phillies,Mets
+2006,2014,8,29,7:35pm,Marlins,Braves
+2007,2014,8,29,8:10pm,Indians,Royals
+2008,2014,8,29,8:10pm,Tigers,White Sox
+2009,2014,8,29,8:10pm,Rangers,Astros
+2010,2014,8,29,8:15pm,Cubs,Cardinals
+2011,2014,8,29,9:40pm,Rockies,D-backs
+2012,2014,8,29,10:05pm,Athletics,Angels
+2013,2014,8,29,10:10pm,Dodgers,Padres
+2014,2014,8,29,10:10pm,Nationals,Mariners
+2015,2014,8,29,10:15pm,Brewers,Giants
+2016,2014,8,30,TBD,Twins,Orioles
+2017,2014,8,30,1:07pm,Yankees,Blue Jays
+2018,2014,8,30,4:05pm,Reds,Pirates
+2019,2014,8,30,7:10pm,Red Sox,Rays
+2020,2014,8,30,7:10pm,Indians,Royals
+2021,2014,8,30,7:10pm,Tigers,White Sox
+2022,2014,8,30,7:10pm,Marlins,Braves
+2023,2014,8,30,7:10pm,Phillies,Mets
+2024,2014,8,30,7:10pm,Rangers,Astros
+2025,2014,8,30,7:15pm,Cubs,Cardinals
+2026,2014,8,30,8:10pm,Rockies,D-backs
+2027,2014,8,30,8:40pm,Dodgers,Padres
+2028,2014,8,30,9:05pm,Brewers,Giants
+2029,2014,8,30,9:05pm,Athletics,Angels
+2030,2014,8,30,9:10pm,Nationals,Mariners
+2031,2014,8,31,1:07pm,Yankees,Blue Jays
+2032,2014,8,31,1:10pm,Phillies,Mets
+2033,2014,8,31,1:35pm,Reds,Pirates
+2034,2014,8,31,1:35pm,Twins,Orioles
+2035,2014,8,31,1:40pm,Red Sox,Rays
+2036,2014,8,31,2:10pm,Indians,Royals
+2037,2014,8,31,2:10pm,Tigers,White Sox
+2038,2014,8,31,2:10pm,Rangers,Astros
+2039,2014,8,31,2:15pm,Cubs,Cardinals
+2040,2014,8,31,3:35pm,Athletics,Angels
+2041,2014,8,31,4:05pm,Brewers,Giants
+2042,2014,8,31,4:10pm,Rockies,D-backs
+2043,2014,8,31,4:10pm,Dodgers,Padres
+2044,2014,8,31,4:10pm,Nationals,Mariners
+2045,2014,8,31,5:10pm,Marlins,Braves
+2046,2014,9,1,1:10pm,Red Sox,Rays
+2047,2014,9,1,1:10pm,Mets,Marlins
+2048,2014,9,1,1:10pm,Phillies,Braves
+2049,2014,9,1,1:35pm,Twins,Orioles
+2050,2014,9,1,2:15pm,Pirates,Cardinals
+2051,2014,9,1,2:20pm,Brewers,Cubs
+2052,2014,9,1,4:05pm,Tigers,Indians
+2053,2014,9,1,4:05pm,Mariners,Athletics
+2054,2014,9,1,4:10pm,D-backs,Padres
+2055,2014,9,1,4:10pm,Giants,Rockies
+2056,2014,9,1,8:10pm,Rangers,Royals
+2057,2014,9,1,8:10pm,Nationals,Dodgers
+2058,2014,9,2,7:05pm,Red Sox,Yankees
+2059,2014,9,2,7:05pm,Reds,Orioles
+2060,2014,9,2,7:05pm,Tigers,Indians
+2061,2014,9,2,7:10pm,Mets,Marlins
+2062,2014,9,2,7:10pm,Phillies,Braves
+2063,2014,9,2,7:10pm,Blue Jays,Rays
+2064,2014,9,2,8:05pm,Brewers,Cubs
+2065,2014,9,2,8:10pm,Angels,Astros
+2066,2014,9,2,8:10pm,White Sox,Twins
+2067,2014,9,2,8:10pm,Rangers,Royals
+2068,2014,9,2,8:15pm,Pirates,Cardinals
+2069,2014,9,2,8:40pm,Giants,Rockies
+2070,2014,9,2,10:05pm,Mariners,Athletics
+2071,2014,9,2,10:10pm,D-backs,Padres
+2072,2014,9,2,10:10pm,Nationals,Dodgers
+2073,2014,9,3,12:10pm,Phillies,Braves
+2074,2014,9,3,1:45pm,Pirates,Cardinals
+2075,2014,9,3,3:10pm,Giants,Rockies
+2076,2014,9,3,3:10pm,Nationals,Dodgers
+2077,2014,9,3,3:35pm,Mariners,Athletics
+2078,2014,9,3,7:05pm,Red Sox,Yankees
+2079,2014,9,3,7:05pm,Reds,Orioles
+2080,2014,9,3,7:05pm,Tigers,Indians
+2081,2014,9,3,7:10pm,Mets,Marlins
+2082,2014,9,3,7:10pm,Blue Jays,Rays
+2083,2014,9,3,8:05pm,Brewers,Cubs
+2084,2014,9,3,8:10pm,Angels,Astros
+2085,2014,9,3,8:10pm,White Sox,Twins
+2086,2014,9,3,8:10pm,Rangers,Royals
+2087,2014,9,3,10:05pm,D-backs,Padres
+2088,2014,9,4,7:05pm,Red Sox,Yankees
+2089,2014,9,4,7:05pm,Reds,Orioles
+2090,2014,9,4,7:05pm,Tigers,Indians
+2091,2014,9,4,7:10pm,Blue Jays,Rays
+2092,2014,9,4,8:05pm,Mariners,Rangers
+2093,2014,9,4,8:10pm,Angels,Twins
+2094,2014,9,4,8:10pm,Cardinals,Brewers
+2095,2014,9,4,10:10pm,D-backs,Padres
+2096,2014,9,5,2:20pm,Pirates,Cubs
+2097,2014,9,5,7:05pm,White Sox,Indians
+2098,2014,9,5,7:05pm,Royals,Yankees
+2099,2014,9,5,7:05pm,Phillies,Nationals
+2100,2014,9,5,7:08pm,Giants,Tigers
+2101,2014,9,5,7:10pm,Braves,Marlins
+2102,2014,9,5,7:10pm,Orioles,Rays
+2103,2014,9,5,7:10pm,Mets,Reds
+2104,2014,9,5,7:10pm,Blue Jays,Red Sox
+2105,2014,9,5,8:05pm,Mariners,Rangers
+2106,2014,9,5,8:10pm,Angels,Twins
+2107,2014,9,5,8:10pm,Cardinals,Brewers
+2108,2014,9,5,8:40pm,Padres,Rockies
+2109,2014,9,5,10:05pm,Astros,Athletics
+2110,2014,9,5,10:10pm,D-backs,Dodgers
+2111,2014,9,6,1:08pm,Giants,Tigers
+2112,2014,9,6,1:10pm,Orioles,Rays
+2113,2014,9,6,4:05pm,Astros,Athletics
+2114,2014,9,6,4:05pm,Royals,Yankees
+2115,2014,9,6,4:05pm,Phillies,Nationals
+2116,2014,9,6,4:05pm,Pirates,Cubs
+2117,2014,9,6,4:10pm,Mets,Reds
+2118,2014,9,6,7:05pm,White Sox,Indians
+2119,2014,9,6,7:10pm,Angels,Twins
+2120,2014,9,6,7:10pm,Braves,Marlins
+2121,2014,9,6,7:10pm,Cardinals,Brewers
+2122,2014,9,6,7:10pm,Blue Jays,Red Sox
+2123,2014,9,6,8:05pm,Mariners,Rangers
+2124,2014,9,6,8:10pm,Padres,Rockies
+2125,2014,9,6,9:10pm,D-backs,Dodgers
+2126,2014,9,7,TBD,D-backs,Dodgers
+2127,2014,9,7,1:05pm,White Sox,Indians
+2128,2014,9,7,1:05pm,Royals,Yankees
+2129,2014,9,7,1:08pm,Giants,Tigers
+2130,2014,9,7,1:10pm,Braves,Marlins
+2131,2014,9,7,1:10pm,Mets,Reds
+2132,2014,9,7,1:35pm,Phillies,Nationals
+2133,2014,9,7,1:35pm,Blue Jays,Red Sox
+2134,2014,9,7,1:40pm,Orioles,Rays
+2135,2014,9,7,2:10pm,Angels,Twins
+2136,2014,9,7,2:10pm,Cardinals,Brewers
+2137,2014,9,7,2:20pm,Pirates,Cubs
+2138,2014,9,7,3:05pm,Mariners,Rangers
+2139,2014,9,7,4:05pm,Astros,Athletics
+2140,2014,9,7,4:10pm,Padres,Rockies
+2141,2014,9,8,7:05pm,Braves,Nationals
+2142,2014,9,8,7:05pm,Pirates,Phillies
+2143,2014,9,8,7:07pm,Cubs,Blue Jays
+2144,2014,9,8,7:08pm,Royals,Tigers
+2145,2014,9,8,7:10pm,Orioles,Red Sox
+2146,2014,9,8,7:10pm,Rockies,Mets
+2147,2014,9,8,7:10pm,Cardinals,Reds
+2148,2014,9,8,8:10pm,Marlins,Brewers
+2149,2014,9,8,8:10pm,Athletics,White Sox
+2150,2014,9,8,10:10pm,Astros,Mariners
+2151,2014,9,8,10:10pm,Padres,Dodgers
+2152,2014,9,9,7:05pm,Braves,Nationals
+2153,2014,9,9,7:05pm,Twins,Indians
+2154,2014,9,9,7:05pm,Pirates,Phillies
+2155,2014,9,9,7:05pm,Rays,Yankees
+2156,2014,9,9,7:07pm,Cubs,Blue Jays
+2157,2014,9,9,7:08pm,Royals,Tigers
+2158,2014,9,9,7:10pm,Orioles,Red Sox
+2159,2014,9,9,7:10pm,Rockies,Mets
+2160,2014,9,9,7:10pm,Cardinals,Reds
+2161,2014,9,9,8:05pm,Angels,Rangers
+2162,2014,9,9,8:10pm,Marlins,Brewers
+2163,2014,9,9,8:10pm,Athletics,White Sox
+2164,2014,9,9,10:10pm,Astros,Mariners
+2165,2014,9,9,10:10pm,Padres,Dodgers
+2166,2014,9,9,10:15pm,D-backs,Giants
+2167,2014,9,10,1:35pm,Orioles,Red Sox
+2168,2014,9,10,4:05pm,Braves,Nationals
+2169,2014,9,10,7:05pm,Twins,Indians
+2170,2014,9,10,7:05pm,Pirates,Phillies
+2171,2014,9,10,7:05pm,Rays,Yankees
+2172,2014,9,10,7:07pm,Cubs,Blue Jays
+2173,2014,9,10,7:08pm,Royals,Tigers
+2174,2014,9,10,7:10pm,Rockies,Mets
+2175,2014,9,10,7:10pm,Cardinals,Reds
+2176,2014,9,10,8:05pm,Angels,Rangers
+2177,2014,9,10,8:10pm,Marlins,Brewers
+2178,2014,9,10,8:10pm,Athletics,White Sox
+2179,2014,9,10,10:10pm,Astros,Mariners
+2180,2014,9,10,10:10pm,Padres,Dodgers
+2181,2014,9,10,10:15pm,D-backs,Giants
+2182,2014,9,11,12:05pm,Twins,Indians
+2183,2014,9,11,12:35pm,Cardinals,Reds
+2184,2014,9,11,2:10pm,Athletics,White Sox
+2185,2014,9,11,3:45pm,D-backs,Giants
+2186,2014,9,11,7:05pm,Pirates,Phillies
+2187,2014,9,11,7:05pm,Rays,Yankees
+2188,2014,9,11,7:10pm,Nationals,Mets
+2189,2014,9,11,8:05pm,Angels,Rangers
+2190,2014,9,11,8:10pm,Red Sox,Royals
+2191,2014,9,11,8:10pm,Marlins,Brewers
+2192,2014,9,12,7:05pm,Cubs,Pirates
+2193,2014,9,12,7:05pm,Marlins,Phillies
+2194,2014,9,12,7:05pm,Yankees,Orioles
+2195,2014,9,12,7:07pm,Rays,Blue Jays
+2196,2014,9,12,7:08pm,Indians,Tigers
+2197,2014,9,12,7:10pm,Nationals,Mets
+2198,2014,9,12,8:05pm,Braves,Rangers
+2199,2014,9,12,8:10pm,Red Sox,Royals
+2200,2014,9,12,8:10pm,Reds,Brewers
+2201,2014,9,12,8:10pm,Twins,White Sox
+2202,2014,9,12,8:15pm,Rockies,Cardinals
+2203,2014,9,12,9:40pm,Padres,D-backs
+2204,2014,9,12,10:05pm,Astros,Angels
+2205,2014,9,12,10:10pm,Athletics,Mariners
+2206,2014,9,12,10:15pm,Dodgers,Giants
+2207,2014,9,13,1:05pm,Braves,Rangers
+2208,2014,9,13,1:05pm,Yankees,Orioles
+2209,2014,9,13,1:07pm,Rays,Blue Jays
+2210,2014,9,13,7:05pm,Cubs,Pirates
+2211,2014,9,13,7:05pm,Marlins,Phillies
+2212,2014,9,13,7:08pm,Indians,Tigers
+2213,2014,9,13,7:10pm,Red Sox,Royals
+2214,2014,9,13,7:10pm,Reds,Brewers
+2215,2014,9,13,7:10pm,Twins,White Sox
+2216,2014,9,13,7:10pm,Nationals,Mets
+2217,2014,9,13,7:15pm,Rockies,Cardinals
+2218,2014,9,13,8:10pm,Padres,D-backs
+2219,2014,9,13,9:05pm,Astros,Angels
+2220,2014,9,13,9:05pm,Dodgers,Giants
+2221,2014,9,13,9:10pm,Athletics,Mariners
+2222,2014,9,14,1:07pm,Rays,Blue Jays
+2223,2014,9,14,1:08pm,Indians,Tigers
+2224,2014,9,14,1:10pm,Nationals,Mets
+2225,2014,9,14,1:35pm,Cubs,Pirates
+2226,2014,9,14,1:35pm,Marlins,Phillies
+2227,2014,9,14,1:35pm,Yankees,Orioles
+2228,2014,9,14,2:10pm,Red Sox,Royals
+2229,2014,9,14,2:10pm,Reds,Brewers
+2230,2014,9,14,2:10pm,Twins,White Sox
+2231,2014,9,14,2:15pm,Rockies,Cardinals
+2232,2014,9,14,3:05pm,Braves,Rangers
+2233,2014,9,14,3:35pm,Astros,Angels
+2234,2014,9,14,4:05pm,Dodgers,Giants
+2235,2014,9,14,4:10pm,Athletics,Mariners
+2236,2014,9,14,4:10pm,Padres,D-backs
+2237,2014,9,15,7:05pm,Blue Jays,Orioles
+2238,2014,9,15,7:10pm,Marlins,Mets
+2239,2014,9,15,7:10pm,Yankees,Rays
+2240,2014,9,15,7:10pm,Nationals,Braves
+2241,2014,9,15,8:05pm,Reds,Cubs
+2242,2014,9,15,8:10pm,White Sox,Royals
+2243,2014,9,15,8:10pm,Indians,Astros
+2244,2014,9,15,8:10pm,Tigers,Twins
+2245,2014,9,15,8:40pm,Dodgers,Rockies
+2246,2014,9,15,9:40pm,Giants,D-backs
+2247,2014,9,15,10:05pm,Mariners,Angels
+2248,2014,9,15,10:10pm,Phillies,Padres
+2249,2014,9,16,7:05pm,Red Sox,Pirates
+2250,2014,9,16,7:05pm,Blue Jays,Orioles
+2251,2014,9,16,7:10pm,Marlins,Mets
+2252,2014,9,16,7:10pm,Yankees,Rays
+2253,2014,9,16,7:10pm,Nationals,Braves
+2254,2014,9,16,8:05pm,Reds,Cubs
+2255,2014,9,16,8:10pm,White Sox,Royals
+2256,2014,9,16,8:10pm,Indians,Astros
+2257,2014,9,16,8:10pm,Tigers,Twins
+2258,2014,9,16,8:15pm,Brewers,Cardinals
+2259,2014,9,16,8:40pm,Dodgers,Rockies
+2260,2014,9,16,9:40pm,Giants,D-backs
+2261,2014,9,16,10:05pm,Mariners,Angels
+2262,2014,9,16,10:05pm,Rangers,Athletics
+2263,2014,9,16,10:10pm,Phillies,Padres
+2264,2014,9,17,3:10pm,Dodgers,Rockies
+2265,2014,9,17,3:40pm,Giants,D-backs
+2266,2014,9,17,7:05pm,Red Sox,Pirates
+2267,2014,9,17,7:05pm,Blue Jays,Orioles
+2268,2014,9,17,7:10pm,Marlins,Mets
+2269,2014,9,17,7:10pm,Yankees,Rays
+2270,2014,9,17,7:10pm,Nationals,Braves
+2271,2014,9,17,8:05pm,Reds,Cubs
+2272,2014,9,17,8:10pm,White Sox,Royals
+2273,2014,9,17,8:10pm,Indians,Astros
+2274,2014,9,17,8:10pm,Tigers,Twins
+2275,2014,9,17,8:15pm,Brewers,Cardinals
+2276,2014,9,17,10:05pm,Mariners,Angels
+2277,2014,9,17,10:05pm,Rangers,Athletics
+2278,2014,9,17,10:10pm,Phillies,Padres
+2279,2014,9,18,3:35pm,Rangers,Athletics
+2280,2014,9,18,7:05pm,Red Sox,Pirates
+2281,2014,9,18,7:05pm,Blue Jays,Yankees
+2282,2014,9,18,7:10pm,Nationals,Marlins
+2283,2014,9,18,8:05pm,Dodgers,Cubs
+2284,2014,9,18,8:10pm,Indians,Astros
+2285,2014,9,18,8:15pm,Brewers,Cardinals
+2286,2014,9,18,8:40pm,D-backs,Rockies
+2287,2014,9,18,10:05pm,Mariners,Angels
+2288,2014,9,18,10:10pm,Phillies,Padres
+2289,2014,9,19,2:20pm,Dodgers,Cubs
+2290,2014,9,19,7:05pm,Red Sox,Orioles
+2291,2014,9,19,7:05pm,Brewers,Pirates
+2292,2014,9,19,7:05pm,Blue Jays,Yankees
+2293,2014,9,19,7:10pm,White Sox,Rays
+2294,2014,9,19,7:10pm,Nationals,Marlins
+2295,2014,9,19,7:35pm,Mets,Braves
+2296,2014,9,19,8:10pm,D-backs,Rockies
+2297,2014,9,19,8:10pm,Indians,Twins
+2298,2014,9,19,8:10pm,Tigers,Royals
+2299,2014,9,19,8:10pm,Mariners,Astros
+2300,2014,9,19,8:15pm,Reds,Cardinals
+2301,2014,9,19,9:35pm,Phillies,Athletics
+2302,2014,9,19,10:05pm,Rangers,Angels
+2303,2014,9,19,10:10pm,Giants,Padres
+2304,2014,9,20,TBD,Blue Jays,Yankees
+2305,2014,9,20,4:05pm,Dodgers,Cubs
+2306,2014,9,20,4:05pm,Phillies,Athletics
+2307,2014,9,20,4:10pm,D-backs,Rockies
+2308,2014,9,20,7:05pm,Red Sox,Orioles
+2309,2014,9,20,7:05pm,Brewers,Pirates
+2310,2014,9,20,7:10pm,White Sox,Rays
+2311,2014,9,20,7:10pm,Indians,Twins
+2312,2014,9,20,7:10pm,Tigers,Royals
+2313,2014,9,20,7:10pm,Mets,Braves
+2314,2014,9,20,7:10pm,Mariners,Astros
+2315,2014,9,20,7:10pm,Nationals,Marlins
+2316,2014,9,20,7:15pm,Reds,Cardinals
+2317,2014,9,20,8:40pm,Giants,Padres
+2318,2014,9,20,9:05pm,Rangers,Angels
+2319,2014,9,21,TBD,Rangers,Angels
+2320,2014,9,21,1:05pm,Blue Jays,Yankees
+2321,2014,9,21,1:10pm,Nationals,Marlins
+2322,2014,9,21,1:35pm,Red Sox,Orioles
+2323,2014,9,21,1:35pm,Brewers,Pirates
+2324,2014,9,21,1:35pm,Mets,Braves
+2325,2014,9,21,1:40pm,White Sox,Rays
+2326,2014,9,21,2:10pm,Indians,Twins
+2327,2014,9,21,2:10pm,Tigers,Royals
+2328,2014,9,21,2:10pm,Mariners,Astros
+2329,2014,9,21,2:15pm,Reds,Cardinals
+2330,2014,9,21,2:20pm,Dodgers,Cubs
+2331,2014,9,21,4:05pm,Phillies,Athletics
+2332,2014,9,21,4:10pm,D-backs,Rockies
+2333,2014,9,21,4:10pm,Giants,Padres
+2334,2014,9,22,7:05pm,Orioles,Yankees
+2335,2014,9,22,7:05pm,Royals,Indians
+2336,2014,9,22,7:07pm,Mariners,Blue Jays
+2337,2014,9,22,7:08pm,White Sox,Tigers
+2338,2014,9,22,7:10pm,Pirates,Braves
+2339,2014,9,22,8:05pm,Astros,Rangers
+2340,2014,9,22,8:05pm,Cardinals,Cubs
+2341,2014,9,22,8:10pm,D-backs,Twins
+2342,2014,9,22,10:05pm,Angels,Athletics
+2343,2014,9,22,10:10pm,Rockies,Padres
+2344,2014,9,22,10:10pm,Giants,Dodgers
+2345,2014,9,23,7:05pm,Orioles,Yankees
+2346,2014,9,23,7:05pm,Royals,Indians
+2347,2014,9,23,7:05pm,Mets,Nationals
+2348,2014,9,23,7:07pm,Mariners,Blue Jays
+2349,2014,9,23,7:08pm,White Sox,Tigers
+2350,2014,9,23,7:10pm,Brewers,Reds
+2351,2014,9,23,7:10pm,Phillies,Marlins
+2352,2014,9,23,7:10pm,Pirates,Braves
+2353,2014,9,23,7:10pm,Rays,Red Sox
+2354,2014,9,23,8:05pm,Astros,Rangers
+2355,2014,9,23,8:05pm,Cardinals,Cubs
+2356,2014,9,23,8:10pm,D-backs,Twins
+2357,2014,9,23,10:05pm,Angels,Athletics
+2358,2014,9,23,10:10pm,Rockies,Padres
+2359,2014,9,23,10:10pm,Giants,Dodgers
+2360,2014,9,24,1:05pm,Orioles,Yankees
+2361,2014,9,24,1:08pm,White Sox,Tigers
+2362,2014,9,24,1:10pm,D-backs,Twins
+2363,2014,9,24,3:35pm,Angels,Athletics
+2364,2014,9,24,7:05pm,Royals,Indians
+2365,2014,9,24,7:05pm,Mets,Nationals
+2366,2014,9,24,7:07pm,Mariners,Blue Jays
+2367,2014,9,24,7:10pm,Brewers,Reds
+2368,2014,9,24,7:10pm,Phillies,Marlins
+2369,2014,9,24,7:10pm,Pirates,Braves
+2370,2014,9,24,7:10pm,Rays,Red Sox
+2371,2014,9,24,8:05pm,Astros,Rangers
+2372,2014,9,24,8:05pm,Cardinals,Cubs
+2373,2014,9,24,10:10pm,Rockies,Padres
+2374,2014,9,24,10:10pm,Giants,Dodgers
+2375,2014,9,25,12:35pm,Brewers,Reds
+2376,2014,9,25,4:07pm,Mariners,Blue Jays
+2377,2014,9,25,4:10pm,Phillies,Marlins
+2378,2014,9,25,7:05pm,Orioles,Yankees
+2379,2014,9,25,7:05pm,Mets,Nationals
+2380,2014,9,25,7:08pm,Twins,Tigers
+2381,2014,9,25,7:10pm,Pirates,Braves
+2382,2014,9,25,7:10pm,Rays,Red Sox
+2383,2014,9,25,8:05pm,Athletics,Rangers
+2384,2014,9,25,8:10pm,Royals,White Sox
+2385,2014,9,25,10:15pm,Padres,Giants
+2386,2014,9,26,7:05pm,Braves,Phillies
+2387,2014,9,26,7:05pm,Marlins,Nationals
+2388,2014,9,26,7:05pm,Rays,Indians
+2389,2014,9,26,7:07pm,Orioles,Blue Jays
+2390,2014,9,26,7:08pm,Twins,Tigers
+2391,2014,9,26,7:10pm,Astros,Mets
+2392,2014,9,26,7:10pm,Yankees,Red Sox
+2393,2014,9,26,7:10pm,Pirates,Reds
+2394,2014,9,26,8:05pm,Athletics,Rangers
+2395,2014,9,26,8:10pm,Cubs,Brewers
+2396,2014,9,26,8:10pm,Royals,White Sox
+2397,2014,9,26,9:40pm,Cardinals,D-backs
+2398,2014,9,26,10:10pm,Angels,Mariners
+2399,2014,9,26,10:10pm,Rockies,Dodgers
+2400,2014,9,26,10:15pm,Padres,Giants
+2401,2014,9,27,TBD,Yankees,Red Sox
+2402,2014,9,27,1:07pm,Orioles,Blue Jays
+2403,2014,9,27,4:05pm,Marlins,Nationals
+2404,2014,9,27,4:05pm,Padres,Giants
+2405,2014,9,27,4:10pm,Pirates,Reds
+2406,2014,9,27,6:05pm,Rays,Indians
+2407,2014,9,27,7:05pm,Braves,Phillies
+2408,2014,9,27,7:08pm,Twins,Tigers
+2409,2014,9,27,7:10pm,Cubs,Brewers
+2410,2014,9,27,7:10pm,Astros,Mets
+2411,2014,9,27,7:10pm,Royals,White Sox
+2412,2014,9,27,8:05pm,Athletics,Rangers
+2413,2014,9,27,8:10pm,Cardinals,D-backs
+2414,2014,9,27,9:10pm,Angels,Mariners
+2415,2014,9,27,9:10pm,Rockies,Dodgers
+2416,2014,9,28,1:05pm,Rays,Indians
+2417,2014,9,28,1:07pm,Orioles,Blue Jays
+2418,2014,9,28,1:08pm,Twins,Tigers
+2419,2014,9,28,1:10pm,Astros,Mets
+2420,2014,9,28,1:10pm,Pirates,Reds
+2421,2014,9,28,1:35pm,Braves,Phillies
+2422,2014,9,28,1:35pm,Marlins,Nationals
+2423,2014,9,28,1:35pm,Yankees,Red Sox
+2424,2014,9,28,2:10pm,Cubs,Brewers
+2425,2014,9,28,2:10pm,Royals,White Sox
+2426,2014,9,28,3:05pm,Athletics,Rangers
+2427,2014,9,28,4:05pm,Padres,Giants
+2428,2014,9,28,4:10pm,Angels,Mariners
+2429,2014,9,28,4:10pm,Rockies,Dodgers
+2430,2014,9,28,4:10pm,Cardinals,D-backs
