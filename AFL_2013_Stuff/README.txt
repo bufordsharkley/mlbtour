@@ -22,3 +22,5 @@ Finally, using the script make_trip.py (and make_trip_2.py), I take in the dista
 ...At least in theory, that's how the make_trip.py code works.  Currently, it doesn't actually work.  I think my issues were that the code wouldn't let one travel and see a game on the same day no matter what.  It was giving much longer than the minimal distances for each clusters.
 
 Also, I was terrible about commenting my code.  Sorry.
+
+Some is done in perl, and some in python.
