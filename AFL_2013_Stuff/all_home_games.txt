@@ -1,0 +1,2430 @@
+Pittsburgh Pirates,04/01/13,01:35 PM
+Pittsburgh Pirates,04/03/13,07:05 PM
+Pittsburgh Pirates,04/04/13,12:35 PM
+Pittsburgh Pirates,04/12/13,07:05 PM
+Pittsburgh Pirates,04/13/13,07:05 PM
+Pittsburgh Pirates,04/14/13,01:35 PM
+Pittsburgh Pirates,04/15/13,07:05 PM
+Pittsburgh Pirates,04/17/13,07:05 PM
+Pittsburgh Pirates,04/18/13,07:05 PM
+Pittsburgh Pirates,04/19/13,07:05 PM
+Pittsburgh Pirates,04/20/13,07:05 PM
+Pittsburgh Pirates,04/21/13,01:35 PM
+Pittsburgh Pirates,05/03/13,07:05 PM
+Pittsburgh Pirates,05/04/13,04:05 PM
+Pittsburgh Pirates,05/05/13,01:35 PM
+Pittsburgh Pirates,05/07/13,07:05 PM
+Pittsburgh Pirates,05/08/13,12:35 PM
+Pittsburgh Pirates,05/13/13,07:05 PM
+Pittsburgh Pirates,05/14/13,07:05 PM
+Pittsburgh Pirates,05/15/13,07:05 PM
+Pittsburgh Pirates,05/16/13,07:05 PM
+Pittsburgh Pirates,05/17/13,07:05 PM
+Pittsburgh Pirates,05/18/13,07:05 PM
+Pittsburgh Pirates,05/19/13,01:35 PM
+Pittsburgh Pirates,05/21/13,07:05 PM
+Pittsburgh Pirates,05/22/13,07:05 PM
+Pittsburgh Pirates,05/23/13,12:35 PM
+Pittsburgh Pirates,05/29/13,07:05 PM
+Pittsburgh Pirates,05/30/13,07:05 PM
+Pittsburgh Pirates,05/31/13,07:05 PM
+Pittsburgh Pirates,06/01/13,07:15 PM
+Pittsburgh Pirates,06/02/13,01:35 PM
+Pittsburgh Pirates,06/11/13,07:05 PM
+Pittsburgh Pirates,06/12/13,07:05 PM
+Pittsburgh Pirates,06/13/13,07:05 PM
+Pittsburgh Pirates,06/14/13,07:05 PM
+Pittsburgh Pirates,06/15/13,04:05 PM
+Pittsburgh Pirates,06/16/13,01:35 PM
+Pittsburgh Pirates,06/28/13,07:05 PM
+Pittsburgh Pirates,06/29/13,07:15 PM
+Pittsburgh Pirates,06/30/13,01:35 PM
+Pittsburgh Pirates,07/02/13,07:05 PM
+Pittsburgh Pirates,07/03/13,07:05 PM
+Pittsburgh Pirates,07/04/13,01:35 PM
+Pittsburgh Pirates,07/08/13,07:05 PM
+Pittsburgh Pirates,07/09/13,07:05 PM
+Pittsburgh Pirates,07/10/13,07:05 PM
+Pittsburgh Pirates,07/12/13,07:05 PM
+Pittsburgh Pirates,07/13/13,07:15 PM
+Pittsburgh Pirates,07/14/13,01:35 PM
+Pittsburgh Pirates,07/29/13,07:05 PM
+Pittsburgh Pirates,07/30/13,04:05 PM
+Pittsburgh Pirates,07/30/13,03:33 AM
+Pittsburgh Pirates,07/31/13,07:05 PM
+Pittsburgh Pirates,08/01/13,07:05 PM
+Pittsburgh Pirates,08/02/13,07:05 PM
+Pittsburgh Pirates,08/03/13,07:05 PM
+Pittsburgh Pirates,08/04/13,01:35 PM
+Pittsburgh Pirates,08/06/13,07:05 PM
+Pittsburgh Pirates,08/07/13,07:05 PM
+Pittsburgh Pirates,08/08/13,12:35 PM
+Pittsburgh Pirates,08/16/13,07:05 PM
+Pittsburgh Pirates,08/17/13,04:05 PM
+Pittsburgh Pirates,08/18/13,01:35 PM
+Pittsburgh Pirates,08/27/13,07:05 PM
+Pittsburgh Pirates,08/28/13,07:05 PM
+Pittsburgh Pirates,08/29/13,07:05 PM
+Pittsburgh Pirates,08/30/13,07:05 PM
+Pittsburgh Pirates,08/31/13,07:05 PM
+Pittsburgh Pirates,09/01/13,01:35 PM
+Pittsburgh Pirates,09/12/13,07:05 PM
+Pittsburgh Pirates,09/13/13,07:05 PM
+Pittsburgh Pirates,09/14/13,07:05 PM
+Pittsburgh Pirates,09/15/13,01:35 PM
+Pittsburgh Pirates,09/16/13,07:05 PM
+Pittsburgh Pirates,09/17/13,07:05 PM
+Pittsburgh Pirates,09/18/13,07:05 PM
+Pittsburgh Pirates,09/19/13,12:35 PM
+Pittsburgh Pirates,09/20/13,07:05 PM
+Pittsburgh Pirates,09/21/13,07:05 PM
+Pittsburgh Pirates,09/22/13,01:35 PM
+New York Yankees,04/01/13,01:05 PM
+New York Yankees,04/03/13,07:05 PM
+New York Yankees,04/04/13,07:05 PM
+New York Yankees,04/12/13,07:05 PM
+New York Yankees,04/13/13,04:05 PM
+New York Yankees,04/14/13,08:05 PM
+New York Yankees,04/16/13,07:05 PM
+New York Yankees,04/17/13,07:05 PM
+New York Yankees,04/18/13,07:05 PM
+New York Yankees,04/25/13,07:05 PM
+New York Yankees,04/26/13,07:05 PM
+New York Yankees,04/27/13,04:05 PM
+New York Yankees,04/28/13,01:05 PM
+New York Yankees,04/29/13,07:05 PM
+New York Yankees,04/30/13,07:05 PM
+New York Yankees,05/01/13,07:05 PM
+New York Yankees,05/03/13,07:05 PM
+New York Yankees,05/04/13,01:05 PM
+New York Yankees,05/05/13,01:05 PM
+New York Yankees,05/14/13,07:05 PM
+New York Yankees,05/15/13,07:05 PM
+New York Yankees,05/16/13,07:05 PM
+New York Yankees,05/17/13,07:05 PM
+New York Yankees,05/18/13,01:05 PM
+New York Yankees,05/29/13,07:05 PM
+New York Yankees,05/30/13,07:05 PM
+New York Yankees,05/31/13,07:05 PM
+New York Yankees,06/01/13,07:15 PM
+New York Yankees,06/02/13,08:00 PM
+New York Yankees,06/03/13,07:05 PM
+New York Yankees,06/04/13,07:05 PM
+New York Yankees,06/05/13,01:05 PM
+New York Yankees,06/19/13,01:05 PM
+New York Yankees,06/19/13,07:05 PM
+New York Yankees,06/20/13,07:05 PM
+New York Yankees,06/21/13,07:05 PM
+New York Yankees,06/22/13,01:05 PM
+New York Yankees,06/23/13,02:05 PM
+New York Yankees,06/25/13,07:05 PM
+New York Yankees,06/26/13,07:05 PM
+New York Yankees,06/27/13,01:05 PM
+New York Yankees,07/05/13,07:05 PM
+New York Yankees,07/06/13,01:05 PM
+New York Yankees,07/07/13,01:05 PM
+New York Yankees,07/08/13,07:05 PM
+New York Yankees,07/09/13,07:05 PM
+New York Yankees,07/10/13,07:05 PM
+New York Yankees,07/11/13,01:05 PM
+New York Yankees,07/12/13,07:05 PM
+New York Yankees,07/13/13,01:05 PM
+New York Yankees,07/14/13,01:05 PM
+New York Yankees,07/26/13,07:05 PM
+New York Yankees,07/27/13,01:05 PM
+New York Yankees,07/28/13,01:05 PM
+New York Yankees,08/09/13,07:05 PM
+New York Yankees,08/10/13,01:05 PM
+New York Yankees,08/11/13,01:05 PM
+New York Yankees,08/12/13,07:05 PM
+New York Yankees,08/13/13,07:05 PM
+New York Yankees,08/14/13,07:05 PM
+New York Yankees,08/15/13,01:05 PM
+New York Yankees,08/20/13,01:05 PM
+New York Yankees,08/20/13,07:05 PM
+New York Yankees,08/21/13,07:05 PM
+New York Yankees,08/22/13,01:05 PM
+New York Yankees,08/30/13,07:05 PM
+New York Yankees,08/31/13,01:05 PM
+New York Yankees,09/01/13,01:05 PM
+New York Yankees,09/02/13,01:05 PM
+New York Yankees,09/03/13,07:05 PM
+New York Yankees,09/04/13,07:05 PM
+New York Yankees,09/05/13,07:05 PM
+New York Yankees,09/06/13,07:05 PM
+New York Yankees,09/07/13,01:05 PM
+New York Yankees,09/08/13,01:05 PM
+New York Yankees,09/20/13,07:05 PM
+New York Yankees,09/21/13,03:33 AM
+New York Yankees,09/22/13,01:05 PM
+New York Yankees,09/24/13,07:05 PM
+New York Yankees,09/25/13,07:05 PM
+New York Yankees,09/26/13,07:05 PM
+New York Mets,04/01/13,01:10 PM
+New York Mets,04/03/13,07:10 PM
+New York Mets,04/04/13,01:10 PM
+New York Mets,04/05/13,07:10 PM
+New York Mets,04/06/13,01:10 PM
+New York Mets,04/07/13,01:10 PM
+New York Mets,04/19/13,07:10 PM
+New York Mets,04/20/13,03:05 PM
+New York Mets,04/21/13,01:10 PM
+New York Mets,04/23/13,07:10 PM
+New York Mets,04/24/13,07:10 PM
+New York Mets,04/25/13,01:10 PM
+New York Mets,04/26/13,07:10 PM
+New York Mets,04/27/13,01:05 PM
+New York Mets,04/28/13,01:10 PM
+New York Mets,05/07/13,07:10 PM
+New York Mets,05/08/13,07:10 PM
+New York Mets,05/09/13,07:10 PM
+New York Mets,05/10/13,07:10 PM
+New York Mets,05/11/13,01:10 PM
+New York Mets,05/12/13,01:10 PM
+New York Mets,05/20/13,07:10 PM
+New York Mets,05/21/13,07:10 PM
+New York Mets,05/22/13,01:10 PM
+New York Mets,05/24/13,07:10 PM
+New York Mets,05/25/13,07:25 PM
+New York Mets,05/26/13,08:05 PM
+New York Mets,05/27/13,07:10 PM
+New York Mets,05/28/13,07:10 PM
+New York Mets,06/08/13,01:10 PM
+New York Mets,06/09/13,01:10 PM
+New York Mets,06/11/13,07:10 PM
+New York Mets,06/12/13,07:10 PM
+New York Mets,06/13/13,01:10 PM
+New York Mets,06/14/13,07:10 PM
+New York Mets,06/15/13,01:10 PM
+New York Mets,06/16/13,01:10 PM
+New York Mets,06/28/13,07:10 PM
+New York Mets,06/29/13,01:10 PM
+New York Mets,06/30/13,01:10 PM
+New York Mets,07/01/13,07:10 PM
+New York Mets,07/02/13,07:10 PM
+New York Mets,07/03/13,07:10 PM
+New York Mets,07/04/13,01:10 PM
+New York Mets,07/19/13,07:10 PM
+New York Mets,07/20/13,01:10 PM
+New York Mets,07/21/13,01:10 PM
+New York Mets,07/22/13,07:10 PM
+New York Mets,07/23/13,07:10 PM
+New York Mets,07/24/13,07:10 PM
+New York Mets,07/25/13,12:10 PM
+New York Mets,08/02/13,07:10 PM
+New York Mets,08/03/13,01:10 PM
+New York Mets,08/04/13,01:10 PM
+New York Mets,08/06/13,07:10 PM
+New York Mets,08/07/13,07:10 PM
+New York Mets,08/08/13,12:10 PM
+New York Mets,08/20/13,07:10 PM
+New York Mets,08/21/13,01:10 PM
+New York Mets,08/23/13,07:10 PM
+New York Mets,08/24/13,04:05 PM
+New York Mets,08/25/13,01:10 PM
+New York Mets,08/26/13,07:10 PM
+New York Mets,08/27/13,07:10 PM
+New York Mets,08/28/13,07:10 PM
+New York Mets,08/29/13,01:10 PM
+New York Mets,09/09/13,07:10 PM
+New York Mets,09/10/13,07:10 PM
+New York Mets,09/11/13,07:10 PM
+New York Mets,09/12/13,01:10 PM
+New York Mets,09/13/13,07:10 PM
+New York Mets,09/14/13,04:10 PM
+New York Mets,09/14/13,03:33 AM
+New York Mets,09/15/13,01:10 PM
+New York Mets,09/17/13,07:10 PM
+New York Mets,09/18/13,07:10 PM
+New York Mets,09/19/13,01:10 PM
+New York Mets,09/26/13,07:10 PM
+New York Mets,09/27/13,07:10 PM
+New York Mets,09/28/13,04:10 PM
+New York Mets,09/29/13,01:10 PM
+Los Angeles Dodgers,04/01/13,01:10 PM
+Los Angeles Dodgers,04/02/13,07:10 PM
+Los Angeles Dodgers,04/03/13,07:10 PM
+Los Angeles Dodgers,04/05/13,07:10 PM
+Los Angeles Dodgers,04/06/13,06:10 PM
+Los Angeles Dodgers,04/07/13,01:10 PM
+Los Angeles Dodgers,04/15/13,07:10 PM
+Los Angeles Dodgers,04/16/13,07:10 PM
+Los Angeles Dodgers,04/17/13,07:10 PM
+Los Angeles Dodgers,04/26/13,07:10 PM
+Los Angeles Dodgers,04/27/13,06:10 PM
+Los Angeles Dodgers,04/28/13,01:10 PM
+Los Angeles Dodgers,04/29/13,07:10 PM
+Los Angeles Dodgers,04/30/13,07:10 PM
+Los Angeles Dodgers,05/01/13,07:10 PM
+Los Angeles Dodgers,05/06/13,07:10 PM
+Los Angeles Dodgers,05/07/13,07:10 PM
+Los Angeles Dodgers,05/08/13,07:10 PM
+Los Angeles Dodgers,05/10/13,07:10 PM
+Los Angeles Dodgers,05/11/13,06:10 PM
+Los Angeles Dodgers,05/12/13,01:10 PM
+Los Angeles Dodgers,05/13/13,07:10 PM
+Los Angeles Dodgers,05/14/13,07:10 PM
+Los Angeles Dodgers,05/15/13,07:10 PM
+Los Angeles Dodgers,05/24/13,07:10 PM
+Los Angeles Dodgers,05/25/13,04:15 PM
+Los Angeles Dodgers,05/26/13,01:10 PM
+Los Angeles Dodgers,05/27/13,05:10 PM
+Los Angeles Dodgers,05/28/13,07:10 PM
+Los Angeles Dodgers,06/03/13,07:10 PM
+Los Angeles Dodgers,06/04/13,07:10 PM
+Los Angeles Dodgers,06/05/13,07:10 PM
+Los Angeles Dodgers,06/06/13,07:10 PM
+Los Angeles Dodgers,06/07/13,07:10 PM
+Los Angeles Dodgers,06/08/13,07:10 PM
+Los Angeles Dodgers,06/09/13,01:10 PM
+Los Angeles Dodgers,06/10/13,07:10 PM
+Los Angeles Dodgers,06/11/13,07:10 PM
+Los Angeles Dodgers,06/12/13,07:10 PM
+Los Angeles Dodgers,06/24/13,07:10 PM
+Los Angeles Dodgers,06/25/13,07:10 PM
+Los Angeles Dodgers,06/26/13,07:10 PM
+Los Angeles Dodgers,06/27/13,07:10 PM
+Los Angeles Dodgers,06/28/13,07:10 PM
+Los Angeles Dodgers,06/29/13,07:10 PM
+Los Angeles Dodgers,06/30/13,01:10 PM
+Los Angeles Dodgers,07/11/13,07:10 PM
+Los Angeles Dodgers,07/12/13,07:10 PM
+Los Angeles Dodgers,07/13/13,04:15 PM
+Los Angeles Dodgers,07/14/13,01:10 PM
+Los Angeles Dodgers,07/25/13,07:10 PM
+Los Angeles Dodgers,07/26/13,07:10 PM
+Los Angeles Dodgers,07/27/13,06:10 PM
+Los Angeles Dodgers,07/28/13,01:10 PM
+Los Angeles Dodgers,07/30/13,07:10 PM
+Los Angeles Dodgers,07/31/13,07:10 PM
+Los Angeles Dodgers,08/09/13,07:10 PM
+Los Angeles Dodgers,08/10/13,01:05 PM
+Los Angeles Dodgers,08/11/13,03:33 AM
+Los Angeles Dodgers,08/12/13,07:10 PM
+Los Angeles Dodgers,08/13/13,07:10 PM
+Los Angeles Dodgers,08/14/13,07:10 PM
+Los Angeles Dodgers,08/23/13,07:10 PM
+Los Angeles Dodgers,08/24/13,01:05 PM
+Los Angeles Dodgers,08/25/13,03:33 AM
+Los Angeles Dodgers,08/26/13,07:10 PM
+Los Angeles Dodgers,08/27/13,07:10 PM
+Los Angeles Dodgers,08/28/13,12:10 PM
+Los Angeles Dodgers,08/30/13,07:10 PM
+Los Angeles Dodgers,08/31/13,06:10 PM
+Los Angeles Dodgers,09/01/13,01:10 PM
+Los Angeles Dodgers,09/09/13,07:10 PM
+Los Angeles Dodgers,09/10/13,07:10 PM
+Los Angeles Dodgers,09/11/13,07:10 PM
+Los Angeles Dodgers,09/12/13,07:10 PM
+Los Angeles Dodgers,09/13/13,07:10 PM
+Los Angeles Dodgers,09/14/13,06:10 PM
+Los Angeles Dodgers,09/15/13,03:33 AM
+Los Angeles Dodgers,09/27/13,07:10 PM
+Los Angeles Dodgers,09/28/13,03:33 AM
+Los Angeles Dodgers,09/29/13,01:10 PM
+Cincinnati Reds,04/01/13,04:10 PM
+Cincinnati Reds,04/03/13,07:10 PM
+Cincinnati Reds,04/04/13,12:35 PM
+Cincinnati Reds,04/05/13,07:10 PM
+Cincinnati Reds,04/06/13,01:10 PM
+Cincinnati Reds,04/07/13,01:10 PM
+Cincinnati Reds,04/15/13,07:10 PM
+Cincinnati Reds,04/16/13,07:10 PM
+Cincinnati Reds,04/17/13,07:10 PM
+Cincinnati Reds,04/18/13,07:10 PM
+Cincinnati Reds,04/19/13,07:10 PM
+Cincinnati Reds,04/20/13,01:10 PM
+Cincinnati Reds,04/21/13,01:10 PM
+Cincinnati Reds,04/22/13,07:10 PM
+Cincinnati Reds,04/23/13,07:10 PM
+Cincinnati Reds,04/24/13,12:35 PM
+Cincinnati Reds,05/06/13,07:10 PM
+Cincinnati Reds,05/07/13,07:10 PM
+Cincinnati Reds,05/08/13,12:35 PM
+Cincinnati Reds,05/10/13,07:10 PM
+Cincinnati Reds,05/11/13,04:10 PM
+Cincinnati Reds,05/12/13,01:10 PM
+Cincinnati Reds,05/24/13,07:10 PM
+Cincinnati Reds,05/25/13,04:10 PM
+Cincinnati Reds,05/26/13,01:10 PM
+Cincinnati Reds,05/27/13,01:10 PM
+Cincinnati Reds,05/28/13,07:10 PM
+Cincinnati Reds,06/03/13,07:10 PM
+Cincinnati Reds,06/04/13,07:10 PM
+Cincinnati Reds,06/05/13,07:10 PM
+Cincinnati Reds,06/07/13,07:10 PM
+Cincinnati Reds,06/08/13,07:15 PM
+Cincinnati Reds,06/09/13,08:05 PM
+Cincinnati Reds,06/14/13,07:10 PM
+Cincinnati Reds,06/15/13,04:10 PM
+Cincinnati Reds,06/16/13,01:10 PM
+Cincinnati Reds,06/17/13,07:10 PM
+Cincinnati Reds,06/18/13,07:10 PM
+Cincinnati Reds,06/19/13,07:10 PM
+Cincinnati Reds,06/20/13,12:35 PM
+Cincinnati Reds,07/01/13,07:10 PM
+Cincinnati Reds,07/02/13,07:10 PM
+Cincinnati Reds,07/03/13,07:10 PM
+Cincinnati Reds,07/04/13,01:10 PM
+Cincinnati Reds,07/05/13,07:10 PM
+Cincinnati Reds,07/06/13,04:10 PM
+Cincinnati Reds,07/07/13,01:10 PM
+Cincinnati Reds,07/19/13,07:10 PM
+Cincinnati Reds,07/20/13,04:05 PM
+Cincinnati Reds,07/21/13,01:10 PM
+Cincinnati Reds,08/02/13,07:10 PM
+Cincinnati Reds,08/03/13,07:10 PM
+Cincinnati Reds,08/04/13,01:10 PM
+Cincinnati Reds,08/06/13,07:10 PM
+Cincinnati Reds,08/07/13,12:35 PM
+Cincinnati Reds,08/09/13,07:10 PM
+Cincinnati Reds,08/10/13,07:10 PM
+Cincinnati Reds,08/11/13,01:10 PM
+Cincinnati Reds,08/19/13,07:10 PM
+Cincinnati Reds,08/20/13,07:10 PM
+Cincinnati Reds,08/21/13,07:10 PM
+Cincinnati Reds,08/22/13,12:35 PM
+Cincinnati Reds,08/23/13,07:10 PM
+Cincinnati Reds,08/24/13,07:10 PM
+Cincinnati Reds,08/25/13,01:10 PM
+Cincinnati Reds,09/02/13,01:10 PM
+Cincinnati Reds,09/03/13,07:10 PM
+Cincinnati Reds,09/04/13,07:10 PM
+Cincinnati Reds,09/05/13,07:10 PM
+Cincinnati Reds,09/06/13,07:10 PM
+Cincinnati Reds,09/07/13,01:05 PM
+Cincinnati Reds,09/08/13,01:10 PM
+Cincinnati Reds,09/09/13,07:10 PM
+Cincinnati Reds,09/10/13,07:10 PM
+Cincinnati Reds,09/11/13,12:35 PM
+Cincinnati Reds,09/23/13,07:10 PM
+Cincinnati Reds,09/24/13,07:10 PM
+Cincinnati Reds,09/25/13,12:35 PM
+Cincinnati Reds,09/27/13,07:10 PM
+Cincinnati Reds,09/28/13,04:10 PM
+Cincinnati Reds,09/29/13,01:10 PM
+Baltimore Orioles,04/05/13,03:05 PM
+Baltimore Orioles,04/06/13,07:05 PM
+Baltimore Orioles,04/07/13,01:35 PM
+Baltimore Orioles,04/16/13,07:05 PM
+Baltimore Orioles,04/17/13,07:05 PM
+Baltimore Orioles,04/18/13,07:05 PM
+Baltimore Orioles,04/20/13,01:05 PM
+Baltimore Orioles,04/20/13,07:05 PM
+Baltimore Orioles,04/21/13,01:35 PM
+Baltimore Orioles,04/22/13,07:05 PM
+Baltimore Orioles,04/23/13,07:05 PM
+Baltimore Orioles,04/24/13,12:35 PM
+Baltimore Orioles,05/07/13,07:05 PM
+Baltimore Orioles,05/08/13,07:05 PM
+Baltimore Orioles,05/09/13,07:05 PM
+Baltimore Orioles,05/14/13,07:05 PM
+Baltimore Orioles,05/15/13,12:35 PM
+Baltimore Orioles,05/17/13,07:05 PM
+Baltimore Orioles,05/18/13,04:05 PM
+Baltimore Orioles,05/19/13,01:35 PM
+Baltimore Orioles,05/20/13,07:05 PM
+Baltimore Orioles,05/21/13,07:05 PM
+Baltimore Orioles,05/22/13,07:05 PM
+Baltimore Orioles,05/29/13,07:05 PM
+Baltimore Orioles,05/30/13,07:05 PM
+Baltimore Orioles,05/31/13,07:05 PM
+Baltimore Orioles,06/01/13,04:05 PM
+Baltimore Orioles,06/02/13,01:35 PM
+Baltimore Orioles,06/10/13,07:05 PM
+Baltimore Orioles,06/11/13,07:05 PM
+Baltimore Orioles,06/12/13,12:35 PM
+Baltimore Orioles,06/13/13,07:05 PM
+Baltimore Orioles,06/14/13,07:05 PM
+Baltimore Orioles,06/15/13,04:05 PM
+Baltimore Orioles,06/16/13,01:35 PM
+Baltimore Orioles,06/24/13,07:05 PM
+Baltimore Orioles,06/25/13,07:05 PM
+Baltimore Orioles,06/26/13,07:05 PM
+Baltimore Orioles,06/27/13,07:05 PM
+Baltimore Orioles,06/28/13,07:05 PM
+Baltimore Orioles,06/29/13,07:15 PM
+Baltimore Orioles,06/30/13,08:05 PM
+Baltimore Orioles,07/08/13,07:05 PM
+Baltimore Orioles,07/09/13,07:05 PM
+Baltimore Orioles,07/10/13,07:05 PM
+Baltimore Orioles,07/11/13,07:05 PM
+Baltimore Orioles,07/12/13,07:05 PM
+Baltimore Orioles,07/13/13,04:05 PM
+Baltimore Orioles,07/14/13,01:35 PM
+Baltimore Orioles,07/26/13,07:05 PM
+Baltimore Orioles,07/27/13,07:05 PM
+Baltimore Orioles,07/28/13,01:35 PM
+Baltimore Orioles,07/30/13,07:05 PM
+Baltimore Orioles,07/31/13,07:05 PM
+Baltimore Orioles,08/01/13,07:05 PM
+Baltimore Orioles,08/02/13,07:05 PM
+Baltimore Orioles,08/03/13,07:05 PM
+Baltimore Orioles,08/04/13,01:35 PM
+Baltimore Orioles,08/16/13,07:05 PM
+Baltimore Orioles,08/17/13,07:05 PM
+Baltimore Orioles,08/18/13,01:35 PM
+Baltimore Orioles,08/19/13,07:05 PM
+Baltimore Orioles,08/20/13,07:05 PM
+Baltimore Orioles,08/21/13,07:05 PM
+Baltimore Orioles,08/23/13,07:05 PM
+Baltimore Orioles,08/24/13,04:05 PM
+Baltimore Orioles,08/25/13,01:35 PM
+Baltimore Orioles,09/05/13,07:05 PM
+Baltimore Orioles,09/06/13,07:05 PM
+Baltimore Orioles,09/07/13,07:05 PM
+Baltimore Orioles,09/08/13,01:35 PM
+Baltimore Orioles,09/09/13,07:05 PM
+Baltimore Orioles,09/10/13,07:05 PM
+Baltimore Orioles,09/11/13,07:05 PM
+Baltimore Orioles,09/12/13,07:05 PM
+Baltimore Orioles,09/24/13,07:05 PM
+Baltimore Orioles,09/25/13,07:05 PM
+Baltimore Orioles,09/26/13,07:05 PM
+Baltimore Orioles,09/27/13,07:05 PM
+Baltimore Orioles,09/28/13,07:05 PM
+Baltimore Orioles,09/29/13,01:35 PM
+Philadelphia Phillies,04/05/13,04:05 PM
+Philadelphia Phillies,04/06/13,07:05 PM
+Philadelphia Phillies,04/07/13,01:35 PM
+Philadelphia Phillies,04/08/13,07:05 PM
+Philadelphia Phillies,04/09/13,07:05 PM
+Philadelphia Phillies,04/10/13,07:05 PM
+Philadelphia Phillies,04/18/13,07:05 PM
+Philadelphia Phillies,04/19/13,07:05 PM
+Philadelphia Phillies,04/20/13,07:05 PM
+Philadelphia Phillies,04/21/13,08:05 PM
+Philadelphia Phillies,04/22/13,07:05 PM
+Philadelphia Phillies,04/23/13,07:05 PM
+Philadelphia Phillies,04/24/13,07:05 PM
+Philadelphia Phillies,04/25/13,01:05 PM
+Philadelphia Phillies,05/02/13,07:05 PM
+Philadelphia Phillies,05/03/13,07:05 PM
+Philadelphia Phillies,05/04/13,07:05 PM
+Philadelphia Phillies,05/05/13,02:35 PM
+Philadelphia Phillies,05/14/13,07:05 PM
+Philadelphia Phillies,05/15/13,01:05 PM
+Philadelphia Phillies,05/17/13,07:05 PM
+Philadelphia Phillies,05/18/13,04:05 PM
+Philadelphia Phillies,05/19/13,01:35 PM
+Philadelphia Phillies,05/29/13,07:05 PM
+Philadelphia Phillies,05/30/13,07:05 PM
+Philadelphia Phillies,05/31/13,07:05 PM
+Philadelphia Phillies,06/01/13,04:05 PM
+Philadelphia Phillies,06/02/13,01:35 PM
+Philadelphia Phillies,06/03/13,07:05 PM
+Philadelphia Phillies,06/04/13,07:05 PM
+Philadelphia Phillies,06/05/13,01:05 PM
+Philadelphia Phillies,06/17/13,07:05 PM
+Philadelphia Phillies,06/18/13,07:05 PM
+Philadelphia Phillies,06/19/13,07:05 PM
+Philadelphia Phillies,06/21/13,07:05 PM
+Philadelphia Phillies,06/22/13,04:05 PM
+Philadelphia Phillies,06/23/13,01:35 PM
+Philadelphia Phillies,07/05/13,07:05 PM
+Philadelphia Phillies,07/06/13,07:15 PM
+Philadelphia Phillies,07/07/13,01:35 PM
+Philadelphia Phillies,07/08/13,07:05 PM
+Philadelphia Phillies,07/09/13,07:05 PM
+Philadelphia Phillies,07/10/13,07:05 PM
+Philadelphia Phillies,07/11/13,07:05 PM
+Philadelphia Phillies,07/12/13,07:05 PM
+Philadelphia Phillies,07/13/13,04:05 PM
+Philadelphia Phillies,07/14/13,01:35 PM
+Philadelphia Phillies,07/30/13,07:05 PM
+Philadelphia Phillies,07/31/13,07:05 PM
+Philadelphia Phillies,08/01/13,07:05 PM
+Philadelphia Phillies,08/02/13,07:05 PM
+Philadelphia Phillies,08/03/13,04:05 PM
+Philadelphia Phillies,08/04/13,01:35 PM
+Philadelphia Phillies,08/06/13,07:05 PM
+Philadelphia Phillies,08/07/13,07:05 PM
+Philadelphia Phillies,08/08/13,01:05 PM
+Philadelphia Phillies,08/16/13,07:05 PM
+Philadelphia Phillies,08/17/13,07:05 PM
+Philadelphia Phillies,08/18/13,01:35 PM
+Philadelphia Phillies,08/19/13,07:05 PM
+Philadelphia Phillies,08/20/13,07:05 PM
+Philadelphia Phillies,08/21/13,07:05 PM
+Philadelphia Phillies,08/22/13,07:05 PM
+Philadelphia Phillies,08/23/13,07:05 PM
+Philadelphia Phillies,08/24/13,07:05 PM
+Philadelphia Phillies,08/25/13,01:35 PM
+Philadelphia Phillies,09/02/13,07:05 PM
+Philadelphia Phillies,09/03/13,07:05 PM
+Philadelphia Phillies,09/04/13,07:05 PM
+Philadelphia Phillies,09/06/13,07:05 PM
+Philadelphia Phillies,09/07/13,07:05 PM
+Philadelphia Phillies,09/08/13,01:35 PM
+Philadelphia Phillies,09/10/13,07:05 PM
+Philadelphia Phillies,09/11/13,07:05 PM
+Philadelphia Phillies,09/12/13,07:05 PM
+Philadelphia Phillies,09/16/13,07:05 PM
+Philadelphia Phillies,09/17/13,07:05 PM
+Philadelphia Phillies,09/18/13,07:05 PM
+Philadelphia Phillies,09/20/13,07:05 PM
+Philadelphia Phillies,09/21/13,07:05 PM
+Philadelphia Phillies,09/22/13,01:35 PM
+Arizona Diamondbacks,04/01/13,07:10 PM
+Arizona Diamondbacks,04/02/13,06:40 PM
+Arizona Diamondbacks,04/03/13,06:40 PM
+Arizona Diamondbacks,04/08/13,06:40 PM
+Arizona Diamondbacks,04/09/13,06:40 PM
+Arizona Diamondbacks,04/10/13,12:40 PM
+Arizona Diamondbacks,04/12/13,06:40 PM
+Arizona Diamondbacks,04/13/13,05:10 PM
+Arizona Diamondbacks,04/14/13,01:10 PM
+Arizona Diamondbacks,04/25/13,06:40 PM
+Arizona Diamondbacks,04/26/13,06:40 PM
+Arizona Diamondbacks,04/27/13,05:10 PM
+Arizona Diamondbacks,04/28/13,01:10 PM
+Arizona Diamondbacks,04/29/13,06:40 PM
+Arizona Diamondbacks,04/30/13,06:40 PM
+Arizona Diamondbacks,05/01/13,06:40 PM
+Arizona Diamondbacks,05/09/13,06:40 PM
+Arizona Diamondbacks,05/10/13,06:40 PM
+Arizona Diamondbacks,05/11/13,05:10 PM
+Arizona Diamondbacks,05/12/13,01:10 PM
+Arizona Diamondbacks,05/13/13,06:40 PM
+Arizona Diamondbacks,05/14/13,06:40 PM
+Arizona Diamondbacks,05/15/13,12:40 PM
+Arizona Diamondbacks,05/24/13,06:40 PM
+Arizona Diamondbacks,05/25/13,07:10 PM
+Arizona Diamondbacks,05/26/13,01:10 PM
+Arizona Diamondbacks,05/27/13,12:40 PM
+Arizona Diamondbacks,05/27/13,06:40 PM
+Arizona Diamondbacks,06/07/13,06:40 PM
+Arizona Diamondbacks,06/08/13,07:10 PM
+Arizona Diamondbacks,06/09/13,01:10 PM
+Arizona Diamondbacks,06/17/13,06:40 PM
+Arizona Diamondbacks,06/18/13,06:40 PM
+Arizona Diamondbacks,06/19/13,12:40 PM
+Arizona Diamondbacks,06/21/13,06:40 PM
+Arizona Diamondbacks,06/22/13,04:15 PM
+Arizona Diamondbacks,06/23/13,01:10 PM
+Arizona Diamondbacks,07/05/13,06:40 PM
+Arizona Diamondbacks,07/06/13,07:10 PM
+Arizona Diamondbacks,07/07/13,01:10 PM
+Arizona Diamondbacks,07/08/13,06:40 PM
+Arizona Diamondbacks,07/09/13,06:40 PM
+Arizona Diamondbacks,07/10/13,06:40 PM
+Arizona Diamondbacks,07/11/13,06:40 PM
+Arizona Diamondbacks,07/12/13,06:40 PM
+Arizona Diamondbacks,07/13/13,07:10 PM
+Arizona Diamondbacks,07/14/13,01:10 PM
+Arizona Diamondbacks,07/22/13,06:40 PM
+Arizona Diamondbacks,07/23/13,06:40 PM
+Arizona Diamondbacks,07/24/13,06:40 PM
+Arizona Diamondbacks,07/25/13,06:40 PM
+Arizona Diamondbacks,07/26/13,06:40 PM
+Arizona Diamondbacks,07/27/13,05:10 PM
+Arizona Diamondbacks,07/28/13,01:10 PM
+Arizona Diamondbacks,08/06/13,06:40 PM
+Arizona Diamondbacks,08/07/13,06:40 PM
+Arizona Diamondbacks,08/09/13,06:40 PM
+Arizona Diamondbacks,08/10/13,05:10 PM
+Arizona Diamondbacks,08/11/13,01:10 PM
+Arizona Diamondbacks,08/12/13,06:40 PM
+Arizona Diamondbacks,08/13/13,06:40 PM
+Arizona Diamondbacks,08/14/13,12:40 PM
+Arizona Diamondbacks,08/26/13,06:40 PM
+Arizona Diamondbacks,08/27/13,06:40 PM
+Arizona Diamondbacks,08/28/13,06:40 PM
+Arizona Diamondbacks,08/30/13,06:40 PM
+Arizona Diamondbacks,08/31/13,05:10 PM
+Arizona Diamondbacks,09/01/13,01:10 PM
+Arizona Diamondbacks,09/02/13,01:10 PM
+Arizona Diamondbacks,09/03/13,06:40 PM
+Arizona Diamondbacks,09/04/13,12:40 PM
+Arizona Diamondbacks,09/13/13,06:40 PM
+Arizona Diamondbacks,09/14/13,05:10 PM
+Arizona Diamondbacks,09/15/13,01:10 PM
+Arizona Diamondbacks,09/16/13,06:40 PM
+Arizona Diamondbacks,09/17/13,06:40 PM
+Arizona Diamondbacks,09/18/13,06:40 PM
+Arizona Diamondbacks,09/19/13,12:40 PM
+Arizona Diamondbacks,09/27/13,06:40 PM
+Arizona Diamondbacks,09/28/13,05:10 PM
+Arizona Diamondbacks,09/29/13,01:10 PM
+Chicago White Sox,04/01/13,03:10 PM
+Chicago White Sox,04/03/13,01:10 PM
+Chicago White Sox,04/04/13,01:10 PM
+Chicago White Sox,04/05/13,07:10 PM
+Chicago White Sox,04/06/13,12:10 PM
+Chicago White Sox,04/07/13,01:10 PM
+Chicago White Sox,04/20/13,02:05 PM
+Chicago White Sox,04/21/13,01:10 PM
+Chicago White Sox,04/22/13,07:10 PM
+Chicago White Sox,04/24/13,01:10 PM
+Chicago White Sox,04/25/13,07:10 PM
+Chicago White Sox,04/26/13,07:10 PM
+Chicago White Sox,04/27/13,06:10 PM
+Chicago White Sox,04/28/13,01:10 PM
+Chicago White Sox,05/10/13,07:10 PM
+Chicago White Sox,05/11/13,06:10 PM
+Chicago White Sox,05/12/13,07:05 PM
+Chicago White Sox,05/20/13,07:10 PM
+Chicago White Sox,05/21/13,07:10 PM
+Chicago White Sox,05/22/13,07:10 PM
+Chicago White Sox,05/24/13,07:10 PM
+Chicago White Sox,05/25/13,06:15 PM
+Chicago White Sox,05/26/13,01:10 PM
+Chicago White Sox,05/27/13,06:10 PM
+Chicago White Sox,06/06/13,07:10 PM
+Chicago White Sox,06/07/13,07:10 PM
+Chicago White Sox,06/08/13,03:10 PM
+Chicago White Sox,06/09/13,01:10 PM
+Chicago White Sox,06/10/13,07:10 PM
+Chicago White Sox,06/11/13,07:10 PM
+Chicago White Sox,06/12/13,07:10 PM
+Chicago White Sox,06/25/13,07:10 PM
+Chicago White Sox,06/26/13,07:10 PM
+Chicago White Sox,06/28/13,04:10 PM
+Chicago White Sox,06/28/13,03:33 AM
+Chicago White Sox,06/29/13,03:10 PM
+Chicago White Sox,06/30/13,01:10 PM
+Chicago White Sox,07/02/13,07:10 PM
+Chicago White Sox,07/03/13,06:10 PM
+Chicago White Sox,07/04/13,01:10 PM
+Chicago White Sox,07/08/13,07:10 PM
+Chicago White Sox,07/19/13,07:10 PM
+Chicago White Sox,07/20/13,03:05 PM
+Chicago White Sox,07/21/13,01:10 PM
+Chicago White Sox,07/22/13,07:10 PM
+Chicago White Sox,07/23/13,07:10 PM
+Chicago White Sox,07/24/13,07:10 PM
+Chicago White Sox,07/25/13,01:10 PM
+Chicago White Sox,07/26/13,07:10 PM
+Chicago White Sox,07/27/13,06:10 PM
+Chicago White Sox,07/28/13,01:10 PM
+Chicago White Sox,08/05/13,07:10 PM
+Chicago White Sox,08/06/13,07:10 PM
+Chicago White Sox,08/07/13,07:10 PM
+Chicago White Sox,08/09/13,01:10 PM
+Chicago White Sox,08/09/13,07:10 PM
+Chicago White Sox,08/10/13,03:05 PM
+Chicago White Sox,08/11/13,01:10 PM
+Chicago White Sox,08/12/13,07:10 PM
+Chicago White Sox,08/13/13,07:10 PM
+Chicago White Sox,08/14/13,01:10 PM
+Chicago White Sox,08/23/13,07:10 PM
+Chicago White Sox,08/24/13,06:10 PM
+Chicago White Sox,08/25/13,01:10 PM
+Chicago White Sox,08/26/13,07:10 PM
+Chicago White Sox,08/27/13,07:10 PM
+Chicago White Sox,08/28/13,07:10 PM
+Chicago White Sox,09/09/13,07:10 PM
+Chicago White Sox,09/10/13,07:10 PM
+Chicago White Sox,09/11/13,07:10 PM
+Chicago White Sox,09/12/13,07:10 PM
+Chicago White Sox,09/13/13,01:10 PM
+Chicago White Sox,09/14/13,06:10 PM
+Chicago White Sox,09/15/13,01:10 PM
+Chicago White Sox,09/16/13,07:10 PM
+Chicago White Sox,09/17/13,07:10 PM
+Chicago White Sox,09/18/13,01:10 PM
+Chicago White Sox,09/26/13,07:10 PM
+Chicago White Sox,09/27/13,07:10 PM
+Chicago White Sox,09/28/13,06:10 PM
+Chicago White Sox,09/29/13,01:10 PM
+Houston Astros,03/31/13,07:10 PM
+Houston Astros,04/02/13,07:10 PM
+Houston Astros,04/03/13,01:10 PM
+Houston Astros,04/05/13,07:10 PM
+Houston Astros,04/06/13,06:10 PM
+Houston Astros,04/07/13,01:10 PM
+Houston Astros,04/19/13,07:10 PM
+Houston Astros,04/20/13,06:10 PM
+Houston Astros,04/21/13,01:10 PM
+Houston Astros,04/22/13,07:10 PM
+Houston Astros,04/23/13,07:10 PM
+Houston Astros,04/24/13,01:10 PM
+Houston Astros,05/02/13,07:10 PM
+Houston Astros,05/03/13,07:10 PM
+Houston Astros,05/04/13,06:10 PM
+Houston Astros,05/05/13,03:10 PM
+Houston Astros,05/07/13,07:10 PM
+Houston Astros,05/08/13,07:10 PM
+Houston Astros,05/09/13,07:10 PM
+Houston Astros,05/10/13,07:10 PM
+Houston Astros,05/11/13,06:10 PM
+Houston Astros,05/12/13,01:10 PM
+Houston Astros,05/20/13,07:10 PM
+Houston Astros,05/21/13,07:10 PM
+Houston Astros,05/22/13,07:10 PM
+Houston Astros,05/24/13,07:10 PM
+Houston Astros,05/25/13,06:15 PM
+Houston Astros,05/26/13,01:10 PM
+Houston Astros,05/27/13,01:10 PM
+Houston Astros,05/28/13,01:10 PM
+Houston Astros,06/04/13,07:10 PM
+Houston Astros,06/05/13,07:10 PM
+Houston Astros,06/06/13,01:10 PM
+Houston Astros,06/14/13,07:10 PM
+Houston Astros,06/15/13,06:15 PM
+Houston Astros,06/16/13,01:10 PM
+Houston Astros,06/17/13,07:10 PM
+Houston Astros,06/18/13,07:10 PM
+Houston Astros,06/19/13,07:10 PM
+Houston Astros,06/20/13,01:10 PM
+Houston Astros,06/25/13,07:10 PM
+Houston Astros,06/26/13,07:10 PM
+Houston Astros,06/28/13,07:10 PM
+Houston Astros,06/29/13,03:10 PM
+Houston Astros,06/30/13,01:10 PM
+Houston Astros,07/01/13,07:10 PM
+Houston Astros,07/02/13,07:10 PM
+Houston Astros,07/03/13,07:10 PM
+Houston Astros,07/04/13,01:10 PM
+Houston Astros,07/19/13,07:10 PM
+Houston Astros,07/20/13,06:10 PM
+Houston Astros,07/21/13,01:10 PM
+Houston Astros,07/22/13,07:10 PM
+Houston Astros,07/23/13,07:10 PM
+Houston Astros,07/24/13,01:10 PM
+Houston Astros,08/05/13,07:10 PM
+Houston Astros,08/06/13,07:10 PM
+Houston Astros,08/07/13,07:10 PM
+Houston Astros,08/09/13,07:10 PM
+Houston Astros,08/10/13,06:10 PM
+Houston Astros,08/11/13,01:10 PM
+Houston Astros,08/12/13,01:10 PM
+Houston Astros,08/23/13,07:10 PM
+Houston Astros,08/24/13,06:10 PM
+Houston Astros,08/25/13,01:10 PM
+Houston Astros,08/29/13,07:10 PM
+Houston Astros,08/30/13,07:10 PM
+Houston Astros,08/31/13,06:10 PM
+Houston Astros,09/01/13,01:10 PM
+Houston Astros,09/02/13,01:10 PM
+Houston Astros,09/03/13,07:10 PM
+Houston Astros,09/04/13,01:10 PM
+Houston Astros,09/13/13,07:10 PM
+Houston Astros,09/14/13,06:10 PM
+Houston Astros,09/15/13,01:10 PM
+Houston Astros,09/16/13,07:10 PM
+Houston Astros,09/17/13,07:10 PM
+Houston Astros,09/18/13,07:10 PM
+Houston Astros,09/27/13,07:10 PM
+Houston Astros,09/28/13,06:10 PM
+Houston Astros,09/29/13,01:10 PM
+Cleveland Indians,04/08/13,04:05 PM
+Cleveland Indians,04/09/13,07:05 PM
+Cleveland Indians,04/12/13,07:05 PM
+Cleveland Indians,04/13/13,04:05 PM
+Cleveland Indians,04/14/13,01:05 PM
+Cleveland Indians,04/16/13,07:05 PM
+Cleveland Indians,04/17/13,07:05 PM
+Cleveland Indians,04/18/13,07:05 PM
+Cleveland Indians,04/30/13,07:05 PM
+Cleveland Indians,05/01/13,07:05 PM
+Cleveland Indians,05/03/13,07:05 PM
+Cleveland Indians,05/04/13,01:05 PM
+Cleveland Indians,05/05/13,01:05 PM
+Cleveland Indians,05/06/13,07:05 PM
+Cleveland Indians,05/07/13,07:05 PM
+Cleveland Indians,05/08/13,07:05 PM
+Cleveland Indians,05/09/13,12:05 PM
+Cleveland Indians,05/13/13,12:05 PM
+Cleveland Indians,05/13/13,03:33 AM
+Cleveland Indians,05/17/13,07:05 PM
+Cleveland Indians,05/18/13,01:05 PM
+Cleveland Indians,05/19/13,01:05 PM
+Cleveland Indians,05/20/13,12:05 PM
+Cleveland Indians,05/21/13,07:05 PM
+Cleveland Indians,05/22/13,07:05 PM
+Cleveland Indians,05/29/13,07:05 PM
+Cleveland Indians,05/30/13,07:05 PM
+Cleveland Indians,05/31/13,07:05 PM
+Cleveland Indians,06/01/13,01:05 PM
+Cleveland Indians,06/02/13,01:05 PM
+Cleveland Indians,06/14/13,07:05 PM
+Cleveland Indians,06/15/13,07:15 PM
+Cleveland Indians,06/16/13,01:05 PM
+Cleveland Indians,06/17/13,07:05 PM
+Cleveland Indians,06/18/13,07:05 PM
+Cleveland Indians,06/19/13,07:05 PM
+Cleveland Indians,06/21/13,07:05 PM
+Cleveland Indians,06/22/13,07:15 PM
+Cleveland Indians,06/23/13,01:05 PM
+Cleveland Indians,07/05/13,07:05 PM
+Cleveland Indians,07/06/13,04:05 PM
+Cleveland Indians,07/07/13,01:05 PM
+Cleveland Indians,07/08/13,07:05 PM
+Cleveland Indians,07/09/13,07:05 PM
+Cleveland Indians,07/10/13,07:05 PM
+Cleveland Indians,07/11/13,12:05 PM
+Cleveland Indians,07/12/13,07:05 PM
+Cleveland Indians,07/13/13,07:05 PM
+Cleveland Indians,07/14/13,01:05 PM
+Cleveland Indians,07/26/13,07:05 PM
+Cleveland Indians,07/27/13,07:05 PM
+Cleveland Indians,07/28/13,01:05 PM
+Cleveland Indians,07/29/13,07:05 PM
+Cleveland Indians,07/30/13,07:05 PM
+Cleveland Indians,07/31/13,07:05 PM
+Cleveland Indians,08/01/13,12:05 PM
+Cleveland Indians,08/05/13,07:05 PM
+Cleveland Indians,08/06/13,07:05 PM
+Cleveland Indians,08/07/13,07:05 PM
+Cleveland Indians,08/08/13,07:05 PM
+Cleveland Indians,08/09/13,07:05 PM
+Cleveland Indians,08/10/13,07:05 PM
+Cleveland Indians,08/11/13,01:05 PM
+Cleveland Indians,08/23/13,07:05 PM
+Cleveland Indians,08/24/13,07:05 PM
+Cleveland Indians,08/25/13,01:05 PM
+Cleveland Indians,09/02/13,04:05 PM
+Cleveland Indians,09/03/13,07:05 PM
+Cleveland Indians,09/04/13,07:05 PM
+Cleveland Indians,09/06/13,07:05 PM
+Cleveland Indians,09/07/13,06:05 PM
+Cleveland Indians,09/08/13,01:05 PM
+Cleveland Indians,09/09/13,07:05 PM
+Cleveland Indians,09/10/13,07:05 PM
+Cleveland Indians,09/11/13,12:05 PM
+Cleveland Indians,09/19/13,07:05 PM
+Cleveland Indians,09/20/13,07:05 PM
+Cleveland Indians,09/21/13,06:05 PM
+Cleveland Indians,09/22/13,01:05 PM
+Cleveland Indians,09/24/13,07:05 PM
+Cleveland Indians,09/25/13,07:05 PM
+Texas Rangers,04/05/13,01:05 PM
+Texas Rangers,04/06/13,03:05 PM
+Texas Rangers,04/07/13,07:05 PM
+Texas Rangers,04/08/13,07:05 PM
+Texas Rangers,04/09/13,07:05 PM
+Texas Rangers,04/10/13,01:05 PM
+Texas Rangers,04/19/13,07:05 PM
+Texas Rangers,04/20/13,07:05 PM
+Texas Rangers,04/21/13,02:05 PM
+Texas Rangers,04/30/13,07:05 PM
+Texas Rangers,05/01/13,07:05 PM
+Texas Rangers,05/02/13,07:05 PM
+Texas Rangers,05/03/13,07:05 PM
+Texas Rangers,05/04/13,07:05 PM
+Texas Rangers,05/05/13,02:05 PM
+Texas Rangers,05/16/13,07:05 PM
+Texas Rangers,05/17/13,07:05 PM
+Texas Rangers,05/18/13,07:05 PM
+Texas Rangers,05/19/13,07:05 PM
+Texas Rangers,05/20/13,07:05 PM
+Texas Rangers,05/21/13,07:05 PM
+Texas Rangers,05/22/13,01:05 PM
+Texas Rangers,05/29/13,07:05 PM
+Texas Rangers,05/30/13,01:05 PM
+Texas Rangers,05/31/13,07:05 PM
+Texas Rangers,06/01/13,03:05 PM
+Texas Rangers,06/02/13,02:05 PM
+Texas Rangers,06/10/13,07:05 PM
+Texas Rangers,06/11/13,07:05 PM
+Texas Rangers,06/12/13,07:05 PM
+Texas Rangers,06/13/13,07:05 PM
+Texas Rangers,06/14/13,07:05 PM
+Texas Rangers,06/15/13,03:05 PM
+Texas Rangers,06/16/13,02:05 PM
+Texas Rangers,06/17/13,07:05 PM
+Texas Rangers,06/18/13,07:05 PM
+Texas Rangers,06/19/13,07:05 PM
+Texas Rangers,06/20/13,01:05 PM
+Texas Rangers,06/28/13,07:05 PM
+Texas Rangers,06/29/13,06:15 PM
+Texas Rangers,06/30/13,02:05 PM
+Texas Rangers,07/02/13,07:05 PM
+Texas Rangers,07/03/13,07:05 PM
+Texas Rangers,07/04/13,07:05 PM
+Texas Rangers,07/05/13,07:05 PM
+Texas Rangers,07/06/13,06:15 PM
+Texas Rangers,07/07/13,02:05 PM
+Texas Rangers,07/19/13,07:05 PM
+Texas Rangers,07/20/13,07:05 PM
+Texas Rangers,07/21/13,06:05 PM
+Texas Rangers,07/22/13,07:05 PM
+Texas Rangers,07/23/13,07:05 PM
+Texas Rangers,07/24/13,07:05 PM
+Texas Rangers,07/25/13,01:05 PM
+Texas Rangers,07/29/13,07:05 PM
+Texas Rangers,07/30/13,07:05 PM
+Texas Rangers,07/31/13,07:05 PM
+Texas Rangers,08/13/13,07:05 PM
+Texas Rangers,08/14/13,07:05 PM
+Texas Rangers,08/16/13,07:05 PM
+Texas Rangers,08/17/13,07:05 PM
+Texas Rangers,08/18/13,02:05 PM
+Texas Rangers,08/19/13,07:05 PM
+Texas Rangers,08/20/13,07:05 PM
+Texas Rangers,08/21/13,07:05 PM
+Texas Rangers,08/30/13,07:05 PM
+Texas Rangers,08/31/13,07:05 PM
+Texas Rangers,09/01/13,02:05 PM
+Texas Rangers,09/09/13,07:05 PM
+Texas Rangers,09/10/13,07:05 PM
+Texas Rangers,09/11/13,01:05 PM
+Texas Rangers,09/13/13,07:05 PM
+Texas Rangers,09/14/13,12:05 PM
+Texas Rangers,09/15/13,02:05 PM
+Texas Rangers,09/23/13,07:05 PM
+Texas Rangers,09/24/13,07:05 PM
+Texas Rangers,09/25/13,07:05 PM
+Texas Rangers,09/26/13,07:05 PM
+Texas Rangers,09/27/13,07:05 PM
+Texas Rangers,09/28/13,07:05 PM
+Texas Rangers,09/29/13,02:05 PM
+Tampa Bay Rays,04/02/13,03:10 PM
+Tampa Bay Rays,04/03/13,07:10 PM
+Tampa Bay Rays,04/04/13,03:10 PM
+Tampa Bay Rays,04/05/13,07:10 PM
+Tampa Bay Rays,04/06/13,07:10 PM
+Tampa Bay Rays,04/07/13,01:40 PM
+Tampa Bay Rays,04/19/13,07:10 PM
+Tampa Bay Rays,04/20/13,07:10 PM
+Tampa Bay Rays,04/21/13,01:40 PM
+Tampa Bay Rays,04/22/13,07:10 PM
+Tampa Bay Rays,04/23/13,07:10 PM
+Tampa Bay Rays,04/24/13,07:10 PM
+Tampa Bay Rays,05/06/13,07:10 PM
+Tampa Bay Rays,05/07/13,07:10 PM
+Tampa Bay Rays,05/08/13,07:10 PM
+Tampa Bay Rays,05/09/13,07:10 PM
+Tampa Bay Rays,05/10/13,07:10 PM
+Tampa Bay Rays,05/11/13,06:10 PM
+Tampa Bay Rays,05/12/13,01:40 PM
+Tampa Bay Rays,05/14/13,07:10 PM
+Tampa Bay Rays,05/15/13,07:10 PM
+Tampa Bay Rays,05/16/13,07:10 PM
+Tampa Bay Rays,05/24/13,07:10 PM
+Tampa Bay Rays,05/25/13,04:10 PM
+Tampa Bay Rays,05/26/13,01:40 PM
+Tampa Bay Rays,05/27/13,03:10 PM
+Tampa Bay Rays,05/28/13,07:10 PM
+Tampa Bay Rays,06/07/13,07:10 PM
+Tampa Bay Rays,06/08/13,04:10 PM
+Tampa Bay Rays,06/09/13,01:40 PM
+Tampa Bay Rays,06/10/13,07:10 PM
+Tampa Bay Rays,06/11/13,07:10 PM
+Tampa Bay Rays,06/12/13,07:10 PM
+Tampa Bay Rays,06/13/13,07:10 PM
+Tampa Bay Rays,06/14/13,07:10 PM
+Tampa Bay Rays,06/15/13,04:10 PM
+Tampa Bay Rays,06/16/13,01:40 PM
+Tampa Bay Rays,06/24/13,07:10 PM
+Tampa Bay Rays,06/25/13,07:10 PM
+Tampa Bay Rays,06/26/13,12:10 PM
+Tampa Bay Rays,06/28/13,07:10 PM
+Tampa Bay Rays,06/29/13,07:15 PM
+Tampa Bay Rays,06/30/13,01:40 PM
+Tampa Bay Rays,07/05/13,07:10 PM
+Tampa Bay Rays,07/06/13,07:15 PM
+Tampa Bay Rays,07/07/13,01:40 PM
+Tampa Bay Rays,07/08/13,07:10 PM
+Tampa Bay Rays,07/09/13,07:10 PM
+Tampa Bay Rays,07/10/13,07:10 PM
+Tampa Bay Rays,07/11/13,12:10 PM
+Tampa Bay Rays,07/12/13,07:10 PM
+Tampa Bay Rays,07/13/13,04:10 PM
+Tampa Bay Rays,07/14/13,01:40 PM
+Tampa Bay Rays,07/30/13,07:10 PM
+Tampa Bay Rays,07/31/13,07:10 PM
+Tampa Bay Rays,08/02/13,07:10 PM
+Tampa Bay Rays,08/03/13,07:10 PM
+Tampa Bay Rays,08/04/13,01:40 PM
+Tampa Bay Rays,08/13/13,07:10 PM
+Tampa Bay Rays,08/14/13,07:10 PM
+Tampa Bay Rays,08/15/13,07:10 PM
+Tampa Bay Rays,08/16/13,07:10 PM
+Tampa Bay Rays,08/17/13,07:10 PM
+Tampa Bay Rays,08/18/13,01:40 PM
+Tampa Bay Rays,08/23/13,07:10 PM
+Tampa Bay Rays,08/24/13,07:10 PM
+Tampa Bay Rays,08/25/13,01:40 PM
+Tampa Bay Rays,08/27/13,07:10 PM
+Tampa Bay Rays,08/28/13,07:10 PM
+Tampa Bay Rays,08/29/13,01:10 PM
+Tampa Bay Rays,09/10/13,07:10 PM
+Tampa Bay Rays,09/11/13,07:10 PM
+Tampa Bay Rays,09/12/13,07:10 PM
+Tampa Bay Rays,09/16/13,07:10 PM
+Tampa Bay Rays,09/17/13,07:10 PM
+Tampa Bay Rays,09/18/13,07:10 PM
+Tampa Bay Rays,09/19/13,07:10 PM
+Tampa Bay Rays,09/20/13,07:10 PM
+Tampa Bay Rays,09/21/13,07:10 PM
+Tampa Bay Rays,09/22/13,01:40 PM
+Tampa Bay Rays,09/23/13,03:10 PM
+St. Louis Cardinals,04/08/13,03:15 PM
+St. Louis Cardinals,04/09/13,07:15 PM
+St. Louis Cardinals,04/10/13,12:45 PM
+St. Louis Cardinals,04/12/13,07:15 PM
+St. Louis Cardinals,04/13/13,03:15 PM
+St. Louis Cardinals,04/14/13,01:15 PM
+St. Louis Cardinals,04/26/13,07:15 PM
+St. Louis Cardinals,04/27/13,03:15 PM
+St. Louis Cardinals,04/28/13,01:15 PM
+St. Louis Cardinals,04/29/13,07:15 PM
+St. Louis Cardinals,04/30/13,07:15 PM
+St. Louis Cardinals,05/01/13,12:45 PM
+St. Louis Cardinals,05/10/13,07:15 PM
+St. Louis Cardinals,05/11/13,01:15 PM
+St. Louis Cardinals,05/12/13,01:15 PM
+St. Louis Cardinals,05/13/13,06:05 PM
+St. Louis Cardinals,05/14/13,07:15 PM
+St. Louis Cardinals,05/15/13,07:15 PM
+St. Louis Cardinals,05/16/13,12:45 PM
+St. Louis Cardinals,05/17/13,07:15 PM
+St. Louis Cardinals,05/18/13,06:15 PM
+St. Louis Cardinals,05/19/13,01:15 PM
+St. Louis Cardinals,05/29/13,07:15 PM
+St. Louis Cardinals,05/30/13,07:15 PM
+St. Louis Cardinals,06/01/13,12:15 PM
+St. Louis Cardinals,06/01/13,06:15 PM
+St. Louis Cardinals,06/02/13,01:15 PM
+St. Louis Cardinals,06/03/13,07:15 PM
+St. Louis Cardinals,06/04/13,07:15 PM
+St. Louis Cardinals,06/05/13,07:15 PM
+St. Louis Cardinals,06/06/13,06:15 PM
+St. Louis Cardinals,06/17/13,06:05 PM
+St. Louis Cardinals,06/18/13,07:15 PM
+St. Louis Cardinals,06/19/13,07:15 PM
+St. Louis Cardinals,06/20/13,07:15 PM
+St. Louis Cardinals,06/21/13,07:15 PM
+St. Louis Cardinals,06/22/13,06:15 PM
+St. Louis Cardinals,06/23/13,07:05 PM
+St. Louis Cardinals,07/05/13,07:15 PM
+St. Louis Cardinals,07/06/13,01:15 PM
+St. Louis Cardinals,07/07/13,01:15 PM
+St. Louis Cardinals,07/09/13,07:15 PM
+St. Louis Cardinals,07/10/13,07:15 PM
+St. Louis Cardinals,07/19/13,07:15 PM
+St. Louis Cardinals,07/20/13,06:15 PM
+St. Louis Cardinals,07/21/13,01:15 PM
+St. Louis Cardinals,07/23/13,07:15 PM
+St. Louis Cardinals,07/24/13,07:15 PM
+St. Louis Cardinals,07/25/13,06:15 PM
+St. Louis Cardinals,08/05/13,06:05 PM
+St. Louis Cardinals,08/06/13,07:15 PM
+St. Louis Cardinals,08/07/13,07:15 PM
+St. Louis Cardinals,08/08/13,07:15 PM
+St. Louis Cardinals,08/09/13,07:15 PM
+St. Louis Cardinals,08/10/13,06:15 PM
+St. Louis Cardinals,08/11/13,01:15 PM
+St. Louis Cardinals,08/13/13,07:15 PM
+St. Louis Cardinals,08/14/13,07:15 PM
+St. Louis Cardinals,08/15/13,12:45 PM
+St. Louis Cardinals,08/22/13,07:15 PM
+St. Louis Cardinals,08/23/13,07:15 PM
+St. Louis Cardinals,08/24/13,06:15 PM
+St. Louis Cardinals,08/25/13,01:15 PM
+St. Louis Cardinals,08/26/13,06:05 PM
+St. Louis Cardinals,08/27/13,07:15 PM
+St. Louis Cardinals,08/28/13,07:15 PM
+St. Louis Cardinals,09/06/13,07:15 PM
+St. Louis Cardinals,09/07/13,06:15 PM
+St. Louis Cardinals,09/08/13,01:15 PM
+St. Louis Cardinals,09/10/13,07:15 PM
+St. Louis Cardinals,09/11/13,07:15 PM
+St. Louis Cardinals,09/12/13,07:15 PM
+St. Louis Cardinals,09/13/13,07:15 PM
+St. Louis Cardinals,09/14/13,06:15 PM
+St. Louis Cardinals,09/15/13,01:15 PM
+St. Louis Cardinals,09/23/13,07:15 PM
+St. Louis Cardinals,09/24/13,07:15 PM
+St. Louis Cardinals,09/25/13,12:45 PM
+St. Louis Cardinals,09/27/13,07:15 PM
+St. Louis Cardinals,09/28/13,06:15 PM
+St. Louis Cardinals,09/29/13,01:15 PM
+Chicago Cubs,04/08/13,01:20 PM
+Chicago Cubs,04/09/13,07:05 PM
+Chicago Cubs,04/11/13,01:20 PM
+Chicago Cubs,04/12/13,01:20 PM
+Chicago Cubs,04/13/13,12:05 PM
+Chicago Cubs,04/14/13,01:20 PM
+Chicago Cubs,04/16/13,07:05 PM
+Chicago Cubs,04/18/13,01:20 PM
+Chicago Cubs,04/29/13,07:05 PM
+Chicago Cubs,04/30/13,07:05 PM
+Chicago Cubs,05/01/13,07:05 PM
+Chicago Cubs,05/02/13,01:20 PM
+Chicago Cubs,05/03/13,01:20 PM
+Chicago Cubs,05/04/13,12:05 PM
+Chicago Cubs,05/05/13,01:20 PM
+Chicago Cubs,05/06/13,07:05 PM
+Chicago Cubs,05/07/13,07:05 PM
+Chicago Cubs,05/08/13,01:20 PM
+Chicago Cubs,05/13/13,07:05 PM
+Chicago Cubs,05/14/13,07:05 PM
+Chicago Cubs,05/15/13,07:05 PM
+Chicago Cubs,05/17/13,01:20 PM
+Chicago Cubs,05/18/13,12:05 PM
+Chicago Cubs,05/19/13,01:20 PM
+Chicago Cubs,05/29/13,01:20 PM
+Chicago Cubs,05/30/13,01:20 PM
+Chicago Cubs,05/31/13,01:20 PM
+Chicago Cubs,06/01/13,06:15 PM
+Chicago Cubs,06/02/13,01:20 PM
+Chicago Cubs,06/07/13,01:20 PM
+Chicago Cubs,06/08/13,03:05 PM
+Chicago Cubs,06/09/13,01:20 PM
+Chicago Cubs,06/10/13,07:05 PM
+Chicago Cubs,06/11/13,07:05 PM
+Chicago Cubs,06/12/13,01:20 PM
+Chicago Cubs,06/13/13,01:20 PM
+Chicago Cubs,06/21/13,01:20 PM
+Chicago Cubs,06/22/13,03:05 PM
+Chicago Cubs,06/23/13,01:20 PM
+Chicago Cubs,07/05/13,03:05 PM
+Chicago Cubs,07/06/13,03:05 PM
+Chicago Cubs,07/07/13,01:20 PM
+Chicago Cubs,07/09/13,07:05 PM
+Chicago Cubs,07/10/13,07:05 PM
+Chicago Cubs,07/11/13,07:05 PM
+Chicago Cubs,07/12/13,03:05 PM
+Chicago Cubs,07/13/13,06:15 PM
+Chicago Cubs,07/14/13,07:05 PM
+Chicago Cubs,07/29/13,07:05 PM
+Chicago Cubs,07/30/13,01:20 PM
+Chicago Cubs,07/30/13,07:05 PM
+Chicago Cubs,07/31/13,07:05 PM
+Chicago Cubs,08/01/13,07:05 PM
+Chicago Cubs,08/02/13,03:05 PM
+Chicago Cubs,08/03/13,03:05 PM
+Chicago Cubs,08/04/13,01:20 PM
+Chicago Cubs,08/12/13,07:05 PM
+Chicago Cubs,08/13/13,07:05 PM
+Chicago Cubs,08/14/13,01:20 PM
+Chicago Cubs,08/16/13,03:05 PM
+Chicago Cubs,08/17/13,12:05 PM
+Chicago Cubs,08/18/13,03:33 AM
+Chicago Cubs,08/19/13,07:05 PM
+Chicago Cubs,08/20/13,07:05 PM
+Chicago Cubs,08/21/13,07:05 PM
+Chicago Cubs,08/22/13,01:20 PM
+Chicago Cubs,08/30/13,01:20 PM
+Chicago Cubs,08/31/13,03:05 PM
+Chicago Cubs,09/01/13,03:33 AM
+Chicago Cubs,09/02/13,01:20 PM
+Chicago Cubs,09/03/13,07:05 PM
+Chicago Cubs,09/04/13,01:20 PM
+Chicago Cubs,09/06/13,01:20 PM
+Chicago Cubs,09/07/13,12:05 PM
+Chicago Cubs,09/08/13,01:20 PM
+Chicago Cubs,09/20/13,01:20 PM
+Chicago Cubs,09/21/13,03:05 PM
+Chicago Cubs,09/22/13,01:20 PM
+Chicago Cubs,09/23/13,07:05 PM
+Chicago Cubs,09/24/13,07:05 PM
+Chicago Cubs,09/25/13,01:20 PM
+San Diego Padres,04/09/13,03:40 PM
+San Diego Padres,04/10/13,07:10 PM
+San Diego Padres,04/11/13,07:10 PM
+San Diego Padres,04/12/13,07:10 PM
+San Diego Padres,04/13/13,05:40 PM
+San Diego Padres,04/14/13,01:10 PM
+San Diego Padres,04/22/13,07:10 PM
+San Diego Padres,04/23/13,07:10 PM
+San Diego Padres,04/24/13,07:10 PM
+San Diego Padres,04/26/13,07:10 PM
+San Diego Padres,04/27/13,05:40 PM
+San Diego Padres,04/28/13,01:10 PM
+San Diego Padres,05/03/13,07:10 PM
+San Diego Padres,05/04/13,05:40 PM
+San Diego Padres,05/05/13,01:10 PM
+San Diego Padres,05/06/13,07:10 PM
+San Diego Padres,05/07/13,07:10 PM
+San Diego Padres,05/08/13,12:40 PM
+San Diego Padres,05/16/13,07:10 PM
+San Diego Padres,05/17/13,07:10 PM
+San Diego Padres,05/18/13,05:40 PM
+San Diego Padres,05/19/13,01:10 PM
+San Diego Padres,05/20/13,07:10 PM
+San Diego Padres,05/21/13,07:10 PM
+San Diego Padres,05/22/13,07:10 PM
+San Diego Padres,05/29/13,07:10 PM
+San Diego Padres,05/30/13,12:40 PM
+San Diego Padres,05/31/13,07:10 PM
+San Diego Padres,06/01/13,07:10 PM
+San Diego Padres,06/02/13,07:10 PM
+San Diego Padres,06/10/13,07:10 PM
+San Diego Padres,06/11/13,07:10 PM
+San Diego Padres,06/12/13,12:40 PM
+San Diego Padres,06/14/13,07:10 PM
+San Diego Padres,06/15/13,07:10 PM
+San Diego Padres,06/16/13,01:10 PM
+San Diego Padres,06/20/13,07:10 PM
+San Diego Padres,06/21/13,07:10 PM
+San Diego Padres,06/22/13,04:15 PM
+San Diego Padres,06/23/13,01:10 PM
+San Diego Padres,06/24/13,07:10 PM
+San Diego Padres,06/25/13,07:10 PM
+San Diego Padres,06/26/13,07:10 PM
+San Diego Padres,07/08/13,07:10 PM
+San Diego Padres,07/09/13,07:10 PM
+San Diego Padres,07/10/13,07:10 PM
+San Diego Padres,07/11/13,07:10 PM
+San Diego Padres,07/12/13,07:10 PM
+San Diego Padres,07/13/13,07:10 PM
+San Diego Padres,07/14/13,01:10 PM
+San Diego Padres,07/29/13,07:10 PM
+San Diego Padres,07/30/13,07:10 PM
+San Diego Padres,07/31/13,12:40 PM
+San Diego Padres,08/02/13,07:10 PM
+San Diego Padres,08/03/13,05:40 PM
+San Diego Padres,08/04/13,01:10 PM
+San Diego Padres,08/06/13,07:10 PM
+San Diego Padres,08/07/13,12:40 PM
+San Diego Padres,08/15/13,07:10 PM
+San Diego Padres,08/16/13,07:10 PM
+San Diego Padres,08/17/13,05:40 PM
+San Diego Padres,08/18/13,01:10 PM
+San Diego Padres,08/19/13,07:10 PM
+San Diego Padres,08/20/13,07:10 PM
+San Diego Padres,08/21/13,03:40 PM
+San Diego Padres,08/23/13,07:10 PM
+San Diego Padres,08/24/13,05:40 PM
+San Diego Padres,08/25/13,01:10 PM
+San Diego Padres,09/02/13,12:40 PM
+San Diego Padres,09/03/13,07:10 PM
+San Diego Padres,09/04/13,03:40 PM
+San Diego Padres,09/06/13,07:10 PM
+San Diego Padres,09/07/13,05:40 PM
+San Diego Padres,09/08/13,01:10 PM
+San Diego Padres,09/20/13,07:10 PM
+San Diego Padres,09/21/13,05:40 PM
+San Diego Padres,09/22/13,01:10 PM
+San Diego Padres,09/23/13,07:10 PM
+San Diego Padres,09/24/13,07:10 PM
+San Diego Padres,09/25/13,07:10 PM
+San Diego Padres,09/26/13,03:40 PM
+Atlanta Braves,04/01/13,07:10 PM
+Atlanta Braves,04/03/13,07:10 PM
+Atlanta Braves,04/04/13,07:10 PM
+Atlanta Braves,04/05/13,07:30 PM
+Atlanta Braves,04/06/13,07:10 PM
+Atlanta Braves,04/07/13,01:35 PM
+Atlanta Braves,04/16/13,07:10 PM
+Atlanta Braves,04/17/13,12:10 PM
+Atlanta Braves,04/29/13,07:10 PM
+Atlanta Braves,04/30/13,07:10 PM
+Atlanta Braves,05/01/13,07:10 PM
+Atlanta Braves,05/02/13,07:10 PM
+Atlanta Braves,05/03/13,07:30 PM
+Atlanta Braves,05/05/13,01:35 PM
+Atlanta Braves,05/17/13,07:30 PM
+Atlanta Braves,05/18/13,07:10 PM
+Atlanta Braves,05/19/13,01:35 PM
+Atlanta Braves,05/20/13,07:10 PM
+Atlanta Braves,05/21/13,07:10 PM
+Atlanta Braves,05/22/13,12:10 PM
+Atlanta Braves,05/29/13,07:10 PM
+Atlanta Braves,05/30/13,07:10 PM
+Atlanta Braves,05/31/13,07:30 PM
+Atlanta Braves,06/01/13,07:15 PM
+Atlanta Braves,06/02/13,01:35 PM
+Atlanta Braves,06/03/13,07:10 PM
+Atlanta Braves,06/04/13,07:10 PM
+Atlanta Braves,06/05/13,12:10 PM
+Atlanta Braves,06/14/13,07:30 PM
+Atlanta Braves,06/15/13,04:05 PM
+Atlanta Braves,06/16/13,08:05 PM
+Atlanta Braves,06/17/13,07:10 PM
+Atlanta Braves,06/18/13,01:10 PM
+Atlanta Braves,06/18/13,07:10 PM
+Atlanta Braves,06/19/13,07:10 PM
+Atlanta Braves,06/20/13,07:10 PM
+Atlanta Braves,06/28/13,07:30 PM
+Atlanta Braves,06/29/13,04:05 PM
+Atlanta Braves,06/30/13,01:35 PM
+Atlanta Braves,07/02/13,07:10 PM
+Atlanta Braves,07/03/13,07:10 PM
+Atlanta Braves,07/04/13,07:10 PM
+Atlanta Braves,07/11/13,07:10 PM
+Atlanta Braves,07/12/13,07:30 PM
+Atlanta Braves,07/13/13,04:05 PM
+Atlanta Braves,07/14/13,01:35 PM
+Atlanta Braves,07/26/13,07:30 PM
+Atlanta Braves,07/27/13,03:05 PM
+Atlanta Braves,07/28/13,01:35 PM
+Atlanta Braves,07/29/13,07:10 PM
+Atlanta Braves,07/30/13,07:10 PM
+Atlanta Braves,07/31/13,07:10 PM
+Atlanta Braves,08/01/13,07:10 PM
+Atlanta Braves,08/09/13,07:30 PM
+Atlanta Braves,08/10/13,07:10 PM
+Atlanta Braves,08/11/13,01:35 PM
+Atlanta Braves,08/12/13,07:10 PM
+Atlanta Braves,08/13/13,07:10 PM
+Atlanta Braves,08/14/13,07:10 PM
+Atlanta Braves,08/16/13,07:30 PM
+Atlanta Braves,08/17/13,07:10 PM
+Atlanta Braves,08/18/13,01:35 PM
+Atlanta Braves,08/27/13,07:10 PM
+Atlanta Braves,08/28/13,07:10 PM
+Atlanta Braves,08/29/13,07:10 PM
+Atlanta Braves,08/30/13,07:30 PM
+Atlanta Braves,08/31/13,07:10 PM
+Atlanta Braves,09/01/13,05:00 PM
+Atlanta Braves,09/02/13,01:10 PM
+Atlanta Braves,09/03/13,07:10 PM
+Atlanta Braves,09/04/13,12:10 PM
+Atlanta Braves,09/13/13,07:30 PM
+Atlanta Braves,09/14/13,07:10 PM
+Atlanta Braves,09/15/13,01:35 PM
+Atlanta Braves,09/23/13,07:10 PM
+Atlanta Braves,09/24/13,07:10 PM
+Atlanta Braves,09/25/13,07:10 PM
+Atlanta Braves,09/26/13,07:10 PM
+Atlanta Braves,09/27/13,07:30 PM
+Atlanta Braves,09/28/13,07:10 PM
+Atlanta Braves,09/29/13,01:35 PM
+Toronto Blue Jays,04/02/13,07:07 PM
+Toronto Blue Jays,04/03/13,07:07 PM
+Toronto Blue Jays,04/04/13,07:07 PM
+Toronto Blue Jays,04/05/13,07:07 PM
+Toronto Blue Jays,04/06/13,01:07 PM
+Toronto Blue Jays,04/07/13,01:07 PM
+Toronto Blue Jays,04/15/13,07:07 PM
+Toronto Blue Jays,04/16/13,07:07 PM
+Toronto Blue Jays,04/17/13,07:07 PM
+Toronto Blue Jays,04/18/13,07:07 PM
+Toronto Blue Jays,04/19/13,07:07 PM
+Toronto Blue Jays,04/20/13,01:07 PM
+Toronto Blue Jays,04/21/13,01:07 PM
+Toronto Blue Jays,04/30/13,07:07 PM
+Toronto Blue Jays,05/01/13,07:07 PM
+Toronto Blue Jays,05/02/13,07:07 PM
+Toronto Blue Jays,05/03/13,07:07 PM
+Toronto Blue Jays,05/04/13,01:07 PM
+Toronto Blue Jays,05/05/13,01:07 PM
+Toronto Blue Jays,05/14/13,07:07 PM
+Toronto Blue Jays,05/15/13,07:07 PM
+Toronto Blue Jays,05/20/13,01:07 PM
+Toronto Blue Jays,05/21/13,07:07 PM
+Toronto Blue Jays,05/22/13,04:37 PM
+Toronto Blue Jays,05/23/13,07:07 PM
+Toronto Blue Jays,05/24/13,07:07 PM
+Toronto Blue Jays,05/25/13,01:07 PM
+Toronto Blue Jays,05/26/13,01:07 PM
+Toronto Blue Jays,05/27/13,07:07 PM
+Toronto Blue Jays,05/28/13,12:37 PM
+Toronto Blue Jays,06/07/13,07:07 PM
+Toronto Blue Jays,06/08/13,01:07 PM
+Toronto Blue Jays,06/09/13,01:07 PM
+Toronto Blue Jays,06/17/13,07:07 PM
+Toronto Blue Jays,06/18/13,07:07 PM
+Toronto Blue Jays,06/19/13,07:07 PM
+Toronto Blue Jays,06/21/13,07:07 PM
+Toronto Blue Jays,06/22/13,01:07 PM
+Toronto Blue Jays,06/23/13,01:07 PM
+Toronto Blue Jays,07/01/13,01:07 PM
+Toronto Blue Jays,07/02/13,07:07 PM
+Toronto Blue Jays,07/03/13,07:07 PM
+Toronto Blue Jays,07/04/13,07:07 PM
+Toronto Blue Jays,07/05/13,07:07 PM
+Toronto Blue Jays,07/06/13,01:07 PM
+Toronto Blue Jays,07/07/13,01:07 PM
+Toronto Blue Jays,07/19/13,07:07 PM
+Toronto Blue Jays,07/20/13,01:07 PM
+Toronto Blue Jays,07/21/13,01:07 PM
+Toronto Blue Jays,07/22/13,07:07 PM
+Toronto Blue Jays,07/23/13,07:07 PM
+Toronto Blue Jays,07/24/13,07:07 PM
+Toronto Blue Jays,07/25/13,07:07 PM
+Toronto Blue Jays,07/26/13,07:07 PM
+Toronto Blue Jays,07/27/13,01:07 PM
+Toronto Blue Jays,07/28/13,01:07 PM
+Toronto Blue Jays,08/09/13,07:07 PM
+Toronto Blue Jays,08/10/13,01:07 PM
+Toronto Blue Jays,08/11/13,01:07 PM
+Toronto Blue Jays,08/12/13,12:37 PM
+Toronto Blue Jays,08/13/13,07:07 PM
+Toronto Blue Jays,08/14/13,07:07 PM
+Toronto Blue Jays,08/15/13,07:07 PM
+Toronto Blue Jays,08/26/13,07:07 PM
+Toronto Blue Jays,08/27/13,07:07 PM
+Toronto Blue Jays,08/28/13,07:07 PM
+Toronto Blue Jays,08/30/13,07:07 PM
+Toronto Blue Jays,08/31/13,01:07 PM
+Toronto Blue Jays,09/01/13,01:07 PM
+Toronto Blue Jays,09/10/13,07:07 PM
+Toronto Blue Jays,09/11/13,07:07 PM
+Toronto Blue Jays,09/12/13,07:07 PM
+Toronto Blue Jays,09/13/13,07:07 PM
+Toronto Blue Jays,09/14/13,01:07 PM
+Toronto Blue Jays,09/15/13,01:07 PM
+Toronto Blue Jays,09/17/13,07:07 PM
+Toronto Blue Jays,09/18/13,07:07 PM
+Toronto Blue Jays,09/19/13,07:07 PM
+Toronto Blue Jays,09/27/13,07:07 PM
+Toronto Blue Jays,09/28/13,01:07 PM
+Toronto Blue Jays,09/29/13,01:07 PM
+Kansas City Royals,04/08/13,03:10 PM
+Kansas City Royals,04/09/13,07:10 PM
+Kansas City Royals,04/10/13,07:10 PM
+Kansas City Royals,04/12/13,07:10 PM
+Kansas City Royals,04/13/13,06:10 PM
+Kansas City Royals,04/14/13,01:10 PM
+Kansas City Royals,04/27/13,06:10 PM
+Kansas City Royals,04/28/13,01:10 PM
+Kansas City Royals,04/28/13,07:10 PM
+Kansas City Royals,04/29/13,07:10 PM
+Kansas City Royals,04/30/13,07:10 PM
+Kansas City Royals,05/01/13,07:10 PM
+Kansas City Royals,05/02/13,01:10 PM
+Kansas City Royals,05/04/13,06:10 PM
+Kansas City Royals,05/05/13,01:10 PM
+Kansas City Royals,05/06/13,01:10 PM
+Kansas City Royals,05/10/13,07:10 PM
+Kansas City Royals,05/11/13,06:10 PM
+Kansas City Royals,05/12/13,01:10 PM
+Kansas City Royals,05/23/13,07:10 PM
+Kansas City Royals,05/24/13,07:10 PM
+Kansas City Royals,05/25/13,01:10 PM
+Kansas City Royals,05/26/13,01:10 PM
+Kansas City Royals,05/27/13,01:10 PM
+Kansas City Royals,05/28/13,07:10 PM
+Kansas City Royals,06/04/13,07:10 PM
+Kansas City Royals,06/05/13,07:10 PM
+Kansas City Royals,06/06/13,07:10 PM
+Kansas City Royals,06/07/13,07:10 PM
+Kansas City Royals,06/08/13,06:15 PM
+Kansas City Royals,06/09/13,01:10 PM
+Kansas City Royals,06/10/13,07:10 PM
+Kansas City Royals,06/11/13,07:10 PM
+Kansas City Royals,06/12/13,01:10 PM
+Kansas City Royals,06/21/13,07:10 PM
+Kansas City Royals,06/22/13,01:10 PM
+Kansas City Royals,06/23/13,01:10 PM
+Kansas City Royals,06/25/13,07:10 PM
+Kansas City Royals,06/26/13,07:10 PM
+Kansas City Royals,07/02/13,07:10 PM
+Kansas City Royals,07/03/13,07:10 PM
+Kansas City Royals,07/04/13,01:10 PM
+Kansas City Royals,07/05/13,07:10 PM
+Kansas City Royals,07/06/13,01:10 PM
+Kansas City Royals,07/07/13,01:10 PM
+Kansas City Royals,07/19/13,07:10 PM
+Kansas City Royals,07/20/13,06:10 PM
+Kansas City Royals,07/21/13,01:10 PM
+Kansas City Royals,07/22/13,07:10 PM
+Kansas City Royals,07/23/13,07:10 PM
+Kansas City Royals,07/24/13,07:10 PM
+Kansas City Royals,07/25/13,07:10 PM
+Kansas City Royals,08/05/13,07:10 PM
+Kansas City Royals,08/06/13,07:10 PM
+Kansas City Royals,08/07/13,07:10 PM
+Kansas City Royals,08/08/13,07:10 PM
+Kansas City Royals,08/09/13,07:10 PM
+Kansas City Royals,08/10/13,06:10 PM
+Kansas City Royals,08/11/13,01:10 PM
+Kansas City Royals,08/12/13,07:10 PM
+Kansas City Royals,08/13/13,07:10 PM
+Kansas City Royals,08/14/13,01:10 PM
+Kansas City Royals,08/20/13,07:10 PM
+Kansas City Royals,08/21/13,07:10 PM
+Kansas City Royals,08/22/13,07:10 PM
+Kansas City Royals,08/23/13,07:10 PM
+Kansas City Royals,08/24/13,06:10 PM
+Kansas City Royals,08/25/13,01:10 PM
+Kansas City Royals,09/02/13,01:10 PM
+Kansas City Royals,09/03/13,07:10 PM
+Kansas City Royals,09/04/13,07:10 PM
+Kansas City Royals,09/05/13,01:10 PM
+Kansas City Royals,09/06/13,07:10 PM
+Kansas City Royals,09/07/13,06:10 PM
+Kansas City Royals,09/08/13,01:10 PM
+Kansas City Royals,09/16/13,07:10 PM
+Kansas City Royals,09/17/13,07:10 PM
+Kansas City Royals,09/18/13,07:10 PM
+Kansas City Royals,09/20/13,07:10 PM
+Kansas City Royals,09/21/13,06:10 PM
+Kansas City Royals,09/22/13,01:10 PM
+Oakland Athletics,04/01/13,07:05 PM
+Oakland Athletics,04/02/13,07:05 PM
+Oakland Athletics,04/03/13,07:05 PM
+Oakland Athletics,04/04/13,12:35 PM
+Oakland Athletics,04/12/13,07:05 PM
+Oakland Athletics,04/13/13,01:05 PM
+Oakland Athletics,04/14/13,01:05 PM
+Oakland Athletics,04/15/13,07:05 PM
+Oakland Athletics,04/16/13,07:05 PM
+Oakland Athletics,04/17/13,12:35 PM
+Oakland Athletics,04/25/13,07:05 PM
+Oakland Athletics,04/26/13,07:05 PM
+Oakland Athletics,04/27/13,01:05 PM
+Oakland Athletics,04/28/13,01:05 PM
+Oakland Athletics,04/29/13,07:05 PM
+Oakland Athletics,04/30/13,07:05 PM
+Oakland Athletics,05/01/13,12:35 PM
+Oakland Athletics,05/13/13,07:05 PM
+Oakland Athletics,05/14/13,07:05 PM
+Oakland Athletics,05/15/13,12:35 PM
+Oakland Athletics,05/17/13,07:05 PM
+Oakland Athletics,05/18/13,06:05 PM
+Oakland Athletics,05/19/13,01:05 PM
+Oakland Athletics,05/27/13,01:05 PM
+Oakland Athletics,05/28/13,07:05 PM
+Oakland Athletics,05/31/13,07:05 PM
+Oakland Athletics,06/01/13,01:05 PM
+Oakland Athletics,06/02/13,01:05 PM
+Oakland Athletics,06/11/13,07:05 PM
+Oakland Athletics,06/12/13,07:05 PM
+Oakland Athletics,06/13/13,12:35 PM
+Oakland Athletics,06/14/13,07:05 PM
+Oakland Athletics,06/15/13,04:15 PM
+Oakland Athletics,06/16/13,01:05 PM
+Oakland Athletics,06/25/13,07:05 PM
+Oakland Athletics,06/26/13,12:35 PM
+Oakland Athletics,06/28/13,07:05 PM
+Oakland Athletics,06/29/13,01:05 PM
+Oakland Athletics,06/30/13,01:05 PM
+Oakland Athletics,07/02/13,07:05 PM
+Oakland Athletics,07/03/13,07:05 PM
+Oakland Athletics,07/04/13,01:05 PM
+Oakland Athletics,07/12/13,07:05 PM
+Oakland Athletics,07/13/13,07:05 PM
+Oakland Athletics,07/14/13,01:05 PM
+Oakland Athletics,07/25/13,07:05 PM
+Oakland Athletics,07/26/13,07:05 PM
+Oakland Athletics,07/27/13,12:05 PM
+Oakland Athletics,07/28/13,01:05 PM
+Oakland Athletics,07/29/13,07:05 PM
+Oakland Athletics,07/30/13,07:05 PM
+Oakland Athletics,07/31/13,12:35 PM
+Oakland Athletics,08/02/13,07:05 PM
+Oakland Athletics,08/03/13,01:05 PM
+Oakland Athletics,08/04/13,01:05 PM
+Oakland Athletics,08/13/13,07:05 PM
+Oakland Athletics,08/14/13,07:05 PM
+Oakland Athletics,08/15/13,12:35 PM
+Oakland Athletics,08/16/13,07:05 PM
+Oakland Athletics,08/17/13,06:05 PM
+Oakland Athletics,08/18/13,01:05 PM
+Oakland Athletics,08/19/13,07:05 PM
+Oakland Athletics,08/20/13,07:05 PM
+Oakland Athletics,08/21/13,12:35 PM
+Oakland Athletics,08/30/13,07:05 PM
+Oakland Athletics,08/31/13,06:05 PM
+Oakland Athletics,09/01/13,01:05 PM
+Oakland Athletics,09/02/13,01:05 PM
+Oakland Athletics,09/03/13,07:05 PM
+Oakland Athletics,09/04/13,12:35 PM
+Oakland Athletics,09/05/13,07:05 PM
+Oakland Athletics,09/06/13,07:05 PM
+Oakland Athletics,09/07/13,01:05 PM
+Oakland Athletics,09/08/13,01:05 PM
+Oakland Athletics,09/16/13,07:05 PM
+Oakland Athletics,09/17/13,07:05 PM
+Oakland Athletics,09/18/13,12:35 PM
+Oakland Athletics,09/19/13,07:05 PM
+Oakland Athletics,09/20/13,07:05 PM
+Oakland Athletics,09/21/13,01:05 PM
+Oakland Athletics,09/22/13,01:05 PM
+Minnesota Twins,04/01/13,03:10 PM
+Minnesota Twins,04/03/13,03:10 PM
+Minnesota Twins,04/04/13,12:10 PM
+Minnesota Twins,04/12/13,07:10 PM
+Minnesota Twins,04/13/13,03:10 PM
+Minnesota Twins,04/15/13,07:10 PM
+Minnesota Twins,04/16/13,07:10 PM
+Minnesota Twins,04/23/13,01:10 PM
+Minnesota Twins,04/23/13,07:10 PM
+Minnesota Twins,04/25/13,07:10 PM
+Minnesota Twins,04/26/13,07:10 PM
+Minnesota Twins,04/27/13,03:10 PM
+Minnesota Twins,04/28/13,01:10 PM
+Minnesota Twins,05/10/13,07:10 PM
+Minnesota Twins,05/11/13,06:10 PM
+Minnesota Twins,05/12/13,01:10 PM
+Minnesota Twins,05/13/13,07:10 PM
+Minnesota Twins,05/14/13,07:10 PM
+Minnesota Twins,05/15/13,12:10 PM
+Minnesota Twins,05/17/13,07:10 PM
+Minnesota Twins,05/18/13,06:10 PM
+Minnesota Twins,05/19/13,01:10 PM
+Minnesota Twins,05/29/13,07:10 PM
+Minnesota Twins,05/30/13,07:10 PM
+Minnesota Twins,05/31/13,07:10 PM
+Minnesota Twins,06/01/13,12:10 PM
+Minnesota Twins,06/02/13,01:10 PM
+Minnesota Twins,06/11/13,07:10 PM
+Minnesota Twins,06/12/13,07:10 PM
+Minnesota Twins,06/13/13,07:10 PM
+Minnesota Twins,06/14/13,07:10 PM
+Minnesota Twins,06/15/13,06:15 PM
+Minnesota Twins,06/16/13,01:10 PM
+Minnesota Twins,06/18/13,07:10 PM
+Minnesota Twins,06/19/13,07:10 PM
+Minnesota Twins,06/20/13,12:10 PM
+Minnesota Twins,06/27/13,07:10 PM
+Minnesota Twins,06/28/13,07:10 PM
+Minnesota Twins,06/29/13,03:10 PM
+Minnesota Twins,06/30/13,01:10 PM
+Minnesota Twins,07/01/13,07:10 PM
+Minnesota Twins,07/02/13,07:10 PM
+Minnesota Twins,07/03/13,07:10 PM
+Minnesota Twins,07/04/13,01:10 PM
+Minnesota Twins,07/19/13,07:10 PM
+Minnesota Twins,07/20/13,06:10 PM
+Minnesota Twins,07/21/13,01:10 PM
+Minnesota Twins,07/30/13,07:10 PM
+Minnesota Twins,07/31/13,07:10 PM
+Minnesota Twins,08/01/13,12:10 PM
+Minnesota Twins,08/02/13,07:10 PM
+Minnesota Twins,08/03/13,06:10 PM
+Minnesota Twins,08/04/13,01:10 PM
+Minnesota Twins,08/12/13,07:10 PM
+Minnesota Twins,08/13/13,07:10 PM
+Minnesota Twins,08/14/13,12:10 PM
+Minnesota Twins,08/15/13,07:10 PM
+Minnesota Twins,08/16/13,07:10 PM
+Minnesota Twins,08/17/13,06:10 PM
+Minnesota Twins,08/18/13,01:10 PM
+Minnesota Twins,08/19/13,01:10 PM
+Minnesota Twins,08/27/13,07:10 PM
+Minnesota Twins,08/28/13,07:10 PM
+Minnesota Twins,08/29/13,12:10 PM
+Minnesota Twins,09/06/13,07:10 PM
+Minnesota Twins,09/07/13,06:10 PM
+Minnesota Twins,09/08/13,01:10 PM
+Minnesota Twins,09/09/13,06:10 PM
+Minnesota Twins,09/10/13,07:10 PM
+Minnesota Twins,09/11/13,07:10 PM
+Minnesota Twins,09/12/13,12:10 PM
+Minnesota Twins,09/13/13,07:10 PM
+Minnesota Twins,09/14/13,06:10 PM
+Minnesota Twins,09/15/13,01:10 PM
+Minnesota Twins,09/23/13,07:10 PM
+Minnesota Twins,09/24/13,07:10 PM
+Minnesota Twins,09/25/13,07:10 PM
+Minnesota Twins,09/26/13,07:10 PM
+Minnesota Twins,09/27/13,07:10 PM
+Minnesota Twins,09/28/13,03:10 PM
+Minnesota Twins,09/29/13,01:10 PM
+San Francisco Giants,04/05/13,01:35 PM
+San Francisco Giants,04/06/13,01:05 PM
+San Francisco Giants,04/07/13,01:35 PM
+San Francisco Giants,04/08/13,07:15 PM
+San Francisco Giants,04/09/13,07:15 PM
+San Francisco Giants,04/10/13,12:45 PM
+San Francisco Giants,04/19/13,07:15 PM
+San Francisco Giants,04/20/13,06:05 PM
+San Francisco Giants,04/21/13,01:05 PM
+San Francisco Giants,04/22/13,07:15 PM
+San Francisco Giants,04/23/13,07:15 PM
+San Francisco Giants,04/24/13,12:45 PM
+San Francisco Giants,05/03/13,07:15 PM
+San Francisco Giants,05/04/13,06:05 PM
+San Francisco Giants,05/05/13,05:00 PM
+San Francisco Giants,05/06/13,07:15 PM
+San Francisco Giants,05/07/13,07:15 PM
+San Francisco Giants,05/08/13,12:45 PM
+San Francisco Giants,05/09/13,07:15 PM
+San Francisco Giants,05/10/13,07:15 PM
+San Francisco Giants,05/11/13,01:05 PM
+San Francisco Giants,05/12/13,01:05 PM
+San Francisco Giants,05/20/13,07:15 PM
+San Francisco Giants,05/21/13,07:15 PM
+San Francisco Giants,05/22/13,12:45 PM
+San Francisco Giants,05/24/13,07:15 PM
+San Francisco Giants,05/25/13,01:05 PM
+San Francisco Giants,05/26/13,01:05 PM
+San Francisco Giants,05/29/13,07:15 PM
+San Francisco Giants,05/30/13,12:45 PM
+San Francisco Giants,06/04/13,07:15 PM
+San Francisco Giants,06/05/13,12:45 PM
+San Francisco Giants,06/17/13,07:15 PM
+San Francisco Giants,06/18/13,07:15 PM
+San Francisco Giants,06/19/13,12:45 PM
+San Francisco Giants,06/20/13,07:15 PM
+San Francisco Giants,06/21/13,07:15 PM
+San Francisco Giants,06/22/13,01:05 PM
+San Francisco Giants,06/23/13,01:05 PM
+San Francisco Giants,07/05/13,07:15 PM
+San Francisco Giants,07/06/13,04:15 PM
+San Francisco Giants,07/07/13,01:05 PM
+San Francisco Giants,07/08/13,07:15 PM
+San Francisco Giants,07/09/13,07:15 PM
+San Francisco Giants,07/10/13,12:45 PM
+San Francisco Giants,07/19/13,07:15 PM
+San Francisco Giants,07/20/13,06:05 PM
+San Francisco Giants,07/21/13,01:05 PM
+San Francisco Giants,07/22/13,07:15 PM
+San Francisco Giants,07/23/13,07:15 PM
+San Francisco Giants,07/24/13,07:15 PM
+San Francisco Giants,07/26/13,07:15 PM
+San Francisco Giants,07/27/13,06:05 PM
+San Francisco Giants,07/28/13,01:05 PM
+San Francisco Giants,08/05/13,07:15 PM
+San Francisco Giants,08/06/13,07:15 PM
+San Francisco Giants,08/07/13,07:15 PM
+San Francisco Giants,08/08/13,12:45 PM
+San Francisco Giants,08/09/13,07:15 PM
+San Francisco Giants,08/10/13,01:05 PM
+San Francisco Giants,08/11/13,01:05 PM
+San Francisco Giants,08/19/13,07:15 PM
+San Francisco Giants,08/20/13,07:15 PM
+San Francisco Giants,08/21/13,12:45 PM
+San Francisco Giants,08/22/13,07:15 PM
+San Francisco Giants,08/23/13,07:15 PM
+San Francisco Giants,08/24/13,06:05 PM
+San Francisco Giants,08/25/13,01:05 PM
+San Francisco Giants,09/05/13,07:15 PM
+San Francisco Giants,09/06/13,07:15 PM
+San Francisco Giants,09/07/13,06:05 PM
+San Francisco Giants,09/08/13,01:05 PM
+San Francisco Giants,09/09/13,07:15 PM
+San Francisco Giants,09/10/13,07:15 PM
+San Francisco Giants,09/11/13,12:45 PM
+San Francisco Giants,09/24/13,07:15 PM
+San Francisco Giants,09/25/13,07:15 PM
+San Francisco Giants,09/26/13,07:15 PM
+San Francisco Giants,09/27/13,07:15 PM
+San Francisco Giants,09/28/13,01:05 PM
+San Francisco Giants,09/29/13,01:05 PM
+Miami Marlins,04/08/13,07:10 PM
+Miami Marlins,04/09/13,07:10 PM
+Miami Marlins,04/10/13,07:10 PM
+Miami Marlins,04/12/13,07:10 PM
+Miami Marlins,04/13/13,07:10 PM
+Miami Marlins,04/14/13,01:10 PM
+Miami Marlins,04/15/13,07:10 PM
+Miami Marlins,04/16/13,07:10 PM
+Miami Marlins,04/17/13,07:10 PM
+Miami Marlins,04/25/13,07:10 PM
+Miami Marlins,04/26/13,07:10 PM
+Miami Marlins,04/27/13,07:10 PM
+Miami Marlins,04/28/13,01:10 PM
+Miami Marlins,04/29/13,07:10 PM
+Miami Marlins,04/30/13,07:10 PM
+Miami Marlins,05/01/13,12:40 PM
+Miami Marlins,05/14/13,07:10 PM
+Miami Marlins,05/15/13,07:10 PM
+Miami Marlins,05/16/13,07:10 PM
+Miami Marlins,05/17/13,07:10 PM
+Miami Marlins,05/18/13,07:10 PM
+Miami Marlins,05/19/13,01:10 PM
+Miami Marlins,05/20/13,07:10 PM
+Miami Marlins,05/21/13,07:10 PM
+Miami Marlins,05/22/13,07:10 PM
+Miami Marlins,05/29/13,07:10 PM
+Miami Marlins,05/30/13,07:10 PM
+Miami Marlins,05/31/13,07:10 PM
+Miami Marlins,06/01/13,04:10 PM
+Miami Marlins,06/02/13,01:10 PM
+Miami Marlins,06/10/13,07:10 PM
+Miami Marlins,06/11/13,07:10 PM
+Miami Marlins,06/12/13,07:10 PM
+Miami Marlins,06/14/13,07:10 PM
+Miami Marlins,06/15/13,04:10 PM
+Miami Marlins,06/16/13,01:10 PM
+Miami Marlins,06/25/13,07:10 PM
+Miami Marlins,06/26/13,12:40 PM
+Miami Marlins,06/28/13,07:10 PM
+Miami Marlins,06/29/13,07:10 PM
+Miami Marlins,06/30/13,01:10 PM
+Miami Marlins,07/01/13,07:10 PM
+Miami Marlins,07/08/13,07:10 PM
+Miami Marlins,07/09/13,07:10 PM
+Miami Marlins,07/10/13,12:40 PM
+Miami Marlins,07/12/13,07:10 PM
+Miami Marlins,07/13/13,07:15 PM
+Miami Marlins,07/14/13,01:10 PM
+Miami Marlins,07/26/13,07:10 PM
+Miami Marlins,07/27/13,07:10 PM
+Miami Marlins,07/28/13,01:10 PM
+Miami Marlins,07/29/13,07:10 PM
+Miami Marlins,07/30/13,07:10 PM
+Miami Marlins,07/31/13,07:10 PM
+Miami Marlins,08/01/13,12:40 PM
+Miami Marlins,08/02/13,07:10 PM
+Miami Marlins,08/03/13,07:10 PM
+Miami Marlins,08/04/13,01:10 PM
+Miami Marlins,08/16/13,07:10 PM
+Miami Marlins,08/17/13,04:10 PM
+Miami Marlins,08/18/13,01:10 PM
+Miami Marlins,08/19/13,07:10 PM
+Miami Marlins,08/20/13,07:10 PM
+Miami Marlins,08/21/13,07:10 PM
+Miami Marlins,08/22/13,12:40 PM
+Miami Marlins,08/23/13,07:10 PM
+Miami Marlins,08/24/13,07:10 PM
+Miami Marlins,08/25/13,01:10 PM
+Miami Marlins,09/06/13,07:10 PM
+Miami Marlins,09/07/13,07:10 PM
+Miami Marlins,09/08/13,01:10 PM
+Miami Marlins,09/09/13,07:10 PM
+Miami Marlins,09/10/13,07:10 PM
+Miami Marlins,09/11/13,07:10 PM
+Miami Marlins,09/12/13,12:40 PM
+Miami Marlins,09/23/13,07:10 PM
+Miami Marlins,09/24/13,07:10 PM
+Miami Marlins,09/25/13,07:10 PM
+Miami Marlins,09/27/13,07:10 PM
+Miami Marlins,09/28/13,07:10 PM
+Miami Marlins,09/29/13,01:10 PM
+Los Angeles Angels,04/09/13,07:05 PM
+Los Angeles Angels,04/10/13,07:05 PM
+Los Angeles Angels,04/11/13,07:05 PM
+Los Angeles Angels,04/12/13,07:05 PM
+Los Angeles Angels,04/13/13,06:05 PM
+Los Angeles Angels,04/14/13,12:35 PM
+Los Angeles Angels,04/19/13,07:05 PM
+Los Angeles Angels,04/20/13,12:05 PM
+Los Angeles Angels,04/21/13,12:35 PM
+Los Angeles Angels,04/22/13,07:05 PM
+Los Angeles Angels,04/23/13,07:05 PM
+Los Angeles Angels,04/24/13,07:05 PM
+Los Angeles Angels,05/02/13,07:05 PM
+Los Angeles Angels,05/03/13,07:05 PM
+Los Angeles Angels,05/04/13,01:05 PM
+Los Angeles Angels,05/05/13,12:35 PM
+Los Angeles Angels,05/13/13,07:05 PM
+Los Angeles Angels,05/14/13,07:05 PM
+Los Angeles Angels,05/15/13,07:05 PM
+Los Angeles Angels,05/16/13,07:05 PM
+Los Angeles Angels,05/17/13,07:05 PM
+Los Angeles Angels,05/18/13,01:05 PM
+Los Angeles Angels,05/19/13,12:35 PM
+Los Angeles Angels,05/21/13,07:05 PM
+Los Angeles Angels,05/22/13,04:05 PM
+Los Angeles Angels,05/29/13,07:05 PM
+Los Angeles Angels,05/30/13,07:05 PM
+Los Angeles Angels,05/31/13,07:05 PM
+Los Angeles Angels,06/01/13,07:05 PM
+Los Angeles Angels,06/02/13,12:35 PM
+Los Angeles Angels,06/03/13,07:05 PM
+Los Angeles Angels,06/04/13,07:05 PM
+Los Angeles Angels,06/05/13,04:05 PM
+Los Angeles Angels,06/14/13,07:05 PM
+Los Angeles Angels,06/15/13,04:15 PM
+Los Angeles Angels,06/16/13,12:35 PM
+Los Angeles Angels,06/17/13,07:05 PM
+Los Angeles Angels,06/18/13,07:05 PM
+Los Angeles Angels,06/19/13,07:05 PM
+Los Angeles Angels,06/20/13,07:05 PM
+Los Angeles Angels,06/21/13,07:05 PM
+Los Angeles Angels,06/22/13,07:05 PM
+Los Angeles Angels,06/23/13,12:35 PM
+Los Angeles Angels,07/02/13,07:05 PM
+Los Angeles Angels,07/03/13,07:05 PM
+Los Angeles Angels,07/04/13,06:05 PM
+Los Angeles Angels,07/05/13,07:05 PM
+Los Angeles Angels,07/06/13,07:05 PM
+Los Angeles Angels,07/07/13,05:05 PM
+Los Angeles Angels,07/19/13,07:05 PM
+Los Angeles Angels,07/20/13,06:05 PM
+Los Angeles Angels,07/21/13,12:35 PM
+Los Angeles Angels,07/22/13,07:05 PM
+Los Angeles Angels,07/23/13,07:05 PM
+Los Angeles Angels,07/24/13,12:35 PM
+Los Angeles Angels,08/01/13,07:05 PM
+Los Angeles Angels,08/02/13,07:05 PM
+Los Angeles Angels,08/03/13,06:05 PM
+Los Angeles Angels,08/04/13,12:35 PM
+Los Angeles Angels,08/05/13,07:05 PM
+Los Angeles Angels,08/06/13,07:05 PM
+Los Angeles Angels,08/07/13,07:05 PM
+Los Angeles Angels,08/16/13,07:05 PM
+Los Angeles Angels,08/17/13,06:05 PM
+Los Angeles Angels,08/18/13,12:35 PM
+Los Angeles Angels,08/19/13,07:05 PM
+Los Angeles Angels,08/20/13,07:05 PM
+Los Angeles Angels,08/21/13,04:05 PM
+Los Angeles Angels,09/02/13,06:05 PM
+Los Angeles Angels,09/03/13,07:05 PM
+Los Angeles Angels,09/04/13,07:05 PM
+Los Angeles Angels,09/05/13,07:05 PM
+Los Angeles Angels,09/06/13,07:05 PM
+Los Angeles Angels,09/07/13,06:05 PM
+Los Angeles Angels,09/08/13,03:33 AM
+Los Angeles Angels,09/20/13,07:05 PM
+Los Angeles Angels,09/21/13,06:05 PM
+Los Angeles Angels,09/22/13,12:35 PM
+Los Angeles Angels,09/23/13,07:05 PM
+Los Angeles Angels,09/24/13,07:05 PM
+Los Angeles Angels,09/25/13,12:35 PM
+Colorado Rockies,04/05/13,02:10 PM
+Colorado Rockies,04/06/13,06:10 PM
+Colorado Rockies,04/07/13,02:10 PM
+Colorado Rockies,04/16/13,06:40 PM
+Colorado Rockies,04/16/13,01:10 PM
+Colorado Rockies,04/18/13,01:10 PM
+Colorado Rockies,04/19/13,06:40 PM
+Colorado Rockies,04/20/13,06:10 PM
+Colorado Rockies,04/21/13,02:10 PM
+Colorado Rockies,04/23/13,01:10 PM
+Colorado Rockies,04/23/13,06:40 PM
+Colorado Rockies,04/24/13,01:10 PM
+Colorado Rockies,05/03/13,06:40 PM
+Colorado Rockies,05/04/13,06:10 PM
+Colorado Rockies,05/05/13,02:10 PM
+Colorado Rockies,05/07/13,06:40 PM
+Colorado Rockies,05/08/13,06:40 PM
+Colorado Rockies,05/09/13,01:10 PM
+Colorado Rockies,05/16/13,06:40 PM
+Colorado Rockies,05/17/13,06:40 PM
+Colorado Rockies,05/18/13,06:10 PM
+Colorado Rockies,05/19/13,02:10 PM
+Colorado Rockies,05/20/13,06:40 PM
+Colorado Rockies,05/21/13,06:40 PM
+Colorado Rockies,05/22/13,01:10 PM
+Colorado Rockies,05/29/13,06:40 PM
+Colorado Rockies,05/30/13,06:40 PM
+Colorado Rockies,05/31/13,06:40 PM
+Colorado Rockies,06/01/13,02:10 PM
+Colorado Rockies,06/02/13,02:10 PM
+Colorado Rockies,06/06/13,06:40 PM
+Colorado Rockies,06/07/13,06:40 PM
+Colorado Rockies,06/08/13,05:15 PM
+Colorado Rockies,06/09/13,02:10 PM
+Colorado Rockies,06/11/13,06:40 PM
+Colorado Rockies,06/12/13,06:40 PM
+Colorado Rockies,06/13/13,01:10 PM
+Colorado Rockies,06/14/13,06:40 PM
+Colorado Rockies,06/15/13,02:10 PM
+Colorado Rockies,06/16/13,02:10 PM
+Colorado Rockies,06/27/13,04:10 PM
+Colorado Rockies,06/28/13,06:40 PM
+Colorado Rockies,06/29/13,02:10 PM
+Colorado Rockies,06/30/13,02:10 PM
+Colorado Rockies,07/02/13,06:40 PM
+Colorado Rockies,07/03/13,06:10 PM
+Colorado Rockies,07/04/13,06:10 PM
+Colorado Rockies,07/19/13,06:40 PM
+Colorado Rockies,07/20/13,06:10 PM
+Colorado Rockies,07/21/13,02:10 PM
+Colorado Rockies,07/22/13,06:40 PM
+Colorado Rockies,07/23/13,06:40 PM
+Colorado Rockies,07/24/13,06:40 PM
+Colorado Rockies,07/25/13,01:10 PM
+Colorado Rockies,07/26/13,06:40 PM
+Colorado Rockies,07/27/13,06:10 PM
+Colorado Rockies,07/28/13,02:10 PM
+Colorado Rockies,08/09/13,06:40 PM
+Colorado Rockies,08/10/13,06:10 PM
+Colorado Rockies,08/11/13,02:10 PM
+Colorado Rockies,08/12/13,06:40 PM
+Colorado Rockies,08/13/13,06:40 PM
+Colorado Rockies,08/14/13,01:10 PM
+Colorado Rockies,08/26/13,06:40 PM
+Colorado Rockies,08/27/13,06:40 PM
+Colorado Rockies,08/28/13,06:40 PM
+Colorado Rockies,08/30/13,06:40 PM
+Colorado Rockies,08/31/13,06:10 PM
+Colorado Rockies,09/01/13,02:10 PM
+Colorado Rockies,09/02/13,02:10 PM
+Colorado Rockies,09/03/13,06:40 PM
+Colorado Rockies,09/04/13,06:40 PM
+Colorado Rockies,09/16/13,06:40 PM
+Colorado Rockies,09/17/13,06:40 PM
+Colorado Rockies,09/18/13,06:40 PM
+Colorado Rockies,09/19/13,01:10 PM
+Colorado Rockies,09/20/13,06:10 PM
+Colorado Rockies,09/21/13,06:10 PM
+Colorado Rockies,09/22/13,02:10 PM
+Colorado Rockies,09/24/13,06:40 PM
+Colorado Rockies,09/25/13,06:40 PM
+Washington Nationals,04/01/13,01:05 PM
+Washington Nationals,04/03/13,07:05 PM
+Washington Nationals,04/04/13,04:05 PM
+Washington Nationals,04/09/13,07:05 PM
+Washington Nationals,04/10/13,07:05 PM
+Washington Nationals,04/11/13,07:05 PM
+Washington Nationals,04/12/13,07:05 PM
+Washington Nationals,04/13/13,01:05 PM
+Washington Nationals,04/14/13,01:35 PM
+Washington Nationals,04/22/13,07:05 PM
+Washington Nationals,04/23/13,07:05 PM
+Washington Nationals,04/24/13,01:05 PM
+Washington Nationals,04/25/13,07:05 PM
+Washington Nationals,04/26/13,07:05 PM
+Washington Nationals,04/27/13,01:05 PM
+Washington Nationals,04/28/13,01:35 PM
+Washington Nationals,05/08/13,07:05 PM
+Washington Nationals,05/09/13,04:05 PM
+Washington Nationals,05/10/13,07:05 PM
+Washington Nationals,05/11/13,04:05 PM
+Washington Nationals,05/12/13,01:35 PM
+Washington Nationals,05/24/13,07:05 PM
+Washington Nationals,05/25/13,07:15 PM
+Washington Nationals,05/26/13,01:35 PM
+Washington Nationals,05/27/13,01:05 PM
+Washington Nationals,05/28/13,07:05 PM
+Washington Nationals,06/04/13,07:05 PM
+Washington Nationals,06/05/13,07:05 PM
+Washington Nationals,06/08/13,04:05 PM
+Washington Nationals,06/09/13,01:35 PM
+Washington Nationals,06/09/13,07:05 PM
+Washington Nationals,06/20/13,07:05 PM
+Washington Nationals,06/21/13,07:05 PM
+Washington Nationals,06/22/13,12:05 PM
+Washington Nationals,06/23/13,01:35 PM
+Washington Nationals,06/25/13,07:05 PM
+Washington Nationals,06/26/13,07:05 PM
+Washington Nationals,06/27/13,04:05 PM
+Washington Nationals,07/01/13,07:05 PM
+Washington Nationals,07/02/13,07:05 PM
+Washington Nationals,07/03/13,06:05 PM
+Washington Nationals,07/04/13,11:05 AM
+Washington Nationals,07/05/13,07:05 PM
+Washington Nationals,07/06/13,04:05 PM
+Washington Nationals,07/07/13,01:35 PM
+Washington Nationals,07/19/13,07:05 PM
+Washington Nationals,07/20/13,07:05 PM
+Washington Nationals,07/21/13,01:35 PM
+Washington Nationals,07/22/13,07:05 PM
+Washington Nationals,07/23/13,07:05 PM
+Washington Nationals,07/24/13,07:05 PM
+Washington Nationals,07/25/13,12:35 PM
+Washington Nationals,07/26/13,01:35 PM
+Washington Nationals,07/26/13,07:05 PM
+Washington Nationals,07/27/13,03:05 PM
+Washington Nationals,07/28/13,01:35 PM
+Washington Nationals,08/05/13,07:05 PM
+Washington Nationals,08/06/13,07:05 PM
+Washington Nationals,08/07/13,07:05 PM
+Washington Nationals,08/09/13,07:05 PM
+Washington Nationals,08/10/13,07:05 PM
+Washington Nationals,08/11/13,05:05 PM
+Washington Nationals,08/13/13,07:05 PM
+Washington Nationals,08/14/13,07:05 PM
+Washington Nationals,08/15/13,04:05 PM
+Washington Nationals,08/27/13,07:05 PM
+Washington Nationals,08/28/13,07:05 PM
+Washington Nationals,08/29/13,07:05 PM
+Washington Nationals,08/30/13,07:05 PM
+Washington Nationals,08/31/13,07:05 PM
+Washington Nationals,09/01/13,03:33 AM
+Washington Nationals,09/13/13,07:05 PM
+Washington Nationals,09/14/13,07:05 PM
+Washington Nationals,09/15/13,01:35 PM
+Washington Nationals,09/16/13,07:05 PM
+Washington Nationals,09/17/13,07:05 PM
+Washington Nationals,09/18/13,07:05 PM
+Washington Nationals,09/19/13,07:05 PM
+Washington Nationals,09/20/13,07:05 PM
+Washington Nationals,09/21/13,07:05 PM
+Washington Nationals,09/22/13,01:35 PM
+Milwaukee Brewers,04/01/13,01:10 PM
+Milwaukee Brewers,04/02/13,07:10 PM
+Milwaukee Brewers,04/03/13,07:10 PM
+Milwaukee Brewers,04/05/13,07:10 PM
+Milwaukee Brewers,04/06/13,06:10 PM
+Milwaukee Brewers,04/07/13,01:10 PM
+Milwaukee Brewers,04/16/13,07:10 PM
+Milwaukee Brewers,04/17/13,07:10 PM
+Milwaukee Brewers,04/18/13,12:10 PM
+Milwaukee Brewers,04/19/13,07:10 PM
+Milwaukee Brewers,04/20/13,06:10 PM
+Milwaukee Brewers,04/21/13,01:10 PM
+Milwaukee Brewers,04/29/13,07:10 PM
+Milwaukee Brewers,04/30/13,07:10 PM
+Milwaukee Brewers,05/01/13,12:10 PM
+Milwaukee Brewers,05/02/13,07:10 PM
+Milwaukee Brewers,05/03/13,07:10 PM
+Milwaukee Brewers,05/04/13,03:05 PM
+Milwaukee Brewers,05/05/13,01:10 PM
+Milwaukee Brewers,05/07/13,07:10 PM
+Milwaukee Brewers,05/08/13,07:10 PM
+Milwaukee Brewers,05/20/13,07:10 PM
+Milwaukee Brewers,05/21/13,07:10 PM
+Milwaukee Brewers,05/22/13,12:10 PM
+Milwaukee Brewers,05/24/13,07:10 PM
+Milwaukee Brewers,05/25/13,03:10 PM
+Milwaukee Brewers,05/26/13,01:10 PM
+Milwaukee Brewers,05/27/13,01:10 PM
+Milwaukee Brewers,05/28/13,07:10 PM
+Milwaukee Brewers,06/03/13,07:10 PM
+Milwaukee Brewers,06/04/13,07:10 PM
+Milwaukee Brewers,06/05/13,01:10 PM
+Milwaukee Brewers,06/06/13,07:10 PM
+Milwaukee Brewers,06/07/13,07:10 PM
+Milwaukee Brewers,06/08/13,06:15 PM
+Milwaukee Brewers,06/09/13,01:10 PM
+Milwaukee Brewers,06/21/13,07:10 PM
+Milwaukee Brewers,06/22/13,03:10 PM
+Milwaukee Brewers,06/23/13,01:10 PM
+Milwaukee Brewers,06/25/13,07:10 PM
+Milwaukee Brewers,06/26/13,07:10 PM
+Milwaukee Brewers,06/27/13,01:10 PM
+Milwaukee Brewers,07/05/13,07:10 PM
+Milwaukee Brewers,07/06/13,06:15 PM
+Milwaukee Brewers,07/07/13,01:10 PM
+Milwaukee Brewers,07/08/13,07:10 PM
+Milwaukee Brewers,07/09/13,07:10 PM
+Milwaukee Brewers,07/10/13,01:10 PM
+Milwaukee Brewers,07/19/13,07:10 PM
+Milwaukee Brewers,07/20/13,06:10 PM
+Milwaukee Brewers,07/21/13,01:10 PM
+Milwaukee Brewers,07/22/13,07:10 PM
+Milwaukee Brewers,07/23/13,07:10 PM
+Milwaukee Brewers,07/24/13,07:10 PM
+Milwaukee Brewers,07/25/13,01:10 PM
+Milwaukee Brewers,08/02/13,07:10 PM
+Milwaukee Brewers,08/03/13,06:10 PM
+Milwaukee Brewers,08/04/13,01:10 PM
+Milwaukee Brewers,08/15/13,07:10 PM
+Milwaukee Brewers,08/16/13,07:10 PM
+Milwaukee Brewers,08/17/13,06:10 PM
+Milwaukee Brewers,08/18/13,01:10 PM
+Milwaukee Brewers,08/19/13,07:10 PM
+Milwaukee Brewers,08/20/13,07:10 PM
+Milwaukee Brewers,08/21/13,01:10 PM
+Milwaukee Brewers,08/30/13,07:10 PM
+Milwaukee Brewers,08/31/13,06:10 PM
+Milwaukee Brewers,09/01/13,01:10 PM
+Milwaukee Brewers,09/02/13,01:10 PM
+Milwaukee Brewers,09/03/13,07:10 PM
+Milwaukee Brewers,09/04/13,07:10 PM
+Milwaukee Brewers,09/13/13,07:10 PM
+Milwaukee Brewers,09/14/13,12:05 PM
+Milwaukee Brewers,09/15/13,01:10 PM
+Milwaukee Brewers,09/16/13,07:10 PM
+Milwaukee Brewers,09/17/13,07:10 PM
+Milwaukee Brewers,09/18/13,07:10 PM
+Milwaukee Brewers,09/19/13,01:10 PM
+Milwaukee Brewers,09/20/13,07:10 PM
+Milwaukee Brewers,09/21/13,06:10 PM
+Milwaukee Brewers,09/22/13,01:10 PM
+Detroit Tigers,04/05/13,01:08 PM
+Detroit Tigers,04/06/13,04:05 PM
+Detroit Tigers,04/07/13,01:08 PM
+Detroit Tigers,04/09/13,01:08 PM
+Detroit Tigers,04/10/13,01:08 PM
+Detroit Tigers,04/11/13,01:08 PM
+Detroit Tigers,04/24/13,07:08 PM
+Detroit Tigers,04/25/13,01:08 PM
+Detroit Tigers,04/26/13,07:08 PM
+Detroit Tigers,04/27/13,01:05 PM
+Detroit Tigers,04/28/13,08:08 PM
+Detroit Tigers,04/29/13,07:08 PM
+Detroit Tigers,04/30/13,07:08 PM
+Detroit Tigers,05/01/13,01:08 PM
+Detroit Tigers,05/10/13,07:08 PM
+Detroit Tigers,05/11/13,07:08 PM
+Detroit Tigers,05/12/13,01:08 PM
+Detroit Tigers,05/13/13,07:08 PM
+Detroit Tigers,05/14/13,07:08 PM
+Detroit Tigers,05/15/13,01:08 PM
+Detroit Tigers,05/23/13,07:08 PM
+Detroit Tigers,05/24/13,07:08 PM
+Detroit Tigers,05/25/13,04:08 PM
+Detroit Tigers,05/26/13,01:08 PM
+Detroit Tigers,05/27/13,01:08 PM
+Detroit Tigers,05/28/13,07:08 PM
+Detroit Tigers,06/04/13,07:08 PM
+Detroit Tigers,06/05/13,07:08 PM
+Detroit Tigers,06/06/13,01:08 PM
+Detroit Tigers,06/07/13,07:08 PM
+Detroit Tigers,06/08/13,04:08 PM
+Detroit Tigers,06/09/13,01:08 PM
+Detroit Tigers,06/17/13,07:08 PM
+Detroit Tigers,06/18/13,07:08 PM
+Detroit Tigers,06/19/13,01:08 PM
+Detroit Tigers,06/20/13,07:08 PM
+Detroit Tigers,06/21/13,07:08 PM
+Detroit Tigers,06/22/13,07:15 PM
+Detroit Tigers,06/23/13,01:08 PM
+Detroit Tigers,06/25/13,07:08 PM
+Detroit Tigers,06/26/13,07:08 PM
+Detroit Tigers,06/27/13,01:08 PM
+Detroit Tigers,07/09/13,07:08 PM
+Detroit Tigers,07/10/13,07:08 PM
+Detroit Tigers,07/11/13,01:08 PM
+Detroit Tigers,07/12/13,07:08 PM
+Detroit Tigers,07/13/13,07:15 PM
+Detroit Tigers,07/14/13,01:08 PM
+Detroit Tigers,07/26/13,07:08 PM
+Detroit Tigers,07/27/13,07:08 PM
+Detroit Tigers,07/28/13,01:08 PM
+Detroit Tigers,07/30/13,07:08 PM
+Detroit Tigers,07/31/13,01:08 PM
+Detroit Tigers,08/02/13,07:08 PM
+Detroit Tigers,08/03/13,07:08 PM
+Detroit Tigers,08/04/13,01:08 PM
+Detroit Tigers,08/15/13,07:08 PM
+Detroit Tigers,08/16/13,01:08 PM
+Detroit Tigers,08/16/13,07:08 PM
+Detroit Tigers,08/17/13,07:08 PM
+Detroit Tigers,08/18/13,01:08 PM
+Detroit Tigers,08/20/13,07:08 PM
+Detroit Tigers,08/21/13,07:08 PM
+Detroit Tigers,08/22/13,01:08 PM
+Detroit Tigers,08/26/13,07:08 PM
+Detroit Tigers,08/27/13,07:08 PM
+Detroit Tigers,08/28/13,07:08 PM
+Detroit Tigers,08/29/13,01:08 PM
+Detroit Tigers,08/30/13,07:08 PM
+Detroit Tigers,08/31/13,07:08 PM
+Detroit Tigers,09/01/13,01:08 PM
+Detroit Tigers,09/13/13,07:08 PM
+Detroit Tigers,09/14/13,07:08 PM
+Detroit Tigers,09/15/13,01:08 PM
+Detroit Tigers,09/16/13,07:08 PM
+Detroit Tigers,09/17/13,07:08 PM
+Detroit Tigers,09/18/13,07:08 PM
+Detroit Tigers,09/19/13,01:08 PM
+Detroit Tigers,09/20/13,07:08 PM
+Detroit Tigers,09/21/13,07:08 PM
+Detroit Tigers,09/22/13,01:08 PM
+Boston Red Sox,04/08/13,02:05 PM
+Boston Red Sox,04/10/13,07:10 PM
+Boston Red Sox,04/11/13,07:10 PM
+Boston Red Sox,04/13/13,01:05 PM
+Boston Red Sox,04/14/13,01:35 PM
+Boston Red Sox,04/15/13,11:05 AM
+Boston Red Sox,04/20/13,01:10 PM
+Boston Red Sox,04/21/13,01:35 PM
+Boston Red Sox,04/21/13,07:00 PM
+Boston Red Sox,04/22/13,06:35 PM
+Boston Red Sox,04/23/13,06:35 PM
+Boston Red Sox,04/24/13,04:05 PM
+Boston Red Sox,04/25/13,06:35 PM
+Boston Red Sox,04/26/13,07:10 PM
+Boston Red Sox,04/27/13,07:10 PM
+Boston Red Sox,04/28/13,01:35 PM
+Boston Red Sox,05/06/13,07:10 PM
+Boston Red Sox,05/07/13,07:10 PM
+Boston Red Sox,05/08/13,07:10 PM
+Boston Red Sox,05/09/13,07:10 PM
+Boston Red Sox,05/10/13,07:10 PM
+Boston Red Sox,05/11/13,01:35 PM
+Boston Red Sox,05/12/13,01:35 PM
+Boston Red Sox,05/23/13,07:10 PM
+Boston Red Sox,05/24/13,07:10 PM
+Boston Red Sox,05/25/13,01:35 PM
+Boston Red Sox,05/26/13,01:35 PM
+Boston Red Sox,05/27/13,07:10 PM
+Boston Red Sox,05/28/13,07:10 PM
+Boston Red Sox,06/04/13,07:10 PM
+Boston Red Sox,06/05/13,07:10 PM
+Boston Red Sox,06/06/13,07:10 PM
+Boston Red Sox,06/08/13,01:05 PM
+Boston Red Sox,06/08/13,07:15 PM
+Boston Red Sox,06/09/13,01:35 PM
+Boston Red Sox,06/18/13,01:05 PM
+Boston Red Sox,06/18/13,08:05 PM
+Boston Red Sox,06/19/13,07:10 PM
+Boston Red Sox,06/25/13,07:10 PM
+Boston Red Sox,06/26/13,04:05 PM
+Boston Red Sox,06/27/13,07:10 PM
+Boston Red Sox,06/28/13,07:10 PM
+Boston Red Sox,06/29/13,04:05 PM
+Boston Red Sox,06/30/13,01:35 PM
+Boston Red Sox,07/02/13,07:10 PM
+Boston Red Sox,07/03/13,07:10 PM
+Boston Red Sox,07/04/13,01:35 PM
+Boston Red Sox,07/19/13,07:10 PM
+Boston Red Sox,07/20/13,04:05 PM
+Boston Red Sox,07/21/13,08:05 PM
+Boston Red Sox,07/22/13,07:10 PM
+Boston Red Sox,07/23/13,07:10 PM
+Boston Red Sox,07/24/13,07:10 PM
+Boston Red Sox,07/25/13,07:10 PM
+Boston Red Sox,07/30/13,07:10 PM
+Boston Red Sox,07/31/13,07:10 PM
+Boston Red Sox,08/01/13,07:10 PM
+Boston Red Sox,08/02/13,07:10 PM
+Boston Red Sox,08/03/13,07:10 PM
+Boston Red Sox,08/04/13,01:35 PM
+Boston Red Sox,08/16/13,07:10 PM
+Boston Red Sox,08/17/13,04:05 PM
+Boston Red Sox,08/18/13,03:33 AM
+Boston Red Sox,08/27/13,07:10 PM
+Boston Red Sox,08/28/13,07:10 PM
+Boston Red Sox,08/29/13,07:10 PM
+Boston Red Sox,08/30/13,07:10 PM
+Boston Red Sox,08/31/13,07:10 PM
+Boston Red Sox,09/01/13,01:35 PM
+Boston Red Sox,09/02/13,01:35 PM
+Boston Red Sox,09/03/13,07:10 PM
+Boston Red Sox,09/04/13,07:10 PM
+Boston Red Sox,09/13/13,07:10 PM
+Boston Red Sox,09/14/13,01:05 PM
+Boston Red Sox,09/15/13,03:33 AM
+Boston Red Sox,09/17/13,07:10 PM
+Boston Red Sox,09/18/13,07:10 PM
+Boston Red Sox,09/19/13,07:10 PM
+Boston Red Sox,09/20/13,07:10 PM
+Boston Red Sox,09/21/13,07:10 PM
+Boston Red Sox,09/22/13,01:35 PM
+Seattle Mariners,04/08/13,07:10 PM
+Seattle Mariners,04/09/13,07:10 PM
+Seattle Mariners,04/10/13,07:10 PM
+Seattle Mariners,04/11/13,07:10 PM
+Seattle Mariners,04/12/13,07:10 PM
+Seattle Mariners,04/13/13,06:10 PM
+Seattle Mariners,04/14/13,01:10 PM
+Seattle Mariners,04/16/13,07:10 PM
+Seattle Mariners,04/17/13,07:10 PM
+Seattle Mariners,04/18/13,12:40 PM
+Seattle Mariners,04/25/13,07:10 PM
+Seattle Mariners,04/26/13,07:10 PM
+Seattle Mariners,04/27/13,06:10 PM
+Seattle Mariners,04/28/13,01:10 PM
+Seattle Mariners,04/29/13,07:10 PM
+Seattle Mariners,04/30/13,07:10 PM
+Seattle Mariners,05/01/13,07:10 PM
+Seattle Mariners,05/10/13,07:10 PM
+Seattle Mariners,05/11/13,06:10 PM
+Seattle Mariners,05/12/13,01:10 PM
+Seattle Mariners,05/24/13,07:10 PM
+Seattle Mariners,05/25/13,07:10 PM
+Seattle Mariners,05/26/13,01:10 PM
+Seattle Mariners,05/27/13,01:10 PM
+Seattle Mariners,05/28/13,07:10 PM
+Seattle Mariners,06/03/13,07:10 PM
+Seattle Mariners,06/04/13,07:10 PM
+Seattle Mariners,06/05/13,12:40 PM
+Seattle Mariners,06/06/13,07:10 PM
+Seattle Mariners,06/07/13,07:10 PM
+Seattle Mariners,06/08/13,01:10 PM
+Seattle Mariners,06/09/13,01:10 PM
+Seattle Mariners,06/10/13,07:10 PM
+Seattle Mariners,06/11/13,07:10 PM
+Seattle Mariners,06/12/13,07:10 PM
+Seattle Mariners,06/21/13,07:10 PM
+Seattle Mariners,06/22/13,07:10 PM
+Seattle Mariners,06/23/13,01:10 PM
+Seattle Mariners,06/25/13,07:10 PM
+Seattle Mariners,06/26/13,12:40 PM
+Seattle Mariners,06/28/13,07:10 PM
+Seattle Mariners,06/29/13,04:15 PM
+Seattle Mariners,06/30/13,01:10 PM
+Seattle Mariners,07/08/13,07:10 PM
+Seattle Mariners,07/09/13,07:10 PM
+Seattle Mariners,07/10/13,07:10 PM
+Seattle Mariners,07/11/13,12:40 PM
+Seattle Mariners,07/12/13,07:10 PM
+Seattle Mariners,07/13/13,07:10 PM
+Seattle Mariners,07/14/13,01:10 PM
+Seattle Mariners,07/22/13,07:10 PM
+Seattle Mariners,07/23/13,07:10 PM
+Seattle Mariners,07/24/13,12:40 PM
+Seattle Mariners,07/25/13,07:10 PM
+Seattle Mariners,07/26/13,07:10 PM
+Seattle Mariners,07/27/13,01:10 PM
+Seattle Mariners,07/28/13,01:10 PM
+Seattle Mariners,08/05/13,07:10 PM
+Seattle Mariners,08/06/13,07:10 PM
+Seattle Mariners,08/07/13,12:40 PM
+Seattle Mariners,08/09/13,07:10 PM
+Seattle Mariners,08/10/13,06:10 PM
+Seattle Mariners,08/11/13,01:10 PM
+Seattle Mariners,08/23/13,07:10 PM
+Seattle Mariners,08/24/13,06:10 PM
+Seattle Mariners,08/25/13,01:10 PM
+Seattle Mariners,08/26/13,07:10 PM
+Seattle Mariners,08/27/13,07:10 PM
+Seattle Mariners,08/28/13,12:40 PM
+Seattle Mariners,09/06/13,07:10 PM
+Seattle Mariners,09/07/13,06:10 PM
+Seattle Mariners,09/08/13,01:10 PM
+Seattle Mariners,09/09/13,07:10 PM
+Seattle Mariners,09/10/13,07:10 PM
+Seattle Mariners,09/11/13,07:10 PM
+Seattle Mariners,09/23/13,07:10 PM
+Seattle Mariners,09/24/13,07:10 PM
+Seattle Mariners,09/25/13,07:10 PM
+Seattle Mariners,09/27/13,07:10 PM
+Seattle Mariners,09/28/13,01:10 PM
+Seattle Mariners,09/29/13,01:10 PM

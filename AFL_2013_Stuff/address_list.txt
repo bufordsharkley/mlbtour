@@ -1,0 +1,30 @@
+Baltimore Orioles:Oriole Park 333 West Camden Street Baltimore, MD 21201
+Boston Red Sox:Fenway Park 4 Yawkey Way Boston, MA 02215
+Chicago White Sox:U.S. Cellular Field 333 West 35th Street Chicago, IL 60616
+Cleveland Indians:Progressive Field 2401 Ontario Street Cleveland, OH 44115
+Detroit Tigers:Comerica Park 2100 Woodward Avenue Detroit, MI 48201
+Houston Astros:Minute Maid Park 501 Crawford Street Houston, TX 77002
+Kansas City Royals:Kauffman Stadium One Royal Way Kansas City, MO 64129
+Los Angeles Angels:Angel Stadium 2000 Gene Autry Way Anaheim, CA 92806
+Minnesota Twins:Target Field 1 Twins Way Minneapolis, MN 55403
+New York Yankees:Yankee Stadium One East 161st Street Bronx, NY 10451
+Oakland Athletics:O.co Coliseum 7000 Coliseum Way Oakland, CA 94621
+Seattle Mariners:Safeco Field P.O. Box 4100 Seattle, WA 98104
+Tampa Bay Rays:Tropicana Field One Tropicana Drive St. Petersburg, FL 33705
+Texas Rangers:Rangers Ballpark in Arlington 1000 Ballpark Way Arlington, TX 76011
+Toronto Blue Jays:Rogers Centre 1 Blue Jays Way, Suite 3200 Toronto, Ontario, Canada M5V1J1
+Arizona Diamondbacks:Chase Field 401 East Jefferson Street Phoenix, AZ 85004
+Atlanta Braves:Turner Field 755 Hank Aaron Drive Atlanta, GA 30315
+Chicago Cubs:Wrigley Field 1060 West Addison Chicago, IL 60613-4397
+Cincinnati Reds:Great American Ball Park 100 Main Street Cincinnati, OH 45202-4109
+Colorado Rockies:Coors Field 2001 Blake Street Denver, CO 80205-2000
+Los Angeles Dodgers:Dodger Stadium 1000 Elysian Park Avenue Los Angeles, CA 90012-1199
+Miami Marlins:Marlins Park 501 Marlins Way Miami, FL 33125
+Milwaukee Brewers:Miller Park One Brewers Way Milwaukee, WI 53214
+New York Mets:Citi Field  Flushing, NY 11368
+Philadelphia Phillies:Citizens Bank Park One Citizens Bank Way Philadelphia, PA 19148
+Pittsburgh Pirates:PNC Park 115 Federal Street Pittsburgh, PA 15212
+San Diego Padres:PETCO Park 100 Park Boulevard San Diego, CA 92101
+San Francisco Giants:ATT Park 24 Willie Mays Plaza San Francisco, CA 94107
+St. Louis Cardinals:Busch Stadium 700 Clark Street St. Louis, MO 63102
+Washington Nationals:Nationals Park 1500 South Capitol Street, SE Washington, DC 20003-1507

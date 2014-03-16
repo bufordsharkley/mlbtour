@@ -1,0 +1,870 @@
+Baltimore Orioles:Boston Red Sox:6 hours 31 mins
+Baltimore Orioles:Chicago White Sox:10 hours 49 mins
+Baltimore Orioles:Cleveland Indians:5 hours 58 mins
+Baltimore Orioles:Detroit Tigers:8 hours 19 mins
+Baltimore Orioles:Houston Astros:21 hours 27 mins
+Baltimore Orioles:Kansas City Royals:16 hours 27 mins
+Baltimore Orioles:Los Angeles Angels:1 day 15 hours
+Baltimore Orioles:Minnesota Twins:17 hours 16 mins
+Baltimore Orioles:New York Yankees:3 hours 17 mins
+Baltimore Orioles:Oakland Athletics:1 day 18 hours
+Baltimore Orioles:Seattle Mariners:1 day 17 hours
+Baltimore Orioles:Tampa Bay Rays:14 hours 48 mins
+Baltimore Orioles:Texas Rangers:20 hours 42 mins
+Baltimore Orioles:Toronto Blue Jays:8 hours 8 mins
+Baltimore Orioles:Arizona Diamondbacks:1 day 11 hours
+Baltimore Orioles:Atlanta Braves:10 hours 38 mins
+Baltimore Orioles:Chicago Cubs:11 hours 5 mins
+Baltimore Orioles:Cincinnati Reds:8 hours 13 mins
+Baltimore Orioles:Colorado Rockies:1 day 1 hour
+Baltimore Orioles:Los Angeles Dodgers:1 day 16 hours
+Baltimore Orioles:Miami Marlins:16 hours 11 mins
+Baltimore Orioles:Milwaukee Brewers:12 hours 24 mins
+Baltimore Orioles:New York Mets:3 hours 27 mins
+Baltimore Orioles:Philadelphia Phillies:1 hour 38 mins
+Baltimore Orioles:Pittsburgh Pirates:4 hours 10 mins
+Baltimore Orioles:San Diego Padres:1 day 16 hours
+Baltimore Orioles:San Francisco Giants:1 day 18 hours
+Baltimore Orioles:St. Louis Cardinals:13 hours 0 mins
+Baltimore Orioles:Washington Nationals:46 mins
+Boston Red Sox:Baltimore Orioles:6 hours 24 mins
+Boston Red Sox:Chicago White Sox:15 hours 1 min
+Boston Red Sox:Cleveland Indians:9 hours 57 mins
+Boston Red Sox:Detroit Tigers:11 hours 0 mins
+Boston Red Sox:Houston Astros:1 day 4 hours
+Boston Red Sox:Kansas City Royals:21 hours 50 mins
+Boston Red Sox:Los Angeles Angels:1 day 20 hours
+Boston Red Sox:Minnesota Twins:21 hours 28 mins
+Boston Red Sox:New York Yankees:3 hours 19 mins
+Boston Red Sox:Oakland Athletics:1 day 22 hours
+Boston Red Sox:Seattle Mariners:1 day 21 hours
+Boston Red Sox:Tampa Bay Rays:21 hours 4 mins
+Boston Red Sox:Texas Rangers:1 day 3 hours
+Boston Red Sox:Toronto Blue Jays:8 hours 26 mins
+Boston Red Sox:Arizona Diamondbacks:1 day 16 hours
+Boston Red Sox:Atlanta Braves:16 hours 55 mins
+Boston Red Sox:Chicago Cubs:15 hours 17 mins
+Boston Red Sox:Cincinnati Reds:13 hours 40 mins
+Boston Red Sox:Colorado Rockies:1 day 5 hours
+Boston Red Sox:Los Angeles Dodgers:1 day 20 hours
+Boston Red Sox:Miami Marlins:22 hours 27 mins
+Boston Red Sox:Milwaukee Brewers:16 hours 36 mins
+Boston Red Sox:New York Mets:3 hours 20 mins
+Boston Red Sox:Philadelphia Phillies:5 hours 1 min
+Boston Red Sox:Pittsburgh Pirates:9 hours 30 mins
+Boston Red Sox:San Diego Padres:1 day 21 hours
+Boston Red Sox:San Francisco Giants:1 day 22 hours
+Boston Red Sox:St. Louis Cardinals:18 hours 23 mins
+Boston Red Sox:Washington Nationals:7 hours 2 mins
+Chicago White Sox:Baltimore Orioles:10 hours 47 mins
+Chicago White Sox:Boston Red Sox:15 hours 2 mins
+Chicago White Sox:Cleveland Indians:5 hours 10 mins
+Chicago White Sox:Detroit Tigers:4 hours 13 mins
+Chicago White Sox:Houston Astros:16 hours 40 mins
+Chicago White Sox:Kansas City Royals:7 hours 52 mins
+Chicago White Sox:Los Angeles Angels:1 day 5 hours
+Chicago White Sox:Minnesota Twins:6 hours 30 mins
+Chicago White Sox:New York Yankees:12 hours 14 mins
+Chicago White Sox:Oakland Athletics:1 day 7 hours
+Chicago White Sox:Seattle Mariners:1 day 6 hours
+Chicago White Sox:Tampa Bay Rays:17 hours 40 mins
+Chicago White Sox:Texas Rangers:14 hours 34 mins
+Chicago White Sox:Toronto Blue Jays:7 hours 44 mins
+Chicago White Sox:Arizona Diamondbacks:1 day 2 hours
+Chicago White Sox:Atlanta Braves:10 hours 39 mins
+Chicago White Sox:Chicago Cubs:20 mins
+Chicago White Sox:Cincinnati Reds:4 hours 27 mins
+Chicago White Sox:Colorado Rockies:14 hours 32 mins
+Chicago White Sox:Los Angeles Dodgers:1 day 5 hours
+Chicago White Sox:Miami Marlins:20 hours 11 mins
+Chicago White Sox:Milwaukee Brewers:1 hour 38 mins
+Chicago White Sox:New York Mets:12 hours 25 mins
+Chicago White Sox:Philadelphia Phillies:11 hours 41 mins
+Chicago White Sox:Pittsburgh Pirates:6 hours 58 mins
+Chicago White Sox:San Diego Padres:1 day 6 hours
+Chicago White Sox:San Francisco Giants:1 day 7 hours
+Chicago White Sox:St. Louis Cardinals:4 hours 35 mins
+Chicago White Sox:Washington Nationals:10 hours 56 mins
+Cleveland Indians:Baltimore Orioles:5 hours 59 mins
+Cleveland Indians:Boston Red Sox:9 hours 56 mins
+Cleveland Indians:Chicago White Sox:5 hours 10 mins
+Cleveland Indians:Detroit Tigers:2 hours 39 mins
+Cleveland Indians:Houston Astros:20 hours 6 mins
+Cleveland Indians:Kansas City Royals:12 hours 8 mins
+Cleveland Indians:Los Angeles Angels:1 day 10 hours
+Cleveland Indians:Minnesota Twins:11 hours 37 mins
+Cleveland Indians:New York Yankees:7 hours 25 mins
+Cleveland Indians:Oakland Athletics:1 day 12 hours
+Cleveland Indians:Seattle Mariners:1 day 12 hours
+Cleveland Indians:Tampa Bay Rays:17 hours 12 mins
+Cleveland Indians:Texas Rangers:18 hours 1 min
+Cleveland Indians:Toronto Blue Jays:4 hours 43 mins
+Cleveland Indians:Arizona Diamondbacks:1 day 6 hours
+Cleveland Indians:Atlanta Braves:10 hours 47 mins
+Cleveland Indians:Chicago Cubs:5 hours 26 mins
+Cleveland Indians:Cincinnati Reds:3 hours 58 mins
+Cleveland Indians:Colorado Rockies:19 hours 27 mins
+Cleveland Indians:Los Angeles Dodgers:1 day 10 hours
+Cleveland Indians:Miami Marlins:18 hours 35 mins
+Cleveland Indians:Milwaukee Brewers:6 hours 45 mins
+Cleveland Indians:New York Mets:7 hours 36 mins
+Cleveland Indians:Philadelphia Phillies:6 hours 52 mins
+Cleveland Indians:Pittsburgh Pirates:2 hours 10 mins
+Cleveland Indians:San Diego Padres:1 day 11 hours
+Cleveland Indians:San Francisco Giants:1 day 12 hours
+Cleveland Indians:St. Louis Cardinals:8 hours 41 mins
+Cleveland Indians:Washington Nationals:6 hours 7 mins
+Detroit Tigers:Baltimore Orioles:8 hours 15 mins
+Detroit Tigers:Boston Red Sox:11 hours 0 mins
+Detroit Tigers:Chicago White Sox:4 hours 12 mins
+Detroit Tigers:Cleveland Indians:2 hours 38 mins
+Detroit Tigers:Houston Astros:20 hours 10 mins
+Detroit Tigers:Kansas City Royals:11 hours 39 mins
+Detroit Tigers:Los Angeles Angels:1 day 9 hours
+Detroit Tigers:Minnesota Twins:10 hours 38 mins
+Detroit Tigers:New York Yankees:9 hours 41 mins
+Detroit Tigers:Oakland Athletics:1 day 11 hours
+Detroit Tigers:Seattle Mariners:1 day 11 hours
+Detroit Tigers:Tampa Bay Rays:17 hours 59 mins
+Detroit Tigers:Texas Rangers:18 hours 4 mins
+Detroit Tigers:Toronto Blue Jays:3 hours 47 mins
+Detroit Tigers:Arizona Diamondbacks:1 day 6 hours
+Detroit Tigers:Atlanta Braves:10 hours 58 mins
+Detroit Tigers:Chicago Cubs:4 hours 28 mins
+Detroit Tigers:Cincinnati Reds:4 hours 12 mins
+Detroit Tigers:Colorado Rockies:18 hours 26 mins
+Detroit Tigers:Los Angeles Dodgers:1 day 9 hours
+Detroit Tigers:Miami Marlins:20 hours 30 mins
+Detroit Tigers:Milwaukee Brewers:5 hours 46 mins
+Detroit Tigers:New York Mets:9 hours 53 mins
+Detroit Tigers:Philadelphia Phillies:9 hours 9 mins
+Detroit Tigers:Pittsburgh Pirates:4 hours 26 mins
+Detroit Tigers:San Diego Padres:1 day 10 hours
+Detroit Tigers:San Francisco Giants:1 day 11 hours
+Detroit Tigers:St. Louis Cardinals:8 hours 12 mins
+Detroit Tigers:Washington Nationals:8 hours 24 mins
+Houston Astros:Baltimore Orioles:21 hours 35 mins
+Houston Astros:Boston Red Sox:1 day 4 hours
+Houston Astros:Chicago White Sox:16 hours 39 mins
+Houston Astros:Cleveland Indians:20 hours 2 mins
+Houston Astros:Detroit Tigers:20 hours 4 mins
+Houston Astros:Kansas City Royals:11 hours 37 mins
+Houston Astros:Los Angeles Angels:21 hours 39 mins
+Houston Astros:Minnesota Twins:17 hours 54 mins
+Houston Astros:New York Yankees:1 day 1 hour
+Houston Astros:Oakland Athletics:1 day 3 hours
+Houston Astros:Seattle Mariners:1 day 12 hours
+Houston Astros:Tampa Bay Rays:14 hours 38 mins
+Houston Astros:Texas Rangers:3 hours 54 mins
+Houston Astros:Toronto Blue Jays:23 hours 42 mins
+Houston Astros:Arizona Diamondbacks:16 hours 36 mins
+Houston Astros:Atlanta Braves:11 hours 32 mins
+Houston Astros:Chicago Cubs:16 hours 55 mins
+Houston Astros:Cincinnati Reds:16 hours 13 mins
+Houston Astros:Colorado Rockies:16 hours 5 mins
+Houston Astros:Los Angeles Dodgers:21 hours 57 mins
+Houston Astros:Miami Marlins:17 hours 9 mins
+Houston Astros:Milwaukee Brewers:18 hours 9 mins
+Houston Astros:New York Mets:1 day 1 hour
+Houston Astros:Philadelphia Phillies:23 hours 7 mins
+Houston Astros:Pittsburgh Pirates:20 hours 47 mins
+Houston Astros:San Diego Padres:20 hours 43 mins
+Houston Astros:San Francisco Giants:1 day 4 hours
+Houston Astros:St. Louis Cardinals:12 hours 48 mins
+Houston Astros:Washington Nationals:21 hours 6 mins
+Kansas City Royals:Baltimore Orioles:16 hours 25 mins
+Kansas City Royals:Boston Red Sox:21 hours 48 mins
+Kansas City Royals:Chicago White Sox:7 hours 50 mins
+Kansas City Royals:Cleveland Indians:12 hours 3 mins
+Kansas City Royals:Detroit Tigers:11 hours 33 mins
+Kansas City Royals:Houston Astros:11 hours 39 mins
+Kansas City Royals:Los Angeles Angels:23 hours 10 mins
+Kansas City Royals:Minnesota Twins:6 hours 30 mins
+Kansas City Royals:New York Yankees:18 hours 42 mins
+Kansas City Royals:Oakland Athletics:1 day 3 hours
+Kansas City Royals:Seattle Mariners:1 day 4 hours
+Kansas City Royals:Tampa Bay Rays:18 hours 53 mins
+Kansas City Royals:Texas Rangers:8 hours 7 mins
+Kansas City Royals:Toronto Blue Jays:15 hours 8 mins
+Kansas City Royals:Arizona Diamondbacks:19 hours 10 mins
+Kansas City Royals:Atlanta Braves:11 hours 52 mins
+Kansas City Royals:Chicago Cubs:8 hours 5 mins
+Kansas City Royals:Cincinnati Reds:8 hours 48 mins
+Kansas City Royals:Colorado Rockies:8 hours 27 mins
+Kansas City Royals:Los Angeles Dodgers:23 hours 23 mins
+Kansas City Royals:Miami Marlins:21 hours 24 mins
+Kansas City Royals:Milwaukee Brewers:8 hours 27 mins
+Kansas City Royals:New York Mets:18 hours 53 mins
+Kansas City Royals:Philadelphia Phillies:17 hours 24 mins
+Kansas City Royals:Pittsburgh Pirates:12 hours 54 mins
+Kansas City Royals:San Diego Padres:1 day 0 hours
+Kansas City Royals:San Francisco Giants:1 day 3 hours
+Kansas City Royals:St. Louis Cardinals:3 hours 40 mins
+Kansas City Royals:Washington Nationals:16 hours 33 mins
+Los Angeles Angels:Baltimore Orioles:1 day 15 hours
+Los Angeles Angels:Boston Red Sox:1 day 20 hours
+Los Angeles Angels:Chicago White Sox:1 day 5 hours
+Los Angeles Angels:Cleveland Indians:1 day 10 hours
+Los Angeles Angels:Detroit Tigers:1 day 9 hours
+Los Angeles Angels:Houston Astros:21 hours 49 mins
+Los Angeles Angels:Kansas City Royals:23 hours 3 mins
+Los Angeles Angels:Minnesota Twins:1 day 4 hours
+Los Angeles Angels:New York Yankees:1 day 17 hours
+Los Angeles Angels:Oakland Athletics:5 hours 59 mins
+Los Angeles Angels:Seattle Mariners:17 hours 55 mins
+Los Angeles Angels:Tampa Bay Rays:1 day 12 hours
+Los Angeles Angels:Texas Rangers:19 hours 59 mins
+Los Angeles Angels:Toronto Blue Jays:1 day 12 hours
+Los Angeles Angels:Arizona Diamondbacks:5 hours 9 mins
+Los Angeles Angels:Atlanta Braves:1 day 8 hours
+Los Angeles Angels:Chicago Cubs:1 day 5 hours
+Los Angeles Angels:Cincinnati Reds:1 day 8 hours
+Los Angeles Angels:Colorado Rockies:14 hours 51 mins
+Los Angeles Angels:Los Angeles Dodgers:38 mins
+Los Angeles Angels:Miami Marlins:1 day 15 hours
+Los Angeles Angels:Milwaukee Brewers:1 day 6 hours
+Los Angeles Angels:New York Mets:1 day 17 hours
+Los Angeles Angels:Philadelphia Phillies:1 day 16 hours
+Los Angeles Angels:Pittsburgh Pirates:1 day 12 hours
+Los Angeles Angels:San Diego Padres:1 hour 34 mins
+Los Angeles Angels:San Francisco Giants:6 hours 18 mins
+Los Angeles Angels:St. Louis Cardinals:1 day 2 hours
+Los Angeles Angels:Washington Nationals:1 day 15 hours
+Minnesota Twins:Baltimore Orioles:17 hours 12 mins
+Minnesota Twins:Boston Red Sox:21 hours 27 mins
+Minnesota Twins:Chicago White Sox:6 hours 27 mins
+Minnesota Twins:Cleveland Indians:11 hours 35 mins
+Minnesota Twins:Detroit Tigers:10 hours 38 mins
+Minnesota Twins:Houston Astros:17 hours 56 mins
+Minnesota Twins:Kansas City Royals:6 hours 29 mins
+Minnesota Twins:Los Angeles Angels:1 day 4 hours
+Minnesota Twins:New York Yankees:18 hours 39 mins
+Minnesota Twins:Oakland Athletics:1 day 6 hours
+Minnesota Twins:Seattle Mariners:1 day 0 hours
+Minnesota Twins:Tampa Bay Rays:1 day 0 hours
+Minnesota Twins:Texas Rangers:14 hours 24 mins
+Minnesota Twins:Toronto Blue Jays:14 hours 9 mins
+Minnesota Twins:Arizona Diamondbacks:1 day 1 hour
+Minnesota Twins:Atlanta Braves:17 hours 0 mins
+Minnesota Twins:Chicago Cubs:6 hours 26 mins
+Minnesota Twins:Cincinnati Reds:10 hours 48 mins
+Minnesota Twins:Colorado Rockies:13 hours 9 mins
+Minnesota Twins:Los Angeles Dodgers:1 day 4 hours
+Minnesota Twins:Miami Marlins:1 day 3 hours
+Minnesota Twins:Milwaukee Brewers:5 hours 11 mins
+Minnesota Twins:New York Mets:18 hours 50 mins
+Minnesota Twins:Philadelphia Phillies:18 hours 6 mins
+Minnesota Twins:Pittsburgh Pirates:13 hours 23 mins
+Minnesota Twins:San Diego Padres:1 day 5 hours
+Minnesota Twins:San Francisco Giants:1 day 6 hours
+Minnesota Twins:St. Louis Cardinals:8 hours 46 mins
+Minnesota Twins:Washington Nationals:17 hours 21 mins
+New York Yankees:Baltimore Orioles:3 hours 11 mins
+New York Yankees:Boston Red Sox:3 hours 19 mins
+New York Yankees:Chicago White Sox:12 hours 13 mins
+New York Yankees:Cleveland Indians:7 hours 22 mins
+New York Yankees:Detroit Tigers:9 hours 43 mins
+New York Yankees:Houston Astros:1 day 1 hour
+New York Yankees:Kansas City Royals:18 hours 42 mins
+New York Yankees:Los Angeles Angels:1 day 17 hours
+New York Yankees:Minnesota Twins:18 hours 40 mins
+New York Yankees:Oakland Athletics:1 day 19 hours
+New York Yankees:Seattle Mariners:1 day 19 hours
+New York Yankees:Tampa Bay Rays:17 hours 51 mins
+New York Yankees:Texas Rangers:23 hours 45 mins
+New York Yankees:Toronto Blue Jays:7 hours 49 mins
+New York Yankees:Arizona Diamondbacks:1 day 13 hours
+New York Yankees:Atlanta Braves:13 hours 41 mins
+New York Yankees:Chicago Cubs:12 hours 29 mins
+New York Yankees:Cincinnati Reds:10 hours 27 mins
+New York Yankees:Colorado Rockies:1 day 3 hours
+New York Yankees:Los Angeles Dodgers:1 day 17 hours
+New York Yankees:Miami Marlins:19 hours 14 mins
+New York Yankees:Milwaukee Brewers:13 hours 48 mins
+New York Yankees:New York Mets:16 mins
+New York Yankees:Philadelphia Phillies:1 hour 47 mins
+New York Yankees:Pittsburgh Pirates:6 hours 17 mins
+New York Yankees:San Diego Padres:1 day 18 hours
+New York Yankees:San Francisco Giants:1 day 19 hours
+New York Yankees:St. Louis Cardinals:15 hours 15 mins
+New York Yankees:Washington Nationals:3 hours 49 mins
+Oakland Athletics:Baltimore Orioles:1 day 18 hours
+Oakland Athletics:Boston Red Sox:1 day 22 hours
+Oakland Athletics:Chicago White Sox:1 day 7 hours
+Oakland Athletics:Cleveland Indians:1 day 12 hours
+Oakland Athletics:Detroit Tigers:1 day 11 hours
+Oakland Athletics:Houston Astros:1 day 4 hours
+Oakland Athletics:Kansas City Royals:1 day 2 hours
+Oakland Athletics:Los Angeles Angels:6 hours 2 mins
+Oakland Athletics:Minnesota Twins:1 day 6 hours
+Oakland Athletics:New York Yankees:1 day 19 hours
+Oakland Athletics:Seattle Mariners:12 hours 37 mins
+Oakland Athletics:Tampa Bay Rays:1 day 18 hours
+Oakland Athletics:Texas Rangers:1 day 1 hour
+Oakland Athletics:Toronto Blue Jays:1 day 14 hours
+Oakland Athletics:Arizona Diamondbacks:10 hours 52 mins
+Oakland Athletics:Atlanta Braves:1 day 12 hours
+Oakland Athletics:Chicago Cubs:1 day 7 hours
+Oakland Athletics:Cincinnati Reds:1 day 11 hours
+Oakland Athletics:Colorado Rockies:18 hours 30 mins
+Oakland Athletics:Los Angeles Dodgers:5 hours 36 mins
+Oakland Athletics:Miami Marlins:1 day 21 hours
+Oakland Athletics:Milwaukee Brewers:1 day 8 hours
+Oakland Athletics:New York Mets:1 day 19 hours
+Oakland Athletics:Philadelphia Phillies:1 day 18 hours
+Oakland Athletics:Pittsburgh Pirates:1 day 14 hours
+Oakland Athletics:San Diego Padres:7 hours 28 mins
+Oakland Athletics:San Francisco Giants:25 mins
+Oakland Athletics:St. Louis Cardinals:1 day 6 hours
+Oakland Athletics:Washington Nationals:1 day 18 hours
+Seattle Mariners:Baltimore Orioles:1 day 17 hours
+Seattle Mariners:Boston Red Sox:1 day 21 hours
+Seattle Mariners:Chicago White Sox:1 day 6 hours
+Seattle Mariners:Cleveland Indians:1 day 11 hours
+Seattle Mariners:Detroit Tigers:1 day 10 hours
+Seattle Mariners:Houston Astros:1 day 11 hours
+Seattle Mariners:Kansas City Royals:1 day 4 hours
+Seattle Mariners:Los Angeles Angels:17 hours 54 mins
+Seattle Mariners:Minnesota Twins:1 day 0 hours
+Seattle Mariners:New York Yankees:1 day 18 hours
+Seattle Mariners:Oakland Athletics:12 hours 36 mins
+Seattle Mariners:Tampa Bay Rays:1 day 22 hours
+Seattle Mariners:Texas Rangers:1 day 8 hours
+Seattle Mariners:Toronto Blue Jays:1 day 14 hours
+Seattle Mariners:Arizona Diamondbacks:22 hours 3 mins
+Seattle Mariners:Atlanta Braves:1 day 15 hours
+Seattle Mariners:Chicago Cubs:1 day 6 hours
+Seattle Mariners:Cincinnati Reds:1 day 11 hours
+Seattle Mariners:Colorado Rockies:19 hours 44 mins
+Seattle Mariners:Los Angeles Dodgers:17 hours 29 mins
+Seattle Mariners:Miami Marlins:2 days 1 hour
+Seattle Mariners:Milwaukee Brewers:1 day 5 hours
+Seattle Mariners:New York Mets:1 day 19 hours
+Seattle Mariners:Philadelphia Phillies:1 day 18 hours
+Seattle Mariners:Pittsburgh Pirates:1 day 13 hours
+Seattle Mariners:San Diego Padres:19 hours 21 mins
+Seattle Mariners:San Francisco Giants:12 hours 39 mins
+Seattle Mariners:St. Louis Cardinals:1 day 7 hours
+Seattle Mariners:Washington Nationals:1 day 17 hours
+Tampa Bay Rays:Baltimore Orioles:14 hours 44 mins
+Tampa Bay Rays:Boston Red Sox:21 hours 8 mins
+Tampa Bay Rays:Chicago White Sox:17 hours 36 mins
+Tampa Bay Rays:Cleveland Indians:17 hours 7 mins
+Tampa Bay Rays:Detroit Tigers:17 hours 57 mins
+Tampa Bay Rays:Houston Astros:14 hours 32 mins
+Tampa Bay Rays:Kansas City Royals:18 hours 52 mins
+Tampa Bay Rays:Los Angeles Angels:1 day 12 hours
+Tampa Bay Rays:Minnesota Twins:23 hours 55 mins
+Tampa Bay Rays:New York Yankees:17 hours 55 mins
+Tampa Bay Rays:Oakland Athletics:1 day 18 hours
+Tampa Bay Rays:Seattle Mariners:1 day 22 hours
+Tampa Bay Rays:Texas Rangers:17 hours 9 mins
+Tampa Bay Rays:Toronto Blue Jays:21 hours 11 mins
+Tampa Bay Rays:Arizona Diamondbacks:1 day 7 hours
+Tampa Bay Rays:Atlanta Braves:7 hours 2 mins
+Tampa Bay Rays:Chicago Cubs:17 hours 52 mins
+Tampa Bay Rays:Cincinnati Reds:13 hours 53 mins
+Tampa Bay Rays:Colorado Rockies:1 day 3 hours
+Tampa Bay Rays:Los Angeles Dodgers:1 day 12 hours
+Tampa Bay Rays:Miami Marlins:3 hours 53 mins
+Tampa Bay Rays:Milwaukee Brewers:19 hours 11 mins
+Tampa Bay Rays:New York Mets:18 hours 5 mins
+Tampa Bay Rays:Philadelphia Phillies:16 hours 16 mins
+Tampa Bay Rays:Pittsburgh Pirates:16 hours 20 mins
+Tampa Bay Rays:San Diego Padres:1 day 11 hours
+Tampa Bay Rays:San Francisco Giants:1 day 18 hours
+Tampa Bay Rays:St. Louis Cardinals:15 hours 17 mins
+Tampa Bay Rays:Washington Nationals:14 hours 6 mins
+Texas Rangers:Baltimore Orioles:20 hours 41 mins
+Texas Rangers:Boston Red Sox:1 day 3 hours
+Texas Rangers:Chicago White Sox:14 hours 34 mins
+Texas Rangers:Cleveland Indians:17 hours 57 mins
+Texas Rangers:Detroit Tigers:17 hours 59 mins
+Texas Rangers:Houston Astros:3 hours 57 mins
+Texas Rangers:Kansas City Royals:8 hours 7 mins
+Texas Rangers:Los Angeles Angels:19 hours 55 mins
+Texas Rangers:Minnesota Twins:14 hours 25 mins
+Texas Rangers:New York Yankees:23 hours 48 mins
+Texas Rangers:Oakland Athletics:1 day 2 hours
+Texas Rangers:Seattle Mariners:1 day 8 hours
+Texas Rangers:Tampa Bay Rays:17 hours 14 mins
+Texas Rangers:Toronto Blue Jays:21 hours 37 mins
+Texas Rangers:Arizona Diamondbacks:14 hours 53 mins
+Texas Rangers:Atlanta Braves:11 hours 49 mins
+Texas Rangers:Chicago Cubs:14 hours 50 mins
+Texas Rangers:Cincinnati Reds:14 hours 8 mins
+Texas Rangers:Colorado Rockies:12 hours 36 mins
+Texas Rangers:Los Angeles Dodgers:20 hours 14 mins
+Texas Rangers:Miami Marlins:19 hours 45 mins
+Texas Rangers:Milwaukee Brewers:15 hours 55 mins
+Texas Rangers:New York Mets:23 hours 59 mins
+Texas Rangers:Philadelphia Phillies:22 hours 13 mins
+Texas Rangers:Pittsburgh Pirates:18 hours 42 mins
+Texas Rangers:San Diego Padres:18 hours 59 mins
+Texas Rangers:San Francisco Giants:1 day 2 hours
+Texas Rangers:St. Louis Cardinals:10 hours 12 mins
+Texas Rangers:Washington Nationals:20 hours 12 mins
+Toronto Blue Jays:Baltimore Orioles:8 hours 3 mins
+Toronto Blue Jays:Boston Red Sox:8 hours 26 mins
+Toronto Blue Jays:Chicago White Sox:7 hours 43 mins
+Toronto Blue Jays:Cleveland Indians:4 hours 43 mins
+Toronto Blue Jays:Detroit Tigers:3 hours 46 mins
+Toronto Blue Jays:Houston Astros:23 hours 41 mins
+Toronto Blue Jays:Kansas City Royals:15 hours 10 mins
+Toronto Blue Jays:Los Angeles Angels:1 day 12 hours
+Toronto Blue Jays:Minnesota Twins:14 hours 9 mins
+Toronto Blue Jays:New York Yankees:7 hours 53 mins
+Toronto Blue Jays:Oakland Athletics:1 day 15 hours
+Toronto Blue Jays:Seattle Mariners:1 day 14 hours
+Toronto Blue Jays:Tampa Bay Rays:21 hours 16 mins
+Toronto Blue Jays:Texas Rangers:21 hours 36 mins
+Toronto Blue Jays:Arizona Diamondbacks:1 day 9 hours
+Toronto Blue Jays:Atlanta Braves:14 hours 29 mins
+Toronto Blue Jays:Chicago Cubs:7 hours 59 mins
+Toronto Blue Jays:Cincinnati Reds:7 hours 43 mins
+Toronto Blue Jays:Colorado Rockies:21 hours 57 mins
+Toronto Blue Jays:Los Angeles Dodgers:1 day 13 hours
+Toronto Blue Jays:Miami Marlins:22 hours 39 mins
+Toronto Blue Jays:Milwaukee Brewers:9 hours 23 mins
+Toronto Blue Jays:New York Mets:8 hours 4 mins
+Toronto Blue Jays:Philadelphia Phillies:7 hours 56 mins
+Toronto Blue Jays:Pittsburgh Pirates:5 hours 3 mins
+Toronto Blue Jays:San Diego Padres:1 day 14 hours
+Toronto Blue Jays:San Francisco Giants:1 day 15 hours
+Toronto Blue Jays:St. Louis Cardinals:11 hours 43 mins
+Toronto Blue Jays:Washington Nationals:8 hours 41 mins
+Arizona Diamondbacks:Baltimore Orioles:1 day 11 hours
+Arizona Diamondbacks:Boston Red Sox:1 day 16 hours
+Arizona Diamondbacks:Chicago White Sox:1 day 2 hours
+Arizona Diamondbacks:Cleveland Indians:1 day 6 hours
+Arizona Diamondbacks:Detroit Tigers:1 day 6 hours
+Arizona Diamondbacks:Houston Astros:16 hours 47 mins
+Arizona Diamondbacks:Kansas City Royals:19 hours 0 mins
+Arizona Diamondbacks:Los Angeles Angels:5 hours 11 mins
+Arizona Diamondbacks:Minnesota Twins:1 day 1 hour
+Arizona Diamondbacks:New York Yankees:1 day 13 hours
+Arizona Diamondbacks:Oakland Athletics:10 hours 46 mins
+Arizona Diamondbacks:Seattle Mariners:22 hours 4 mins
+Arizona Diamondbacks:Tampa Bay Rays:1 day 7 hours
+Arizona Diamondbacks:Texas Rangers:14 hours 57 mins
+Arizona Diamondbacks:Toronto Blue Jays:1 day 9 hours
+Arizona Diamondbacks:Atlanta Braves:1 day 3 hours
+Arizona Diamondbacks:Chicago Cubs:1 day 2 hours
+Arizona Diamondbacks:Cincinnati Reds:1 day 3 hours
+Arizona Diamondbacks:Colorado Rockies:13 hours 0 mins
+Arizona Diamondbacks:Los Angeles Dodgers:5 hours 29 mins
+Arizona Diamondbacks:Miami Marlins:1 day 10 hours
+Arizona Diamondbacks:Milwaukee Brewers:1 day 3 hours
+Arizona Diamondbacks:New York Mets:1 day 13 hours
+Arizona Diamondbacks:Philadelphia Phillies:1 day 12 hours
+Arizona Diamondbacks:Pittsburgh Pirates:1 day 7 hours
+Arizona Diamondbacks:San Diego Padres:5 hours 14 mins
+Arizona Diamondbacks:San Francisco Giants:11 hours 5 mins
+Arizona Diamondbacks:St. Louis Cardinals:21 hours 40 mins
+Arizona Diamondbacks:Washington Nationals:1 day 10 hours
+Atlanta Braves:Baltimore Orioles:10 hours 34 mins
+Atlanta Braves:Boston Red Sox:16 hours 58 mins
+Atlanta Braves:Chicago White Sox:10 hours 38 mins
+Atlanta Braves:Cleveland Indians:10 hours 44 mins
+Atlanta Braves:Detroit Tigers:10 hours 59 mins
+Atlanta Braves:Houston Astros:11 hours 29 mins
+Atlanta Braves:Kansas City Royals:11 hours 54 mins
+Atlanta Braves:Los Angeles Angels:1 day 7 hours
+Atlanta Braves:Minnesota Twins:16 hours 57 mins
+Atlanta Braves:New York Yankees:13 hours 45 mins
+Atlanta Braves:Oakland Athletics:1 day 12 hours
+Atlanta Braves:Seattle Mariners:1 day 15 hours
+Atlanta Braves:Tampa Bay Rays:7 hours 6 mins
+Atlanta Braves:Texas Rangers:11 hours 45 mins
+Atlanta Braves:Toronto Blue Jays:14 hours 36 mins
+Atlanta Braves:Arizona Diamondbacks:1 day 2 hours
+Atlanta Braves:Chicago Cubs:10 hours 54 mins
+Atlanta Braves:Cincinnati Reds:6 hours 55 mins
+Atlanta Braves:Colorado Rockies:20 hours 22 mins
+Atlanta Braves:Los Angeles Dodgers:1 day 8 hours
+Atlanta Braves:Miami Marlins:9 hours 37 mins
+Atlanta Braves:Milwaukee Brewers:12 hours 13 mins
+Atlanta Braves:New York Mets:13 hours 55 mins
+Atlanta Braves:Philadelphia Phillies:12 hours 6 mins
+Atlanta Braves:Pittsburgh Pirates:10 hours 52 mins
+Atlanta Braves:San Diego Padres:1 day 7 hours
+Atlanta Braves:San Francisco Giants:1 day 13 hours
+Atlanta Braves:St. Louis Cardinals:8 hours 20 mins
+Atlanta Braves:Washington Nationals:9 hours 56 mins
+Chicago Cubs:Baltimore Orioles:11 hours 4 mins
+Chicago Cubs:Boston Red Sox:15 hours 19 mins
+Chicago Cubs:Chicago White Sox:19 mins
+Chicago Cubs:Cleveland Indians:5 hours 27 mins
+Chicago Cubs:Detroit Tigers:4 hours 30 mins
+Chicago Cubs:Houston Astros:16 hours 56 mins
+Chicago Cubs:Kansas City Royals:8 hours 1 min
+Chicago Cubs:Los Angeles Angels:1 day 5 hours
+Chicago Cubs:Minnesota Twins:6 hours 29 mins
+Chicago Cubs:New York Yankees:12 hours 31 mins
+Chicago Cubs:Oakland Athletics:1 day 7 hours
+Chicago Cubs:Seattle Mariners:1 day 6 hours
+Chicago Cubs:Tampa Bay Rays:17 hours 57 mins
+Chicago Cubs:Texas Rangers:14 hours 51 mins
+Chicago Cubs:Toronto Blue Jays:8 hours 2 mins
+Chicago Cubs:Arizona Diamondbacks:1 day 3 hours
+Chicago Cubs:Atlanta Braves:10 hours 56 mins
+Chicago Cubs:Cincinnati Reds:4 hours 44 mins
+Chicago Cubs:Colorado Rockies:14 hours 41 mins
+Chicago Cubs:Los Angeles Dodgers:1 day 5 hours
+Chicago Cubs:Miami Marlins:20 hours 28 mins
+Chicago Cubs:Milwaukee Brewers:1 hour 36 mins
+Chicago Cubs:New York Mets:12 hours 42 mins
+Chicago Cubs:Philadelphia Phillies:11 hours 58 mins
+Chicago Cubs:Pittsburgh Pirates:7 hours 15 mins
+Chicago Cubs:San Diego Padres:1 day 6 hours
+Chicago Cubs:San Francisco Giants:1 day 7 hours
+Chicago Cubs:St. Louis Cardinals:4 hours 49 mins
+Chicago Cubs:Washington Nationals:11 hours 13 mins
+Cincinnati Reds:Baltimore Orioles:8 hours 11 mins
+Cincinnati Reds:Boston Red Sox:13 hours 40 mins
+Cincinnati Reds:Chicago White Sox:4 hours 25 mins
+Cincinnati Reds:Cleveland Indians:3 hours 55 mins
+Cincinnati Reds:Detroit Tigers:4 hours 15 mins
+Cincinnati Reds:Houston Astros:16 hours 15 mins
+Cincinnati Reds:Kansas City Royals:8 hours 52 mins
+Cincinnati Reds:Los Angeles Angels:1 day 8 hours
+Cincinnati Reds:Minnesota Twins:10 hours 52 mins
+Cincinnati Reds:New York Yankees:10 hours 29 mins
+Cincinnati Reds:Oakland Athletics:1 day 11 hours
+Cincinnati Reds:Seattle Mariners:1 day 11 hours
+Cincinnati Reds:Tampa Bay Rays:13 hours 57 mins
+Cincinnati Reds:Texas Rangers:14 hours 10 mins
+Cincinnati Reds:Toronto Blue Jays:7 hours 52 mins
+Cincinnati Reds:Arizona Diamondbacks:1 day 3 hours
+Cincinnati Reds:Atlanta Braves:6 hours 56 mins
+Cincinnati Reds:Chicago Cubs:4 hours 41 mins
+Cincinnati Reds:Colorado Rockies:17 hours 20 mins
+Cincinnati Reds:Los Angeles Dodgers:1 day 8 hours
+Cincinnati Reds:Miami Marlins:16 hours 28 mins
+Cincinnati Reds:Milwaukee Brewers:6 hours 0 mins
+Cincinnati Reds:New York Mets:10 hours 40 mins
+Cincinnati Reds:Philadelphia Phillies:9 hours 11 mins
+Cincinnati Reds:Pittsburgh Pirates:4 hours 40 mins
+Cincinnati Reds:San Diego Padres:1 day 8 hours
+Cincinnati Reds:San Francisco Giants:1 day 11 hours
+Cincinnati Reds:St. Louis Cardinals:5 hours 25 mins
+Cincinnati Reds:Washington Nationals:8 hours 20 mins
+Colorado Rockies:Baltimore Orioles:1 day 1 hour
+Colorado Rockies:Boston Red Sox:1 day 5 hours
+Colorado Rockies:Chicago White Sox:14 hours 33 mins
+Colorado Rockies:Cleveland Indians:19 hours 26 mins
+Colorado Rockies:Detroit Tigers:18 hours 27 mins
+Colorado Rockies:Houston Astros:16 hours 2 mins
+Colorado Rockies:Kansas City Royals:8 hours 27 mins
+Colorado Rockies:Los Angeles Angels:14 hours 52 mins
+Colorado Rockies:Minnesota Twins:13 hours 8 mins
+Colorado Rockies:New York Yankees:1 day 2 hours
+Colorado Rockies:Oakland Athletics:18 hours 41 mins
+Colorado Rockies:Seattle Mariners:19 hours 51 mins
+Colorado Rockies:Tampa Bay Rays:1 day 3 hours
+Colorado Rockies:Texas Rangers:12 hours 27 mins
+Colorado Rockies:Toronto Blue Jays:21 hours 58 mins
+Colorado Rockies:Arizona Diamondbacks:13 hours 4 mins
+Colorado Rockies:Atlanta Braves:20 hours 15 mins
+Colorado Rockies:Chicago Cubs:14 hours 43 mins
+Colorado Rockies:Cincinnati Reds:17 hours 10 mins
+Colorado Rockies:Los Angeles Dodgers:15 hours 5 mins
+Colorado Rockies:Miami Marlins:1 day 6 hours
+Colorado Rockies:Milwaukee Brewers:15 hours 5 mins
+Colorado Rockies:New York Mets:1 day 3 hours
+Colorado Rockies:Philadelphia Phillies:1 day 2 hours
+Colorado Rockies:Pittsburgh Pirates:21 hours 14 mins
+Colorado Rockies:San Diego Padres:15 hours 56 mins
+Colorado Rockies:San Francisco Giants:18 hours 44 mins
+Colorado Rockies:St. Louis Cardinals:12 hours 2 mins
+Colorado Rockies:Washington Nationals:1 day 1 hour
+Los Angeles Dodgers:Baltimore Orioles:1 day 15 hours
+Los Angeles Dodgers:Boston Red Sox:1 day 20 hours
+Los Angeles Dodgers:Chicago White Sox:1 day 5 hours
+Los Angeles Dodgers:Cleveland Indians:1 day 10 hours
+Los Angeles Dodgers:Detroit Tigers:1 day 9 hours
+Los Angeles Dodgers:Houston Astros:22 hours 10 mins
+Los Angeles Dodgers:Kansas City Royals:23 hours 16 mins
+Los Angeles Dodgers:Los Angeles Angels:36 mins
+Los Angeles Dodgers:Minnesota Twins:1 day 4 hours
+Los Angeles Dodgers:New York Yankees:1 day 17 hours
+Los Angeles Dodgers:Oakland Athletics:5 hours 32 mins
+Los Angeles Dodgers:Seattle Mariners:17 hours 29 mins
+Los Angeles Dodgers:Tampa Bay Rays:1 day 13 hours
+Los Angeles Dodgers:Texas Rangers:20 hours 20 mins
+Los Angeles Dodgers:Toronto Blue Jays:1 day 13 hours
+Los Angeles Dodgers:Arizona Diamondbacks:5 hours 30 mins
+Los Angeles Dodgers:Atlanta Braves:1 day 8 hours
+Los Angeles Dodgers:Chicago Cubs:1 day 5 hours
+Los Angeles Dodgers:Cincinnati Reds:1 day 8 hours
+Los Angeles Dodgers:Colorado Rockies:15 hours 3 mins
+Los Angeles Dodgers:Miami Marlins:1 day 15 hours
+Los Angeles Dodgers:Milwaukee Brewers:1 day 6 hours
+Los Angeles Dodgers:New York Mets:1 day 17 hours
+Los Angeles Dodgers:Philadelphia Phillies:1 day 16 hours
+Los Angeles Dodgers:Pittsburgh Pirates:1 day 12 hours
+Los Angeles Dodgers:San Diego Padres:2 hours 3 mins
+Los Angeles Dodgers:San Francisco Giants:5 hours 52 mins
+Los Angeles Dodgers:St. Louis Cardinals:1 day 2 hours
+Los Angeles Dodgers:Washington Nationals:1 day 15 hours
+Miami Marlins:Baltimore Orioles:16 hours 12 mins
+Miami Marlins:Boston Red Sox:22 hours 36 mins
+Miami Marlins:Chicago White Sox:20 hours 9 mins
+Miami Marlins:Cleveland Indians:18 hours 36 mins
+Miami Marlins:Detroit Tigers:20 hours 29 mins
+Miami Marlins:Houston Astros:17 hours 5 mins
+Miami Marlins:Kansas City Royals:21 hours 25 mins
+Miami Marlins:Los Angeles Angels:1 day 15 hours
+Miami Marlins:Minnesota Twins:1 day 2 hours
+Miami Marlins:New York Yankees:19 hours 23 mins
+Miami Marlins:Oakland Athletics:1 day 20 hours
+Miami Marlins:Seattle Mariners:2 days 1 hour
+Miami Marlins:Tampa Bay Rays:3 hours 54 mins
+Miami Marlins:Texas Rangers:19 hours 41 mins
+Miami Marlins:Toronto Blue Jays:22 hours 39 mins
+Miami Marlins:Arizona Diamondbacks:1 day 10 hours
+Miami Marlins:Atlanta Braves:9 hours 35 mins
+Miami Marlins:Chicago Cubs:20 hours 25 mins
+Miami Marlins:Cincinnati Reds:16 hours 26 mins
+Miami Marlins:Colorado Rockies:1 day 6 hours
+Miami Marlins:Los Angeles Dodgers:1 day 15 hours
+Miami Marlins:Milwaukee Brewers:21 hours 44 mins
+Miami Marlins:New York Mets:19 hours 33 mins
+Miami Marlins:Philadelphia Phillies:17 hours 44 mins
+Miami Marlins:Pittsburgh Pirates:17 hours 49 mins
+Miami Marlins:San Diego Padres:1 day 14 hours
+Miami Marlins:San Francisco Giants:1 day 20 hours
+Miami Marlins:St. Louis Cardinals:17 hours 50 mins
+Miami Marlins:Washington Nationals:15 hours 34 mins
+Milwaukee Brewers:Baltimore Orioles:12 hours 24 mins
+Milwaukee Brewers:Boston Red Sox:16 hours 38 mins
+Milwaukee Brewers:Chicago White Sox:1 hour 38 mins
+Milwaukee Brewers:Cleveland Indians:6 hours 47 mins
+Milwaukee Brewers:Detroit Tigers:5 hours 50 mins
+Milwaukee Brewers:Houston Astros:18 hours 10 mins
+Milwaukee Brewers:Kansas City Royals:8 hours 22 mins
+Milwaukee Brewers:Los Angeles Angels:1 day 6 hours
+Milwaukee Brewers:Minnesota Twins:5 hours 11 mins
+Milwaukee Brewers:New York Yankees:13 hours 50 mins
+Milwaukee Brewers:Oakland Athletics:1 day 8 hours
+Milwaukee Brewers:Seattle Mariners:1 day 5 hours
+Milwaukee Brewers:Tampa Bay Rays:19 hours 14 mins
+Milwaukee Brewers:Texas Rangers:15 hours 59 mins
+Milwaukee Brewers:Toronto Blue Jays:9 hours 22 mins
+Milwaukee Brewers:Arizona Diamondbacks:1 day 3 hours
+Milwaukee Brewers:Atlanta Braves:12 hours 13 mins
+Milwaukee Brewers:Chicago Cubs:1 hour 37 mins
+Milwaukee Brewers:Cincinnati Reds:6 hours 1 min
+Milwaukee Brewers:Colorado Rockies:15 hours 2 mins
+Milwaukee Brewers:Los Angeles Dodgers:1 day 6 hours
+Milwaukee Brewers:Miami Marlins:21 hours 45 mins
+Milwaukee Brewers:New York Mets:14 hours 1 min
+Milwaukee Brewers:Philadelphia Phillies:13 hours 17 mins
+Milwaukee Brewers:Pittsburgh Pirates:8 hours 35 mins
+Milwaukee Brewers:San Diego Padres:1 day 7 hours
+Milwaukee Brewers:San Francisco Giants:1 day 8 hours
+Milwaukee Brewers:St. Louis Cardinals:5 hours 48 mins
+Milwaukee Brewers:Washington Nationals:12 hours 32 mins
+New York Mets:Baltimore Orioles:3 hours 21 mins
+New York Mets:Boston Red Sox:3 hours 19 mins
+New York Mets:Chicago White Sox:12 hours 25 mins
+New York Mets:Cleveland Indians:7 hours 34 mins
+New York Mets:Detroit Tigers:9 hours 54 mins
+New York Mets:Houston Astros:1 day 1 hour
+New York Mets:Kansas City Royals:18 hours 52 mins
+New York Mets:Los Angeles Angels:1 day 17 hours
+New York Mets:Minnesota Twins:18 hours 52 mins
+New York Mets:New York Yankees:14 mins
+New York Mets:Oakland Athletics:1 day 19 hours
+New York Mets:Seattle Mariners:1 day 19 hours
+New York Mets:Tampa Bay Rays:18 hours 2 mins
+New York Mets:Texas Rangers:23 hours 55 mins
+New York Mets:Toronto Blue Jays:8 hours 0 mins
+New York Mets:Arizona Diamondbacks:1 day 13 hours
+New York Mets:Atlanta Braves:13 hours 52 mins
+New York Mets:Chicago Cubs:12 hours 41 mins
+New York Mets:Cincinnati Reds:10 hours 37 mins
+New York Mets:Colorado Rockies:1 day 3 hours
+New York Mets:Los Angeles Dodgers:1 day 17 hours
+New York Mets:Miami Marlins:19 hours 25 mins
+New York Mets:Milwaukee Brewers:13 hours 59 mins
+New York Mets:Philadelphia Phillies:1 hour 58 mins
+New York Mets:Pittsburgh Pirates:6 hours 27 mins
+New York Mets:San Diego Padres:1 day 18 hours
+New York Mets:San Francisco Giants:1 day 19 hours
+New York Mets:St. Louis Cardinals:15 hours 25 mins
+New York Mets:Washington Nationals:4 hours 0 mins
+Philadelphia Phillies:Baltimore Orioles:1 hour 38 mins
+Philadelphia Phillies:Boston Red Sox:5 hours 3 mins
+Philadelphia Phillies:Chicago White Sox:11 hours 45 mins
+Philadelphia Phillies:Cleveland Indians:6 hours 54 mins
+Philadelphia Phillies:Detroit Tigers:9 hours 14 mins
+Philadelphia Phillies:Houston Astros:22 hours 58 mins
+Philadelphia Phillies:Kansas City Royals:17 hours 30 mins
+Philadelphia Phillies:Los Angeles Angels:1 day 16 hours
+Philadelphia Phillies:Minnesota Twins:18 hours 12 mins
+Philadelphia Phillies:New York Yankees:1 hour 49 mins
+Philadelphia Phillies:Oakland Athletics:1 day 19 hours
+Philadelphia Phillies:Seattle Mariners:1 day 18 hours
+Philadelphia Phillies:Tampa Bay Rays:16 hours 18 mins
+Philadelphia Phillies:Texas Rangers:22 hours 12 mins
+Philadelphia Phillies:Toronto Blue Jays:7 hours 55 mins
+Philadelphia Phillies:Arizona Diamondbacks:1 day 12 hours
+Philadelphia Phillies:Atlanta Braves:12 hours 8 mins
+Philadelphia Phillies:Chicago Cubs:12 hours 1 min
+Philadelphia Phillies:Cincinnati Reds:9 hours 15 mins
+Philadelphia Phillies:Colorado Rockies:1 day 2 hours
+Philadelphia Phillies:Los Angeles Dodgers:1 day 17 hours
+Philadelphia Phillies:Miami Marlins:17 hours 41 mins
+Philadelphia Phillies:Milwaukee Brewers:13 hours 20 mins
+Philadelphia Phillies:New York Mets:1 hour 59 mins
+Philadelphia Phillies:Pittsburgh Pirates:5 hours 5 mins
+Philadelphia Phillies:San Diego Padres:1 day 17 hours
+Philadelphia Phillies:San Francisco Giants:1 day 19 hours
+Philadelphia Phillies:St. Louis Cardinals:14 hours 3 mins
+Philadelphia Phillies:Washington Nationals:2 hours 16 mins
+Pittsburgh Pirates:Baltimore Orioles:4 hours 7 mins
+Pittsburgh Pirates:Boston Red Sox:9 hours 32 mins
+Pittsburgh Pirates:Chicago White Sox:6 hours 57 mins
+Pittsburgh Pirates:Cleveland Indians:2 hours 6 mins
+Pittsburgh Pirates:Detroit Tigers:4 hours 27 mins
+Pittsburgh Pirates:Houston Astros:20 hours 49 mins
+Pittsburgh Pirates:Kansas City Royals:12 hours 55 mins
+Pittsburgh Pirates:Los Angeles Angels:1 day 12 hours
+Pittsburgh Pirates:Minnesota Twins:13 hours 24 mins
+Pittsburgh Pirates:New York Yankees:6 hours 19 mins
+Pittsburgh Pirates:Oakland Athletics:1 day 14 hours
+Pittsburgh Pirates:Seattle Mariners:1 day 13 hours
+Pittsburgh Pirates:Tampa Bay Rays:16 hours 28 mins
+Pittsburgh Pirates:Texas Rangers:18 hours 44 mins
+Pittsburgh Pirates:Toronto Blue Jays:5 hours 4 mins
+Pittsburgh Pirates:Arizona Diamondbacks:1 day 7 hours
+Pittsburgh Pirates:Atlanta Braves:10 hours 59 mins
+Pittsburgh Pirates:Chicago Cubs:7 hours 13 mins
+Pittsburgh Pirates:Cincinnati Reds:4 hours 41 mins
+Pittsburgh Pirates:Colorado Rockies:21 hours 14 mins
+Pittsburgh Pirates:Los Angeles Dodgers:1 day 12 hours
+Pittsburgh Pirates:Miami Marlins:17 hours 51 mins
+Pittsburgh Pirates:Milwaukee Brewers:8 hours 32 mins
+Pittsburgh Pirates:New York Mets:6 hours 30 mins
+Pittsburgh Pirates:Philadelphia Phillies:5 hours 1 min
+Pittsburgh Pirates:San Diego Padres:1 day 12 hours
+Pittsburgh Pirates:San Francisco Giants:1 day 14 hours
+Pittsburgh Pirates:St. Louis Cardinals:9 hours 28 mins
+Pittsburgh Pirates:Washington Nationals:4 hours 16 mins
+San Diego Padres:Baltimore Orioles:1 day 16 hours
+San Diego Padres:Boston Red Sox:1 day 21 hours
+San Diego Padres:Chicago White Sox:1 day 6 hours
+San Diego Padres:Cleveland Indians:1 day 11 hours
+San Diego Padres:Detroit Tigers:1 day 10 hours
+San Diego Padres:Houston Astros:20 hours 54 mins
+San Diego Padres:Kansas City Royals:1 day 0 hours
+San Diego Padres:Los Angeles Angels:1 hour 32 mins
+San Diego Padres:Minnesota Twins:1 day 5 hours
+San Diego Padres:New York Yankees:1 day 18 hours
+San Diego Padres:Oakland Athletics:7 hours 24 mins
+San Diego Padres:Seattle Mariners:19 hours 20 mins
+San Diego Padres:Tampa Bay Rays:1 day 11 hours
+San Diego Padres:Texas Rangers:19 hours 4 mins
+San Diego Padres:Toronto Blue Jays:1 day 14 hours
+San Diego Padres:Arizona Diamondbacks:5 hours 16 mins
+San Diego Padres:Atlanta Braves:1 day 7 hours
+San Diego Padres:Chicago Cubs:1 day 6 hours
+San Diego Padres:Cincinnati Reds:1 day 8 hours
+San Diego Padres:Colorado Rockies:15 hours 54 mins
+San Diego Padres:Los Angeles Dodgers:2 hours 3 mins
+San Diego Padres:Miami Marlins:1 day 14 hours
+San Diego Padres:Milwaukee Brewers:1 day 7 hours
+San Diego Padres:New York Mets:1 day 18 hours
+San Diego Padres:Philadelphia Phillies:1 day 17 hours
+San Diego Padres:Pittsburgh Pirates:1 day 12 hours
+San Diego Padres:San Francisco Giants:7 hours 43 mins
+San Diego Padres:St. Louis Cardinals:1 day 3 hours
+San Diego Padres:Washington Nationals:1 day 15 hours
+San Francisco Giants:Baltimore Orioles:1 day 18 hours
+San Francisco Giants:Boston Red Sox:1 day 22 hours
+San Francisco Giants:Chicago White Sox:1 day 7 hours
+San Francisco Giants:Cleveland Indians:1 day 12 hours
+San Francisco Giants:Detroit Tigers:1 day 11 hours
+San Francisco Giants:Houston Astros:1 day 4 hours
+San Francisco Giants:Kansas City Royals:1 day 2 hours
+San Francisco Giants:Los Angeles Angels:6 hours 16 mins
+San Francisco Giants:Minnesota Twins:1 day 6 hours
+San Francisco Giants:New York Yankees:1 day 19 hours
+San Francisco Giants:Oakland Athletics:21 mins
+San Francisco Giants:Seattle Mariners:12 hours 36 mins
+San Francisco Giants:Tampa Bay Rays:1 day 18 hours
+San Francisco Giants:Texas Rangers:1 day 1 hour
+San Francisco Giants:Toronto Blue Jays:1 day 14 hours
+San Francisco Giants:Arizona Diamondbacks:11 hours 6 mins
+San Francisco Giants:Atlanta Braves:1 day 12 hours
+San Francisco Giants:Chicago Cubs:1 day 7 hours
+San Francisco Giants:Cincinnati Reds:1 day 11 hours
+San Francisco Giants:Colorado Rockies:18 hours 29 mins
+San Francisco Giants:Los Angeles Dodgers:5 hours 50 mins
+San Francisco Giants:Miami Marlins:1 day 21 hours
+San Francisco Giants:Milwaukee Brewers:1 day 8 hours
+San Francisco Giants:New York Mets:1 day 19 hours
+San Francisco Giants:Philadelphia Phillies:1 day 18 hours
+San Francisco Giants:Pittsburgh Pirates:1 day 14 hours
+San Francisco Giants:San Diego Padres:7 hours 42 mins
+San Francisco Giants:St. Louis Cardinals:1 day 6 hours
+San Francisco Giants:Washington Nationals:1 day 18 hours
+St. Louis Cardinals:Baltimore Orioles:13 hours 0 mins
+St. Louis Cardinals:Boston Red Sox:18 hours 23 mins
+St. Louis Cardinals:Chicago White Sox:4 hours 34 mins
+St. Louis Cardinals:Cleveland Indians:8 hours 38 mins
+St. Louis Cardinals:Detroit Tigers:8 hours 8 mins
+St. Louis Cardinals:Houston Astros:12 hours 49 mins
+St. Louis Cardinals:Kansas City Royals:3 hours 41 mins
+St. Louis Cardinals:Los Angeles Angels:1 day 2 hours
+St. Louis Cardinals:Minnesota Twins:8 hours 44 mins
+St. Louis Cardinals:New York Yankees:15 hours 18 mins
+St. Louis Cardinals:Oakland Athletics:1 day 6 hours
+St. Louis Cardinals:Seattle Mariners:1 day 7 hours
+St. Louis Cardinals:Tampa Bay Rays:15 hours 21 mins
+St. Louis Cardinals:Texas Rangers:10 hours 18 mins
+St. Louis Cardinals:Toronto Blue Jays:11 hours 46 mins
+St. Louis Cardinals:Arizona Diamondbacks:21 hours 51 mins
+St. Louis Cardinals:Atlanta Braves:8 hours 20 mins
+St. Louis Cardinals:Chicago Cubs:4 hours 49 mins
+St. Louis Cardinals:Cincinnati Reds:5 hours 23 mins
+St. Louis Cardinals:Colorado Rockies:12 hours 9 mins
+St. Louis Cardinals:Los Angeles Dodgers:1 day 3 hours
+St. Louis Cardinals:Miami Marlins:17 hours 52 mins
+St. Louis Cardinals:Milwaukee Brewers:5 hours 48 mins
+St. Louis Cardinals:New York Mets:15 hours 29 mins
+St. Louis Cardinals:Philadelphia Phillies:14 hours 0 mins
+St. Louis Cardinals:Pittsburgh Pirates:9 hours 29 mins
+St. Louis Cardinals:San Diego Padres:1 day 3 hours
+St. Louis Cardinals:San Francisco Giants:1 day 6 hours
+St. Louis Cardinals:Washington Nationals:13 hours 9 mins
+Washington Nationals:Baltimore Orioles:46 mins
+Washington Nationals:Boston Red Sox:7 hours 10 mins
+Washington Nationals:Chicago White Sox:10 hours 54 mins
+Washington Nationals:Cleveland Indians:6 hours 3 mins
+Washington Nationals:Detroit Tigers:8 hours 23 mins
+Washington Nationals:Houston Astros:20 hours 54 mins
+Washington Nationals:Kansas City Royals:16 hours 32 mins
+Washington Nationals:Los Angeles Angels:1 day 15 hours
+Washington Nationals:Minnesota Twins:17 hours 21 mins
+Washington Nationals:New York Yankees:3 hours 57 mins
+Washington Nationals:Oakland Athletics:1 day 18 hours
+Washington Nationals:Seattle Mariners:1 day 17 hours
+Washington Nationals:Tampa Bay Rays:14 hours 5 mins
+Washington Nationals:Texas Rangers:20 hours 8 mins
+Washington Nationals:Toronto Blue Jays:8 hours 41 mins
+Washington Nationals:Arizona Diamondbacks:1 day 10 hours
+Washington Nationals:Atlanta Braves:9 hours 55 mins
+Washington Nationals:Chicago Cubs:11 hours 10 mins
+Washington Nationals:Cincinnati Reds:8 hours 17 mins
+Washington Nationals:Colorado Rockies:1 day 1 hour
+Washington Nationals:Los Angeles Dodgers:1 day 15 hours
+Washington Nationals:Miami Marlins:15 hours 28 mins
+Washington Nationals:Milwaukee Brewers:12 hours 29 mins
+Washington Nationals:New York Mets:4 hours 7 mins
+Washington Nationals:Philadelphia Phillies:2 hours 18 mins
+Washington Nationals:Pittsburgh Pirates:4 hours 14 mins
+Washington Nationals:San Diego Padres:1 day 15 hours
+Washington Nationals:San Francisco Giants:1 day 18 hours
+Washington Nationals:St. Louis Cardinals:13 hours 5 mins

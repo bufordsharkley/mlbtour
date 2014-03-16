@@ -1,0 +1,30 @@
+Baltimore Orioles:0
+Boston Red Sox:0
+Chicago White Sox:2
+Cleveland Indians:1
+Detroit Tigers:1
+Houston Astros:3
+Kansas City Royals:2
+Los Angeles Angels:5
+Minnesota Twins:2
+New York Yankees:0
+Oakland Athletics:5
+Seattle Mariners:5
+Tampa Bay Rays:3
+Texas Rangers:3
+Toronto Blue Jays:1
+Arizona Diamondbacks:5
+Atlanta Braves:3
+Chicago Cubs:2
+Cincinnati Reds:1
+Colorado Rockies:4
+Los Angeles Dodgers:5
+Miami Marlins:3
+Milwaukee Brewers:2
+New York Mets:0
+Philadelphia Phillies:0
+Pittsburgh Pirates:1
+San Diego Padres:5
+San Francisco Giants:5
+St. Louis Cardinals:2
+Washington Nationals:0
